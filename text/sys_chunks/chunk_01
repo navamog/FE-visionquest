@@ -1,0 +1,660 @@
+0x03E9	Torch[X]
+0x03EA	Fili Shield[X]
+0x03EB	Member Card[X]
+0x03EC	Silver Card[X]
+0x03ED	Gold Gem
+0x03EE	Black Gem[X]
+0x03EF	White Gem[X]
+0x03F0	Blue Gem
+0x03F1	Red Gem[X]
+0x03F2	Gold
+0x03F4	Earth Seal
+0x03F6	Ocean Seal
+0x03F7	Harvest Ring
+0x03F8	Royal Band
+0x03F9	1 Gold
+0x03FA	5 Gold
+0x03FB	10 Gold[X]
+0x03FC	50 Gold[X]
+0x03FD	100 Gold
+0x03FE	150 Gold
+0x03FF	500 Gold
+0x0400	3,000 Gold
+0x0401	5,000 Gold
+0x0402	Juna Fruit
+0x0404	 [X]
+0x0405	 [X]
+0x0406	 [X]
+0x0407	 [X]
+0x0408	 [X]
+0x0409	 [X]
+0x040A	 [X]
+0x040C	Effective against cavalry and armor.
+0x040D	Can strike consecutively.[X]
+0x040E	Improves critical hit rate.[X]
+0x040F	Improves critical hit rate.[X]
+0x0412	Imbued with light magic.
+0x0413	Imbued with dark magic.[X]
+0x0416	The Sacred Twin storm blade. Str +5.
+0x0419	 [X]
+0x041A	 [X]
+0x041B	 [X]
+0x041C	 [X]
+0x041E	Can strike consecutively.[X]
+0x041F	Improves critical hit rate.[X]
+0x0420	Effective against cavalry.
+0x0421	Doubles as ranged attack.[X]
+0x0422	Doubles as ranged attack.[X]
+0x0424	Strong against cavalry, knights.
+0x0425	The Sacred Twin fire lance. Str +5.[X]
+0x0429	Doubles as ranged attack.[X]
+0x042A	 [X]
+0x042B	 [X]
+0x042C	 [X]
+0x042E	Can strike consecutively.[X]
+0x042F	Improves critical hit rate.[X]
+0x0432	Might injure its wielder.[X]
+0x0433	Doubles as ranged attack.[X]
+0x0434	Doubles as ranged attack.[X]
+0x0439	Strong, but difficult to wield.[X]
+0x043B	 [X]
+0x043C	 [X]
+0x043D	 [X]
+0x043F	Improves critical hit rate.[X]
+0x0442	Extended attack range.
+0x0443	Long-range weapon.
+0x0444	Super long-range weapon.
+0x0445	Improves critical hit rate.[X]
+0x0448	A stone imbued with mysterious might.[X][NL]Myrrh draws strength from it.[X]
+0x0449	DUMMY[X]
+0x044A	A malefic flash that destroys[X][NL]everything it touches.
+0x044B	A horrific blow that invites[NL]the destruction of all.[X]
+0x044C	Lulls all enemies within range[NL]into a deep slumber.
+0x044F	A foul talon meant to rend flesh.[X]
+0x0452	A sharp, piercing fang.[X]
+0x0453	A long, daggerlike fang.
+0x0454	Effective against monsters.[X]
+0x0455	Effective against monsters.[X]
+0x0457	Effective against monsters.[X]
+0x0458	 [X]
+0x0459	 [X]
+0x045A	 [X]
+0x045B	Extended attack range.
+0x045D	 [X]
+0x045F	 [X]
+0x0460	 [X]
+0x0461	 [X]
+0x0463	 [X]
+0x0465	 [X]
+0x0466	Negates enemy resistance.[X]
+0x0467	Drains enemy HP into caster.
+0x0468	Long-range dark magic.
+0x0469	 [X]
+0x046A	A Sacred Twin tome. Skill +5.[X]
+0x046C	Turns targets to stone for a while.[X]
+0x046D	 [X]
+0x046F	 [X]
+0x0470	Long-range dark magic bolt.[X]
+0x0471	Restores HP to allies in[NL]adjacent spaces.
+0x0472	Restores many HP to allies[NL]in adjacent spaces.[X]
+0x0473	Restores all HP to allies[X][NL]in adjacent spaces.[X]
+0x0474	Restores HP to allies[X][NL]at a distance.
+0x0475	Restores all HP to allies[X][NL]nearby.[X]
+0x0476	Returns allies to normal[NL]condition. (Cures sleep, etc.)
+0x0477	Halts all enemy magic[X][NL]for several turns.
+0x0478	Puts enemies to sleep for[X][NL]several turns.
+0x0479	Sends enemies into a[NL]berserker rage.[X]
+0x047B	Moves allies from distant[X][NL]spaces to adjacent ones.
+0x047C	Lights an area. The light[X][NL]grows weaker each turn.[X]
+0x047D	Restores an adjacent ally's[X][NL]weapons to new condition.[X]
+0x047E	Unlocks doors, even from[NL]a distance.[X]
+0x047F	Increases magic resistance[NL]of adjacent allies briefly.[X]
+0x0481	A dance that allows[X][NL]allies to move again.[X]
+0x0482	A song that allows[NL]allies to move again.[X]
+0x0484	Increases Mag or Str by[X][NL]2 points. Vanishes after use.[X]
+0x0485	Increases Skill by 2 points.[NL]Vanishes after use.[X]
+0x0486	Increases speed by[NL]2 points. Vanishes after use.[X]
+0x0487	Increases luck by[X][NL]2 points. Vanishes after use.[X]
+0x0488	Increases defense by[NL]2 points. Vanishes after use.[X]
+0x0489	Increases resistance by[X][NL]2 points. Vanishes after use.[X]
+0x048A	Increases movement by[X][NL]2 points. Vanishes after use.[X]
+0x048B	Increases constitution by[X][NL]2 points. Vanishes after use.[X]
+0x048C	For mercenaries, myrmidons,[X][NL]and fighters Lv. 10 and up.[X]
+0x048D	For knights and cavaliers[X][NL]Lv. 10 and up.
+0x048E	For archers[X][NL]Lv. 10 and up.
+0x048F	For pegasus knights and[X][NL]wyvern riders Lv. 10 and up.
+0x0491	Opens chests.[X]
+0x0492	Opens doors in[NL]adjacent spaces.
+0x0493	Opens doors and chests.[X][NL]Usable only by thieves.[X]
+0x0495	A powerful solution that[NL]restores all HP.
+0x0496	A draught that boosts Res.[NL]Grows weaker each turn.[X]
+0x0497	A medicinal solution that[X][NL]cures poison.[X]
+0x0498	A staff with burning pitch.[X][NL]Grows dimmer each turn.[X]
+0x0499	An amulet that protects fliers[NL]from arrows.
+0x049A	If someone with this card[X][NL]stops in a suspicious space...
+0x049B	A special card that reduces[X][NL]the cost of all items by half.
+0x049C	A valuable gemstone worth[X][NL]20,000 gold.
+0x049D	A valuable gemstone worth[X][NL]15,000 gold.
+0x049E	A valuable gemstone worth[X][NL]10,000 gold.
+0x04A0	An uncommon gemstone[NL]worth 2,500 gold.[X]
+0x04A1	Arckady's prf hatchet. Reaver.
+0x04A2	A trap that damages units[X][NL]that step on it.
+0x04A3	A device that blocks units[NL]from entering spaces.[X]
+0x04A4	A device that negates[X][NL]enemy critical attacks.[X]
+0x04A7	For use by thieves and[NL]pirates Lv. 10 and up.
+0x04AA	Give this to a worthy unit[NL]and see what happens.[X]
+0x04AC	Draco Zombie only.
+0x04AD	Manakete only.
+0x04AE	Creatures only.[X]
+0x04AF	Restores some HP.[X]
+0x04B0	Restores more HP.[X]
+0x04B1	Restores all HP.
+0x04B2	Restores HP to[NL]distant allies.[X]
+0x04B3	Restores HP to all[NL]allies in one area.[X]
+0x04B4	Restores allies to[NL]normal status.
+0x04B5	Blocks enemy magic.[X]
+0x04B6	Puts enemies to sleep.
+0x04B7	Drives enemies to[X][NL]attack wildly in a[NL]frenzy of rage.[X]
+0x04B8	Warps allies to[X][NL]other spaces.[X]
+0x04B9	Warps allies to a[X][NL]space adjacent to[X][NL]the staff wielder.
+0x04BA	Lights up an area.
+0x04BB	Restores items to[X][NL]new condition.
+0x04BC	Opens doors.
+0x04BD	Raises resistance.
+0x04BE	Restores all HP as[NL]well as allies' status.[X]
+0x04BF	Allows allies[X][NL]to move again.
+0x04C0	Allows allies[X][NL]to move again.
+0x04C1	Raises Max HP.
+0x04C2	Raises either[X][NL]strength or magic.
+0x04C3	Raises skill.[X]
+0x04C4	Raises speed.[X]
+0x04C5	Raises luck.
+0x04C6	Raises defense.[X]
+0x04C7	Raises resistance.
+0x04C8	Raises movement.
+0x04C9	Raises constitution.
+0x04CA	Use this on a worthy[NL]mercenary, fighter,[X][NL]or myrmidon.
+0x04CB	Use this on a worthy[NL]cavalier or knight.[X]
+0x04CC	Use this on a worthy[NL]archer.[X]
+0x04CD	Use this on a worthy[NL]master of a winged[NL]mount.
+0x04CE	Use this on a worthy[NL]wielder of magic[NL]power and staves.[X]
+0x04CF	Opens chests.[X]
+0x04D0	Opens doors.
+0x04D1	Universal lockpicks[X][NL]designed for thieves.[X]
+0x04D3	Restores all HP.
+0x04D4	Reduces damage[NL]from magic attacks.[X]
+0x04D5	Cures poison.[X]
+0x04D6	Lights an area.[X]
+0x04D7	Protects airborne[X][NL]units from bows.
+0x04D8	Grants access to[NL]secret shops.[X]
+0x04D9	Reduces the cost[NL]of items.[X]
+0x04DA	 [X]
+0x04DB	Units that enter[NL]spaces where these[NL]are take damage.
+0x04DC	Units cannot enter[NL]spaces where these[NL]have been placed.[X]
+0x04DD	Negates enemies'[NL]critical attacks.[X]
+0x04DE	Use this on a unit Lv.[NL]10 and up who has[X][NL]yet to change class.
+0x04E0	Use this on a worthy[NL]thief or pirate.
+0x04E1	Have Storch use this[NL]when he's ready.[X]
+0x04E2	Have Storch use this[X][NL]when he's ready.
+0x04E3	Use this, and...
+0x04E4	Dummy[X]
+0x04E5	Name
+0x04E6	Class[X]
+0x04E7	Lv
+0x04E8	Exp[X]
+0x04E9	HP
+0x04EA	Max[X]
+0x04EB	S/M[X]
+0x04EC	Skill[X]
+0x04ED	Spd[X]
+0x04EE	Luck
+0x04EF	Def[X]
+0x04F0	Res[X]
+0x04F1	Affin[X]
+0x04F2	Equip[X]
+0x04F3	Atk[X]
+0x04F4	Hit[X]
+0x04F5	Avoid[X]
+0x04F6	Move
+0x04F7	Con[X]
+0x04F8	Aid[X]
+0x04F9	Trv[X]
+0x04FA	Cond
+0x04FB	Ally
+0x04FC	Anim
+0x04FD	Sort:[X]
+0x04FE	Str[X]
+0x04FF	Mag[X]
+0x0500	Rng[X]
+0x0501	Crit
+0x0502	Wt
+0x0503	Mt
+0x0504	AS
+0x0505	Sword[X]
+0x0506	Lance[X]
+0x0507	Axe[X]
+0x0508	Bow[X]
+0x0509	Staff[X]
+0x050A	Anima[X]
+0x050B	Light[X]
+0x050C	Dark
+0x050D	Item
+0x050E	Bllsta
+0x050F	Dragon
+0x0510	Fire
+0x0511	Thunder[X]
+0x0512	Wind
+0x0513	Ice[X]
+0x0514	Poison
+0x0515	Sleep[X]
+0x0516	Silence[X]
+0x0517	Berserk[X]
+0x0518	Sick
+0x0519	Recovr
+0x051A	Petrify[X]
+0x051B	Attack
+0x051C	Defend
+0x051D	Critical
+0x051E	Dodge[X]
+0x051F	B[X]
+0x0520	W[X]
+0x0521	L[X]
+0x0523	    1[X]
+0x0524	 1[7F]2[X]
+0x0525	 1[7F]3[X]
+0x0526	    2[X]
+0x0527	 2[7F]3[X]
+0x0528	3[X][7F]10
+0x0529	3[X][7F]15
+0x052A	Total[X]
+0x052B	   [X][7F][7F]
+0x052C	[7F]
+0x052D	E[X]
+0x052E	D[X]
+0x052F	C[X]
+0x0530	B[X]
+0x0531	A[X]
+0x0532	S[X]
+0x0533	Prf[X]
+0x0534	[7F]
+0x0535	[7F][7F]
+0x0536	[7F][7F][7F]
+0x0537	[7F][7F][7F][7F]
+0x0538	[7F][7F][7F][7F][7F]
+0x0539	/[X]
+0x053A	-[X]
+0x053B	Assets
+0x053C	Time
+0x053D	Total[X]
+0x053E	Normal
+0x0540	Complete
+0x0541	Total[X]
+0x0542	Unit level. The unit becomes[NL]stronger as it gains levels.
+0x0543	Experience points gained. Gain[NL]100 points to earn a new level.[X]
+0x0544	Unit hit points. The unit loses[X][NL]consciousness if this reaches 0.
+0x0545	Weapon name and type.[X]
+0x0546	Strength. The higher the number,[NL]the more damage you inflict.
+0x0547	Magical power. Magical[NL]power is akin to strength.
+0x0548	Fighting skill. A higher[NL]number improves the unit's hit %.[X]
+0x0549	Speed. This affects both[NL]evasion and attacks.
+0x054A	Luck. This affects many[X][NL]different things.[X]
+0x054B	Defensive skill. Reduces[NL]damage from weapons.
+0x054C	Magical resistance. Reduces[X][NL]damage from magic attacks.
+0x054D	Movement. The normal distance[X][NL]you can cross in 1 turn.
+0x054E	Constitution, or physical size.[X][NL]Affects rescues.
+0x054F	Max rescuing constitution. Units[NL]with lower Cons can be rescued.[X]
+0x0550	Traveler. The name of the unit[NL]with whom this unit is traveling.[X]
+0x0551	Elemental affinity. Determines[NL]compatibility with other units.[X]
+0x0552	Normal.[X][NL]Feeling healthy.
+0x0553	Ooooog...[X][NL]Poison slowly steals HP.
+0x0554	Zzzz... Zzzzz...[NL]Sleeping now... Can't move...[X]
+0x0555	Rarrrrr! Attack the nearest[X][NL]unit, be it friend or foe!
+0x0556	......[NL]Magic and staves are unusable.
+0x0557	Craaack! Turned...to...[X][NL]stone. Can't...move!
+0x0559	Defense & resistance[NL]increased by 10.
+0x055A	Critical hit increased[NL]by 10.
+0x055C	Amount of damage this weapon[NL]causes. Affected by defenses.[X]
+0x055D	Chance that the attack will hit.[NL]Affected by terrain and enemies.
+0x055E	Weapon Range. A range of 1[NL]can only hit adjacent spaces.[X]
+0x055F	Chance the weapon will strike a[X][NL]critical blow, doing triple damage.[X]
+0x0560	Ability to dodge enemy attacks.[X][NL]Affects enemy's hit %.
+0x0561	Sword mastery level.
+0x0562	Lance mastery level.
+0x0563	Axe mastery level.
+0x0564	Bow mastery level.
+0x0565	Anima magic mastery level.
+0x0566	Light magic mastery level.
+0x0567	Dark magic mastery level.[X]
+0x0568	Staff mastery level.
+0x0569	Strengthen the bond[X][NL]between units by talking.[X]
+0x056A	The name of the unit[NL]to whom you can talk.[X]
+0x056B	Weapon or magic in use.[X]
+0x056C	Weapon or magic in use.[X][NL]Does more damage than normal.[X]
+0x056D	Wielder and weapon are well[X][NL]suited. Hit % and power increase.[X]
+0x056E	Wielder and weapon are well[X][NL]suited. Hit % and dmg increase.[X]
+0x056F	Wielder and weapon are ill[NL]suited. Hit % and power decrease.[X]
+0x0570	Wielder and weapon are ill[NL]suited. Hit % and power decrease.[X]
+0x0571	Damage this weapon will do.[X][NL]x2 = two attacks, x4 = four.
+0x0572	Attack Speed.[X][NL]Determines number of attacks.[X]
+0x0573	Defense.[NL]Decreases damage from attacks.
+0x0574	Pick Units
+0x0575	Fortune[X]
+0x0576	Items[X]
+0x0577	Support[X]
+0x0578	Check Map[X]
+0x0579	Save
+0x057A	Select which units to[X][NL]field this battle. The[NL]number is restricted.[X]
+0x057B	Manage your units'[NL]items. Item names[X][NL]that appear in gray[X][NL]cannot be used by[X][NL]that unit.
+0x057C	Manage your units' items.[X]
+0x057D	This command cannot be[NL]used at this time.
+0x057E	Valuable battle[X][NL]information can be[NL]viewed here, as well[NL]as tactician data.
+0x057F	Check the compatibility[X][NL]of your units.
+0x0580	View the map. Check[X][NL]the number and type of[NL]enemies. Also, check for[NL]shops and change your[X][NL]allies' starting positions.[X]
+0x0582	The battle will begin.[NL]You can also press[NL]START to begin.[X]
+0x0583	Choose unit[X]
+0x0584	 [X]
+0x0585	Are you sure?[X]
+0x0586	Rank
+0x0587	Tactician[X]
+0x0588	Augury
+0x0589	Augury Menu[X]
+0x058A	Tactics[X]
+0x058B	Survival
+0x058C	Funds[X]
+0x058D	Exp[X]
+0x058E	Combat
+0x058F	Objective[X]
+0x0590	View Map
+0x0591	Formation[X]
+0x0592	Options[X]
+0x0593	Debug[X]
+0x0594	Trade[X]
+0x0595	List
+0x0596	Use[X]
+0x0597	Sell
+0x0598	Supply
+0x0599	Armory
+0x059A	Give all
+0x059B	Sell?[X]
+0x059C	Sell     Quit[X]
+0x059D	Value[X]
+0x059E	Give
+0x059F	Take
+0x05A0	Stock[X]
+0x05A1	Pick
+0x05A2	Units Left
+0x05A3	Sell unwanted items.
+0x05A4	Are you sure?[X]
+0x05A5	What'll you do?[X]
+0x05A6	I'll take it.[X]
+0x05A7	Here you go!
+0x05A8	Nothing[X]
+0x05A9	Owner:
+0x05AA	Success[X]
+0x05AB	Remaining[X]
+0x05AC	x[X]
+0x05AD	Select Character
+0x05AE	%[X]
+0x05AF	Exchange items[NL]between units.
+0x05B0	Use items.
+0x05B1	Transfer items to and[X][NL]from storage.[X]
+0x05B2	Buy and sell items.[X]
+0x05B3	Display all units' items.[X]
+0x05B4	Sell your unneeded items.[X][NL]Important items cannot be sold.[X]
+0x05B5	Place all items in storage.[X]
+0x05B6	Put items in storage. Storch[X][NL]can access convoy mid-map.
+0x05B7	Receive item.[X][NL]A unit can carry up to 5 items.[X]
+0x05B8	Check your rankings for[X][NL]the battles so far.[X]
+0x05B9	Check your tactician rating[X][NL]and character data.[X]
+0x05BA	Predict elements of the[X][NL]coming battle.
+0x05BB	View maps to battle on or[X][NL]items to sell in stores.
+0x05BC	Rearrange the starting[NL]formation of your units.
+0x05BD	Set game speed and[NL]window options.[X]
+0x05BE	Save the current campaign.
+0x05BF	Begin combat.[X]
+0x05C3	Chapter 3[X]
+0x05C5	Chapter 5[X]
+0x05C6	Chapter 6[X]
+0x05C7	Chapter 7[X]
+0x05C8	Chapter 8[X]
+0x05CD	Items[X]
+0x05CE	Terrain[X]
+0x05CF	Allies
+0x05D0	Victory[X]
+0x05D1	Save
+0x05D2	World Map[X]
+0x05D3	Other[X]
+0x05D4	About: [X]
+0x05D8	Skills
+0x05DF	Banana Bread
+0x05E1	Japanese Curry
+0x05E2	Normal Status[X]
+0x05E3	Free Actions
+0x05E5	Rescue
+0x05E6	Drop
+0x05E7	Acquiring Items[X]
+0x05E8	Mahala
+0x05E9	Orebro
+0x05EA	Weapon Ranks
+0x05EB	Supply Convoy[X]
+0x05EC	Armory
+0x05ED	Shop
+0x05EE	Forests & Mountains[X]
+0x05EF	Mostyn
+0x05F1	Villages
+0x05F2	Chests
+0x05F3	Snags[X]
+0x05F4	Damaged Walls[X]
+0x05F5	Fog & Night Conditions
+0x05F6	Ballistae[X]
+0x05F7	Acquiring Items[X]
+0x05F8	Retreating from the Front Lines[X]
+0x05F9	Support Conversations[X]
+0x05FA	Support Effects[X]
+0x05FB	Recruiting Green Units
+0x05FC	Recruiting Red Units
+0x05FE	Seize a Location
+0x05FF	Defeat All
+0x0600	Defense[X]
+0x0601	Suspend[X]
+0x0602	Save
+0x0603	How to Move[X]
+0x0604	Armory & Shop[X]
+0x0605	Item Management[X]
+0x0606	Monsters
+0x0607	Preparation Screen
+0x0608	Leveling Up[X]
+0x0609	Changing Classes
+0x060A	R Button Info[X]
+0x060B	Arena[X]
+0x060C	Retreat[X]
+0x061A	There are five abnormal states[NL]a unit can enter:[X][NL]1. Sleep[NL](Asleep and unable to move)[X][NL]2. Silence[NL](Unable to use magic or staves)[X][NL]3. Poison[X][NL](Take continual damage)[X][NL]4. Berserk[NL](Attack enemies and allies alike)[X][NL]5. Petrify[NL](Turned to stone, cannot move)[NL]These conditions will continue for[NL]several turns. They can be[NL]reversed with a Restore staff.
+0x061D	Any unit can rescue a blue or[X][NL]green unit in an adjacent tile.[X][NL]However, your constitution must[X][NL]be higher than that of the unit[X][NL]you're trying to rescue.[NL]The rescuing unit suffers a[X][NL]penalty in speed and skill,[X][NL]but the rescued unit is[X][NL]protected from attacks.[X][NL]If a unit is about to lose all[NL]of its HP, use the rescue[X][NL]command to whisk it to safety.
+0x061E	You can drop a rescued unit into[NL]any adjacent tile. The dropped[NL]unit will not be able to move[X][NL]until the next turn.
+0x061F	You can purchase items at[X][NL]shops. You can also pick them[X][NL]up by visiting villagers and[NL]opening chests. Enemies[X][NL]sometimes drop items when[X][NL]they are defeated.
+0x0623	A supply convoy travels with[NL]your main character. If you[X][NL]move to a space adjacent your[X][NL]supply convoy, you can trade[NL]items with it. On the battle[NL]preparation screen, you can[X][NL]also buy and sell items at the[NL]supply convoy. The convoy can[X][NL]store up to 100 items for you.
+0x0624	Move a unit onto an armory and[NL]then choose Armory to buy[X][NL]weapons. You can also sell[NL]items you've collected here.
+0x0625	Move a unit onto a shop and[X][NL]then choose Shop to buy and[X][NL]sell items, magic tomes, and[NL]staves.[X]
+0x0626	Forests and mountains give[NL]units additional cover. When[NL]your units are in these tiles,[NL]enemy hit percentages will be[X][NL]reduced. When entering attack[X][NL]range, try to stop in one of[NL]these spaces.[X]
+0x0629	Move a unit to a village to[X][NL]speak with its villagers.[X][NL]You can gain information,[X][NL]items, and even money from[NL]villages, so visit them if[NL]you have the opportunity.[X]
+0x062A	Move units onto spaces with[X][NL]chests to open them. Chests[X][NL]are filled with all sorts of[NL]useful items. However, you'll[X][NL]need a chest key or lockpicks[X][NL]to open the chest.
+0x062B	If you see an old snag near[X][NL]a river, knock it over to[X][NL]form an impromptu bridge.[X]
+0x062C	Attack cracked walls to[X][NL]destroy them and create[X][NL]new paths.
+0x062D	Darkness and fog limit your[X][NL]field of vision, preventing[X][NL]you from seeing distant enemies.[NL]Use thieves, torches, and[X][NL]Torch staves to increase your[X][NL]field of vision.
+0x062E	These siege weapons[X][NL]fire missiles from long[X][NL]distances. Place an archer or[X][NL]sniper on them to use them.[X]
+0x062F	On your quest, you will run[X][NL]across many characters who[NL]might join your cause. Watch[NL]story hints carefully to find[X][NL]who should talk to these[NL]characters and convince them[NL]to join you.
+0x0630	Except in rare cases, if one of[X][NL]your units loses all of its HP,[X][NL]it will retreat from battle and be[NL]unable to fight again. Be careful!
+0x0631	Some units have special bonds[X][NL]between them. The longer they[X][NL]spend in adjoining spaces, the[NL]stronger that bond will grow.[X][NL]Once this bond is strong enough,[NL]the Support command will appear[X][NL]on the command menu.[NL]Select it to make the characters[NL]share a support conversation.[X]
+0x0632	If supportive units are within[NL]three spaces of each other they[X][NL]both gain special combat[NL]bonuses. There are three levels[X][NL]of support. The higher the level,[X][NL]the better the bonuses received.[NL]Support levels increase each[NL]time units share a conversation.
+0x0633	Green units are neutral. They[X][NL]may become allies if you speak[NL]to them. If you move to a space[X][NL]adjacent to a green unit, the[X][NL]Talk command may appear.[NL]Choose [93]Talk[94] to convince the[X][NL]unit to join you.[X]
+0x0634	Some enemy units will join you[NL]if you talk to them. Move a[X][NL]character you think might know[NL]that enemy unit into a space[NL]adjacent to it to see if they[X][NL]can talk.[X][NL]Be careful! Enemy units will[NL]continue to attack until you[NL]talk to them! Try not to take[X][NL]them out or be taken out before[X][NL]you have a chance to chat.
+0x0636	Move the main character onto a[NL]throne, castle gate, gate, or[X][NL]other such location and choose[NL]Seize from the command menu[X][NL]to clear the map.[X]
+0x0637	Clear the map by wiping out[X][NL]all enemy units.
+0x0638	Hold out against the enemy for[NL]a set number of turns to clear[NL]the map.
+0x0639	Choose Suspend on the command[X][NL]menu to save your game during[X][NL]a battle. The next time you[X][NL]play, choose Resume to continue[X][NL]playing where you left off.[X]
+0x063A	Choose Save from the world map[NL]to save your game data between[NL]chapters.[X]
+0x063B	Place the cursor on a space[X][NL]and press the A Button to[X][NL]move to that location.
+0x063C	Some areas on the world map[X][NL]contain stores. You can see[X][NL]where stores are located by[X][NL]placing the cursor on a location[NL]and viewing the shop icons that[X][NL]appear next to the place name.[NL]You can enter any of these[NL]stores if the main character[NL]is at that location.
+0x063D	Manage your units' items by[X][NL]placing the cursor on the[X][NL]main character and pressing[X][NL]the A Button.[X]
+0x063E	Sometimes, creatures will appear[NL]on an area you've already[X][NL]cleared. To drive off the[X][NL]monsters, move to that area[X][NL]and battle the fiends.
+0x063F	Ready your units for battle[X][NL]before entering the battlefield.[NL]Choose which units will fight,[NL]and manage the weapons and[NL]items they will use in the battle.[NL]Press START to begin combat.
+0x0640	Units gain EXP (experience[NL]points) by fighting and by using[NL]staves. They go up a level when[X][NL]they earn 100 EXP. As they go[X][NL]up in level, characters become[NL]stronger, more skilled, etc.[NL]The highest level is level 20.
+0x0641	Most units can change classes[X][NL]once they reach level 10.[X][NL]Changing classes dramatically[X][NL]improves a unit's abilities.[NL]If you're in a tough battle, be[X][NL]sure to change classes. When[NL]changing classes, you will be able[NL]to choose between 2 classes.[NL]Look at the overall party[X][NL]makeup before deciding![X]
+0x0642	If there's a command you're[X][NL]unfamiliar with, place the cursor[X][NL]over it and press the R Button.[X][NL]This will bring up a simple[X][NL]explanation of the command.[X]
+0x0643	Visit an arena, and bet your[NL]money and your life on single[X][NL]combat. Move a unit onto an[X][NL]arena and choose Arena from[X][NL]the command menu to enter.[NL]If you win a battle, you'll[X][NL]win twice what you wagered.[X][NL]If you lose, that unit will[X][NL]be gone for good.[X]
+0x0644	You can escape from battles[X][NL]in towers, in ruins, or with[NL]monsters. On the command menu,[NL]select Retreat to withdraw[NL]from combat in any of these[X][NL]locations.
+0x0645	 Unit[X]
+0x0646	 Status[X]
+0x0647	 Guide
+0x0648	 Options
+0x0649	 Save[X]
+0x064A	Route +[X]
+0x064B	Route -[X]
+0x064C	E09[X]
+0x064D	I09[X]
+0x064E	E14[X]
+0x064F	I14[X]
+0x0650	Border Mulan
+0x0651	Castle Frelia[X]
+0x0652	Ide[X]
+0x0653	Borgo Ridge[X]
+0x0654	Za'ha Woods[X]
+0x0655	Serafew[X]
+0x0656	Adlas Plains
+0x0657	Renvall[X]
+0x0658	Renvall[X]
+0x0659	Port Kiris
+0x065A	Teraz Plateau[X]
+0x065B	Caer Pelyn
+0x065C	Hamill Canyon[X]
+0x065D	Jehanna Hall
+0x065E	Fort Rigwald
+0x065F	Bethroen
+0x0660	Taizel
+0x0661	Za'albul Marsh
+0x0662	Grado Keep
+0x0663	Jehanna Hall
+0x0664	Renais Castle[X]
+0x0665	Narube River
+0x0666	Neleras Peak
+0x0667	Rausten Court[X]
+0x0668	Darkling Woods
+0x0669	Black Temple
+0x066A	Tower of Valni
+0x066B	Lagdou Ruins
+0x066C	Melkaen Coast[X]
+0x066D	[7F][7F][7F][7F][7F]
+0x066E	 Enter Armory[X]
+0x066F	 Enter Shop[X]
+0x0670	 Enter ? Shop[X]
+0x0671	 Manage Items[X]
+0x0672	Enter Armory
+0x0673	Enter Shop
+0x0674	Enter ? Shop
+0x0675	Manage Items
+0x0676	The party's next destination.[X]
+0x0677	The current number of units.
+0x0678	Manage your party's items.
+0x0679	Saving. To resume game, choose[NL]"Restart Chapter."
+0x067A	 Seize
+0x067B	 Attack[X]
+0x067C	 Staff
+0x067D	 Play[X]
+0x067E	 Dance
+0x067F	 Steal
+0x0680	 Talk[X]
+0x0681	 Support
+0x0682	 Visit
+0x0683	 Chest
+0x0684	 Door[X]
+0x0685	 Armory[X]
+0x0686	 Vendor[X]
+0x0687	 Secret[X]
+0x0688	 Arena
+0x0689	 Rescue[X]
+0x068A	 Drop[X]
+0x068B	 Take[X]
+0x068C	 Give[X]
+0x068D	 Item[X]
+0x068E	 Trade
+0x068F	 Supply[X]
+0x0690	 Status[X]
+0x0691	 Ride[X]
+0x0692	 Exit[X]
+0x0693	 Summon[X]
+0x0694	 Pick[X]
+0x0695	 Wait[X]
+0x0696	Use[X]
+0x0697	Equip[X]
+0x0698	Trade[X]
+0x0699	Discard[X]
+0x069A	 Unit[X]
+0x069B	 Options
+0x069C	 Guide
+0x069D	 Retreat
+0x069E	 Records
+0x069F	 Suspend
+0x06A0	 End
+0x06A1	 Lead[X]
+0x06A2	 Debug
+0x06A3	 M.Save[X]
+0x06A4	 Manual Save
+0x06A5	2nd[X]
+0x06A6	3rd[X]
+0x06A7	CPU[X]
+0x06A8	Human[X]
+0x06A9	Blocked[X]
+0x06AA	 Map
+0x06AB	 D.Info[X]
+0x06AC	 Weather
+0x06AD	 Fog
+0x06AE	 Clears[X]
+0x06AF	 Erased[X]
+0x06B0	 G'Night![X]
+0x06B1	Clear[X]
+0x06B2	Sand
+0x06B3	Snow
+0x06B4	Flurry
+0x06B5	Rain
+0x06B6	Night[X]
+0x06B7	Lave
+0x06B8	Clears
+0x06B9	 Erase
+0x06BA	 File?
+0x06BB	 Erased files are[X]
+0x06BC	 gone forever!
+0x06BD	     OK[X]
+0x06BE	There are no messages for[X][NL]this menu item.[X]
+0x06BF	End the turn. Be sure you're[NL]done before you select this.
+0x06C0	Attack an enemy unit.[X]
+0x06C1	Use the magic stored[NL]within a staff.[X]
+0x06C2	Perform a dance that allows[X][NL]your allies to move again.
+0x06C3	Use a ring that allows your[X][NL]allies to move again.[X]
+0x06C4	Shhh...[X][NL](Steal enemy items!)
+0x06C5	Rescue an ally from[X][NL]an adjacent space.
+0x06C6	Place a rescued ally in[X][NL]an adjacent space.
+0x06C7	Pass a rescued ally to[NL]another ally next to you.[X]
+0x06C8	Receive a rescued ally from[X][NL]another ally next to you.[X]
+0x06C9	Talk to an ally or enemy[NL]in an adjacent space.[X]
+0x06CA	Speak to an allied unit and[X][NL]strengthen the bond you share.
+0x06CB	Visit a village or a home.
+0x06CC	Seize a designated point[NL]to complete the chapter.
+0x06CD	A door.[X][NL]Use a key to open it.[X]
+0x06CE	A chest.[NL]Use a key to open it.[X]
+0x06CF	An armory.[NL]Enter to buy weapons.[X]
+0x06D0	A shop.[X][NL]Enter to buy items.[X]
+0x06D1	Congratulations! Only for[X][NL]one as lucky as you...
+0x06D2	An arena. Wager your life[X][NL]in battle for gold.[X]
+0x06D3	Use and equip items.
+0x06D4	Trade items with allies[X][NL]in adjacent spaces.[X]
+0x06D5	Adjacent units can exchange[X][NL]items with your supply convoy.
+0x06D6	Get on ballista and[X][NL]use it to attack.[X]
+0x06D7	Get off of ballista.
+0x06D8	Normal attack with a bow[NL]occurs.[X]
+0x06D9	Use the ballista to target[NL]distant enemies.
+0x06DA	Ready weapons or magic.[X][NL]Use them to counterattack.
+0x06DB	Use items.
+0x06DC	Discard items. Important[NL]items cannot be discarded.
+0x06DD	Summon a phantasm.
+0x06DE	Open doors and chests without[X][NL]using keys.[X]
+0x06DF	Display a chart of all[NL]units on the field.[X]

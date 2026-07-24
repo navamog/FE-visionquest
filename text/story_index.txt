@@ -1,0 +1,2566 @@
+0x0000	
+0x0002	 Weapon rank increased to 
+0x0149	Enemies are weak / ( - 5 autolevels). / Plays like vanilla / norma
+0x014A	Intended difficulty. / Plays more like / hard mode in / vanilla ga
+0x014B	More like lunatic. / Enemy recruits get / hard mode bonuses. / Not
+0x0160	A Forced Hand
+0x0161	Perspectives
+0x0162	Brothers
+0x0163	Port Irene
+0x0164	Law of the Land
+0x0165	To Be A Hero
+0x0166	Graveyard Shift
+0x0167	The Jailer's Malice
+0x0168	Thunder's Call
+0x0169	Burning Desire
+0x016A	Loyal To The End
+0x016B	I Never Wanted This
+0x016C	Three Months Later
+0x016D	On Stormy Seas
+0x016E	Future Sight
+0x016F	EnlightenedByDarkness
+0x0170	Of Steel And Silver
+0x0171	March on Kuching
+0x0172	No Way Out
+0x0173	Brother From Another
+0x0174	Your Head On My Mantle
+0x0175	Killer Tactics
+0x0176	Like Heck I Won't
+0x0177	Driven By Fear
+0x0178	Afraid of the Dark
+0x0179	Between the Walls
+0x017A	A Vision Realized
+0x017B	Penultimate Battle
+0x017D	Man of the People
+0x0184	Old Habits
+0x0186	The Enemy Is You
+0x0187	I Will Remember That
+0x0188	To Fly the Coop
+0x0189	The Council of Balti
+0x018A	War Comes Home
+0x018B	Pursuit of Knowledge
+0x018E	Heart of a Chief
+0x018F	Epilogue
+0x0190	Dark Past
+0x019F	Seize
+0x01A2	Defeat Gradin
+0x01A3	Arrive at the marked / tile in 10 turns
+0x01A4	Defeat Zard / and Stoise
+0x01A5	Rout enemy / in 12 turns
+0x01A6	Survive for 11 turns / or defeat Kosuke
+0x01A7	Defeat Yogya / / Protect Gazelle / 
+0x01A8	Escape at the / marked tile
+0x01A9	Defeat Festan
+0x01AA	Defeat Kitozawa
+0x01AB	Defeat Stroganoff
+0x01AC	Arrive
+0x01AD	Survive / Rout
+0x01AE	Defeat Hindrawan / in 16 turns
+0x01AF	Survive for 11 turns / or defeat Houston
+0x01B0	Survive for 8 turns / or defeat Brock
+0x01B1	Defeat Orland
+0x01B2	Save Chickens
+0x01B4	Defeat bosses
+0x01B7	Destroy
+0x01B8	Escape
+0x01B9	Destroy Supplies  / in 14 turns
+0x01BB	Escape / / Escort Prisoners
+0x01BD	Defeat Cutter
+0x01BE	Rout enemy / in 15 turns
+0x01BF	i12t/ / tli
+0x01C0	Defeat Darien
+0x0213	Esfir
+0x0214	Vagelis
+0x0215	Arckady
+0x0217	Natsuko
+0x021A	Nazar
+0x021D	Sri
+0x021E	Titus
+0x021F	Helga
+0x0223	Hollace
+0x0224	Erasmus
+0x0226	Michael
+0x0229	Hokulani
+0x022B	Mango
+0x022D	Dreyfus
+0x022F	Ketut
+0x0230	Bulan
+0x0231	Surya
+0x0232	Cajon
+0x0233	Stina
+0x0234	Anisa
+0x0237	Bromhilda
+0x0238	Cassius
+0x023A	Ghirken
+0x023B	Borst
+0x023D	Cruller
+0x0242	Brock
+0x0243	Kitozawa
+0x0244	Kosuke
+0x024A	Timm
+0x024B	Houston
+0x024E	Militia
+0x0252	Cultist
+0x025B	Zakawat
+0x025D	Obermueller
+0x0260	Zuljalal
+0x0261	Custer
+0x0266	Citizen
+0x026E	A farmer from Belaro. / Fights for his family.
+0x026F	A talented woman from / Western Nevan. Knowledgeable.
+0x0270	A hunter from Belaro. / Storch's best friend.
+0x0271	A woodcutter from Belaro. / Vagelis' cousin.
+0x0272	A young, aspiring mage. / Esfir's daughter.
+0x0273	A fresh recruit from Mahala. / Dutiful, yet sneaky. / 
+0x0275	Daughter of a famed blacksmith. / She doesn't let you forget i
+0x0276	A pirate from Freyung. / Rough, yet well-intended.
+0x0277	A priest from Nevan. Formerly / a pirate. Seeking atonement.
+0x0278	A fugitive from Kuching.  / Amicable and brazen.
+0x0279	A fugitive from Kuching.  / Snarky and loudmouthed.
+0x027A	Ambitious noble of Belaro. / A bold tactician and statesman.
+0x027C	Chief of the Rhajawali. / Brave, yet superstitious.
+0x027D	Former imperial knight of Nevan. / A free-spirited rapscallion
+0x027E	Captain of Belaro. / Loyal to her ideals.
+0x027F	Knight of Belaro. / Paranoid and death-fearing.
+0x0280	Commander in the Imperial Army. / Honorable and steadfast.
+0x0281	A monk from Mahala. / Stern and hard-working.
+0x0282	A bard from Freyung. / Timid, yet with strong resolve.
+0x0283	A swordfighter from Mahala. / Works on a merchant ship.
+0x0284	A sage from Balti in Nevan. Old / and wise, yet youthful in sp
+0x0285	Mahalan royal guard. / Serious and proud.
+0x0286	A woodcutter from Belaro. / Doesn't like small talk.
+0x0287	A pit fighter from Freyung. / Known as "Orange Scorn".
+0x0288	Rogue from Freyung. / Greedy, yet unselfish.
+0x0289	A Kuchingi soldier. / Known for her courage.
+0x028B	Kuchingi fortune teller. / She enjoys playing her role.
+0x028D	An affable noble / from Mostyn.
+0x028E	Knight of Mostyn. / Dutiful and intense.
+0x028F	Soldier from Kuching. / Focused on her technique.
+0x0291	Border guard from Lomsk. / Loves his wife and his haircut.
+0x0292	General in the Imperial Nevan / Army. Both loved and feared.
+0x0294	Man forced into banditry. / Gullible, yet confident.
+0x0295	Captain of a bandit gang. / Thinks highly of himself.
+0x0296	Seasoned seafarer with / a lust for women and coin.
+0x0297	A mysterious sorcerer. / Leader in a shadowy cult.
+0x0299	Commander of Ft. Osbar. / Respected by his soldiers.
+0x029A	Captain in Belaro's Army. / Resents the Imperial aide.
+0x029B	Noble of Nevan and Leader / of the State of Belaro.
+0x029D	A nefarious pirate known / for attacking merchant ships.
+0x029F	A dark mage of Mahala, / Sows discontent for his own gain.
+0x02A0	A Commander of a  / strike force in Nevan.
+0x02A2	Commander in Nevan's army. / Ambitious and kind of a jerk.
+0x02A3	Leader of a town guard. / Selfish and dislikes the poor.
+0x02A4	Strategist and right hand / to Lord Sjohstrom of Lomsk.
+0x02A6	The emperor of Nevan. / A conflicted man.
+0x02A8	An enigmatic wizard. / Leader in a shadowy cult.
+0x02A9	The army of Belaro, state / in the Empire of Nevan.
+0x02AA	Villagers that take up arms / to protect their homes.
+0x02AD	General of Belaro's army. / Known for her ruthlessness.
+0x02AE	Hooligans and ne'er-do-wells / that enjoy pillage and plunder.
+0x02AF	Nefarious rogues that / call the sea their home.
+0x02B1	Knight of Belaro. / Seeks Lesley's favor.
+0x02B3	A hermit from Kuching. / Formerly a swordsman.
+0x02B4	An enigmatic mercenary. / Prefers not to speak.
+0x02B6	A seasoned merchant / and sailor from Nevan.
+0x02B8	A swordsman from Kuching. / Foolish, but persistent.
+0x02B9	A mischievious and spooky ghost / summoned from another plane.
+0x02BB	A knight of Ofenloch.
+0x02BC	
+0x02BD	A citizen residing / in the Mahalan capital.
+0x02BF	Brawler
+0x02C0	Great Chief
+0x02C1	 li
+0x02C3	Lance Armor
+0x02C6	wM
+0x02CD	t it
+0x02CE	 W
+0x02D0	w li
+0x02D8	Log
+0x02DA	w 
+0x02E7	 
+0x02F2	Bow Scout
+0x02F6	Bow Fighter
+0x02F7	 M
+0x02FB	Horse
+0x0302	Baron
+0x030A	A vagabond with a penchant for / the blade. Equip: Swords.
+0x030B	Mounted warrior that leads / people. Equip: Axes, bows.
+0x030C	Superior fighters who prefer heavy / weapons. Equip: Swords, a
+0x030F	Heavily armored knights.  / Equip: Lances.
+0x0310	Knights of great skill. Equip: Swords, / lances, axes.
+0x0314	Students of the blade adept in / killing strokes. Equip: Sword
+0x0315	Lightning-fast swordsmen who / study the blade. Equip: Swords.
+0x0319	Swift horsemen adept in guerilla / tactics. Equip: Swords, bow
+0x031B	Wyvern-mounted knights of superior / skill. Equip: Axes, lance
+0x031E	
+0x0320	Holy folks that devote their / lives to faith. Equip: Light, s
+0x0324	A piece of timber to / be used by an army.
+0x032B	Armored cavalry adept in dealing / heavy blows. Equip: Lances,
+0x032E	Magic wielders with solid skills but low / physical strength. 
+0x0339	Skillful warriors dedicated  / to the spear. Equip: Lances.
+0x033E	Horseman adept in swift / combat. Equip: Bows
+0x0341	Spear masters that strike fear / in their foes. Equip: Lances
+0x0343	Well-rounded professional soldiers- / for-hire. Equip: Axes.
+0x034D	Armored warriors adept / in anima magic.
+0x034E	Armored wizards that have / mastered many magics.
+0x035B	t w
+0x0367	Slagzwaard
+0x036D	t' 
+0x0376	Steekspel
+0x037D	Moonrazer
+0x0389	Houthakker
+0x0391	Sister's Hope
+0x0396	Boogjacht
+0x0397	Mt' 
+0x039D	Sagaris
+0x039E	Toss Axe
+0x039F	w' w
+0x03A0	Main Gauche
+0x03A5	Cornhusker
+0x03A6	ti 
+0x03B5	hrm
+0x03BA	Verrine
+0x03BB	Hebzuchtig
+0x03BC	Morke
+0x03C0	Ice Sword
+0x03DB	Boots
+0x03F3	Iron Rune
+0x03F5	Kaya
+0x0403	Katzbalger
+0x040B	Mrln'  wr. r. +2  / .
+0x0410	Effective vs. armor.
+0x0411	Effective vs. wyverns.
+0x0414	Reverses weapon triangle.
+0x0415	Effective vs. cavalry.
+0x0417	Powerful sword. +5 SPD.
+0x0418	Imbued with wind magic. Eff vs. fliers.
+0x041D	ri' rf r.
+0x0423	Reverses weapon triangle.
+0x0426	Powerful lance. +5 DEF.
+0x0427	Effective vs. wyverns.
+0x0428	Effective vs. armor.
+0x042D	Effective vs. dark magic users.
+0x0430	Effective vs. cavalry.
+0x0431	Effective vs. armor.
+0x0435	Reverses weapon triangle.
+0x0436	Reverses weapon triangle. Eff vs. swords.
+0x0437	Effective vs. wyverns.
+0x0438	Powerful axe. +5 LCK.
+0x043A	A lightweight throwing axe.
+0x043E	Imbued with magic. Attacks RES.
+0x0440	Tit'  tm. r.
+0x0441	Vagelis' Prf bow. Extended attack range.
+0x0446	Powerful bow. +5 RES.
+0x0447	Esfir's Prf dagger. Brave effect.
+0x044D	Wl' rf . r w trinl.
+0x044E	ir' rf . ff . rm.
+0x0450	Thieves/Rogues only. +5 LCK
+0x0451	Can strike twice.
+0x0456	Effective vs. light magic users.
+0x045C	Long-range anima magic.
+0x045E	Powerful anima magic. +5 SPD.
+0x0462	Long-range light magic.
+0x0464	Powerful light magic. +5 DEF.
+0x046B	Powerful dark magic. +5 SKL.
+0x046E	r w tril. ff . wrn.
+0x047A	Moves allies in adjacent / spaces instantly elsewhere. (M/3)
+0x0480	Powerful staff. Heals and cures all allies.
+0x0483	Increases HP by a max of / 5 points. Vanishes after use.
+0x0490	A ring used to express / one's love for another.
+0x0494	A medicinal solution used / for healing 15 HP.
+0x049F	A rare gemstone  / worth 5,000 gold.
+0x04A5	For units Lv. 10 and up / who have not changed class.
+0x04A6	A sweet and tasty jam / that is highly coveted. / Boosts the uni
+0x04A8	Storch's promotion / item. Grants new  / class and bonuses.
+0x04A9	Titus' promotion item. / Grants new class  / and bonuses.
+0x04AB	tr'  l. ff . l & rmr
+0x04D2	Restores 15 HP.
+0x04DF	Adds +5% to / all unit's growths.
+0x0522	MP/3
+0x053F	Hard
+0x0558	Attack power is increased / by 10.
+0x055B	Dodge increased / by 10.
+0x0581	Save any changes. / Choose Restart Chapter / to restart this cha
+0x05C0	Mechanics
+0x05C1	Yaska
+0x05C2	Credits
+0x05C4	Cook Book
+0x05C9	Weapon Triangle
+0x05CA	Support Threshold
+0x05CB	Support Bonus
+0x05CC	Recipes
+0x05D5	Support Threshold
+0x05D6	Support Bonus
+0x05D7	Empire of Nevan
+0x05D9	Pandan & Friends
+0x05DA	Classes
+0x05DB	Kuching
+0x05DC	About
+0x05DD	Kaya Toast
+0x05DE	Omelette
+0x05E0	Chicken Thighs
+0x05E4	Weapon Triangle
+0x05F0	Freyung
+0x05FD	Convoy Combine
+0x060D	Supports are gained on a / chapter by chapter basis, / similar t
+0x060E	Each affinity provides the / following bonus at C level. / These
+0x060F	The empire of Nevan is the / largest nation on the continent / o
+0x0610	Player units and bosses / each get one  / personal skill. /  / Each 
+0x0611	Thank you for downloading / and playing Vision Quest! / Our thre
+0x0612	Each class has one promotion. / All classes promote using / eart
+0x0613	Kuching is a loose federation of / tribes situated to on the p
+0x0614	This section contains info on / real world recipes you can mak
+0x0615	Kaya toast is a staple of / Singaporean cuisine that / I fell in
+0x0616	This recipe is my go to when / making omelettes at home. / You c
+0x0617	I always keep bananas in / my house to eat with my / cereal or o
+0x0618	This is my go to recipe / for cooking chicken thighs / in the ov
+0x0619	When I visited Japan, I was / surprised at how few places / were
+0x061B	Talk, Support, Trade, / and Supply are  / all free actions. / This
+0x061C	The Weapon Triangle is / the same as vanilla Fire / Emblem 8. /  / W
+0x0620	Mahala is situated on the / southeastern corner of the / contine
+0x0621	Orebro is the northwestern / most country in Yaska. / It is a ho
+0x0622	Units gain weapon experience / (WEXP) for each round of combat
+0x0627	Mostyn is the westernmost / kingdom in Yaska. It is a  / heavily
+0x0628	Freyung is situated directly  / south of Nevan. / It is a poor / c
+0x0635	You can merge items together / in the convoy using the / "give a
+0x078C	Mario Golf 64 Match
+0x078E	Celica Enemy Phase 1 (FE2)
+0x0791	Precious Things (FE7)
+0x0792	The Frontier (FE6)
+0x0793	Army of Verdane (FE4)
+0x0794	Enemies Appear (FE7)
+0x079A	Victory is Ours (FE3)
+0x079B	Boss (SMB2)
+0x079C	His World
+0x079D	Wild Fields (Secret of Mana)
+0x079F	Ally Attack (FE4)
+0x07A0	Recollection of a Petal (FE7)
+0x07A1	Map Screen (Star Fox) / 
+0x07A3	Attack (FE7)
+0x07A4	Defend (FE5)
+0x07A5	At the Final Dragon (FE6)
+0x07A7	Requiem (FE7)
+0x07A8	Ricard (FE3)
+0x07AA	Fire (Game & Watch)
+0x07AB	Healing Power (Pandan)
+0x07AC	Restoring Breakfast (Pandan)
+0x07AD	Boss Door Opens (DKR)
+0x07B0	Koopa Bros Battle (Paper Mario)
+0x07B1	Beware the Forest (SMRPG)
+0x07B2	Radish Ruins (KatAM)
+0x07B5	Hardworking Mole (SMRPG)
+0x07B6	Cabbage Cavern (KatAM)
+0x07B7	For Whose Sake (FE3)
+0x07B8	Alm Map 1 (FE2)
+0x07BB	Sonic vs Shadow (SA2B)
+0x07BC	From Enemy to Friend (FE4)
+0x07BD	Coo the Owl (Kirby)
+0x07BF	Liberation (FE3)
+0x07C0	Earth God's Lyric (LoZ: WW)
+0x07C1	Wumba's Wigwam (Banjo Tooie)
+0x07C2	Jolly Roger Bay (Banjo Tooie)
+0x07C3	The Jolly Flying Man (Earthbound)
+0x07CA	Game Over (Banjo-Kazooie)
+0x07CE	Eldigan the Lionheart (FE4)
+0x07CF	Ken (Street Fighter II)
+0x07D5	Storch, People's Champion
+0x07D6	Storch felt at ease around Kusuma, / and the two would eventua
+0x07D8	Esfir briefly returned to Belaro, / but left a few months late
+0x07DA	Vagelis returned to his mother and sister. / With the gold he 
+0x07DB	Arckady, The Handsome
+0x07DC	Arckady returned to Belaro, / and with the help of his friends
+0x07DE	After returning home, she left on her journey / to help the or
+0x07DF	Natsuko, Speedwings
+0x07E0	Natsuko returned to Mahala where / she became a member of the 
+0x07E2	He left to help the orphans. / Although he matured, / he never l
+0x07E3	Larisa, Famous Daughter
+0x07E4	Larisa returned home and would / take over her father's shop. / 
+0x07E6	He coudn't bear to be away from the / sea any longer after the
+0x07E8	Onisim went to Mahala after the war. / He established a church
+0x07EA	She returned to Kuching, where she / was forgiven for her crim
+0x07EB	Sri, Lovable Drunkard
+0x07EC	Sri returned to Kuching, / but struggled to adapt after / his li
+0x07ED	Titus, Emperor of Nevan
+0x07EE	Titus became Emperor of Nevan. / While he had lost companions,
+0x07EF	Helga, Loyal To Herself
+0x07F0	Helga departed the capital, leaving her / life as a bodyguard 
+0x07F1	Waluyo, Man of the People
+0x07F2	Ketut left the church, relieved of her vows. / She married Wal
+0x07F3	Ruslan, Aimless Drifter
+0x07F4	Ruslan, having made enough gold to last / him for some time, t
+0x07F5	Zoya, Surpassing Sister
+0x07F6	She stayed by Emperor Titus' side, / and became General of the
+0x07F8	After the war, Hollace stayed on as / Imperial Knight-Captain.
+0x07FA	Erasmus stayed in Balti to assist / Emperor Titus rebuild the 
+0x07FC	Tien was particularly concerned with / the rise of the dark cu
+0x07FD	Michael, Jazz Flutist
+0x07FE	Michael returned home to Freyung, / and was met with begrudgin
+0x07FF	Naia, The Contented
+0x0800	Although she missed Augustyn, / she eventually grew content. / S
+0x0802	Vernon traveled around the continent / helping troubled youths
+0x0803	Hokulani, Forever Loyal
+0x0804	Hokulani continued in service of / Queen Akela of Mahala after
+0x0805	Freyja, Local Hero
+0x0806	Freyja went back to her village, / where she returned a hero. / 
+0x0807	Mango, The Orange Scorn
+0x0808	Mango left the army soon after the war, / saying she much pref
+0x0809	Dreyfus, Budding Merchant
+0x080A	Dreyfus returned to Freyung and leveraged / his network from h
+0x080B	Kusuma, Free Knight
+0x080C	Kusuma returned to Kuching for a time. / She supported Chief W
+0x080D	Ketut, Rebel Cleric
+0x080E	Waluyo's exploits in the war led him / to becoming a key point
+0x080F	Bulan, The Chief's Eyes
+0x0810	Bulan returned to Kuching, where / she continued to serve as a
+0x0812	Surya returned home to Kuching, / and helped Chief Waluyo in h
+0x0813	Cajon, Affable Duke
+0x0814	Cajon returned to Mostyn, to find / himself busier than ever / H
+0x0816	Stina returned to Mostyn where / she continued in service of D
+0x0817	Sigrid became Lord of Lomsk. / Despite her youth, she matured / 
+0x0818	Storch never got over Esfir's rejection. / They both returned 
+0x0819	Storch tried to forge a deeper bond / with Naia, but she rejec
+0x081A	Storch and Vagelis maintained a / strong friendship after the 
+0x081B	Despite growing closer as brothers, / Marlen left to help the 
+0x081C	Timmonen returned to Lomsk / and became Lord Sigrid's lead / str
+0x081D	Kir returned home to Lomsk after / the war, where he lived wit
+0x081E	After the war, Cassius was unconvinced / that Horvath was defe
+0x081F	Rakkaus declined a formal post / from Titus, but recognized be
+0x0820	Batari set out to heal Kuching after / the damage wrought by N
+0x0821	Menahan returned to Ofenloch and / continued his service under
+0x0822	Lori became Lord of Ofenloch, / now encompassing Horschadt / and
+0x0823	Bosco returned to his post at / Port Hilda. He became a captai
+0x0824	Selanne returned to Ofenloch, where / she stayed on as a sword
+0x0825	Cygnus decided to leave the comfort / of his forest behind. He
+0x0826	Through her father's encouragement, / Maelle struck out on her
+0x0827	Anwen returned to Orebro and was / was annointed the Divine Bi
+0x0828	Rakkaus felt a jolt of positivity / after the war, and was det
+0x0829	Osane never went back / to Belaro after the war. / She was deter
+0x082B	Onderdonk moved to Kuching / immediately after the war, / where 
+0x082C	She left knighthood after the war. / She chose instead to foll
+0x082D	Lajos returned home to the  / Osturc dwelling a hero, and hist
+0x082E	Zakawat returned to his mountain / home, where he much preferr
+0x082F	Zuljalal returned to Kuching, / where he served in Waluyo's gu
+0x0830	Radoslav wrote a book detailing / the war and his adventures. / 
+0x0831	Duck returned to his homeland, Mostyn, / where he drifted arou
+0x0832	Jae left knighthood behind, and chose / to follow her artistic
+0x0833	Gunnar quickly disappeared / after the war ended. / Something we
+0x0834	Seruni went back to Kuching, where / she continued to live on 
+0x0835	Zuzana left the army behind / after the war, not finding Emper
+0x0836	While they reconciled their friendship, / romance was out of t
+0x0837	Cashew returned home to Freyung, / but learned his sister had 
+0x0838	Otilie returned to Belaro, / where she cared for her father / un
+0x08DB	The continent of Yaska. |  / A human land that has developed / sop
+0x0903	 / Sir Horvath! / You dastardly fiend! |  / You killed my father... / 
+0x090A	 / You've made a grave / mistake coming here. |  / No matter, |  / you w
+0x0916	 / Peasant scum. Is thievery / the only way for you people? |  / You
+0x0917	 / Inferior... worthless... gah... | 
+0x0930	 / What? You gotta be kidding me! / There's ANOTHER group of  |  / b
+0x0935	 / You're stealing from us, |  / and I don't appreciate / that one b
+0x0936	 / They're taking... / what's... ours... | 
+0x093A	 /  / Huh? / A pegasus knight? Who are you? |  / I am Natsuko, a soldi
+0x093B	 / The Temple of the Moonwalker / has become a spooky place. |  / It
+0x0945	This is a message because / I don't know how to get rid of it.
+0x0956	 / More reinforcements... Drat it all! / It cannot end like this
+0x0958	 / What's keeping those lads? / We've got our own skin to save! | 
+0x0960	 / Shake in your boots! |  / Quiver in fear! / This town is as good 
+0x0961	 / You'll regret this... / I swear... | 
+0x0967	 /  / Brother! You came! |  / Marlen, are you well?  / Where are mom a
+0x0968	 /  / Larisa? Why are you out here all alone?  / Are you okay? |  / Of
+0x096B	 / So, you came back to fight the bandits? / I cannot fight, but
+0x096C	 / What are you doing here? / Bandits are not welcome! |  / Wait, yo
+0x0974	You now have the option / to embark on a sidequest. |  / Each side
+0x0990	 / So, the fine folks of Port Irene / wish to put up a fight? |  / W
+0x0992	 / Port Irene... |  / Like a wench I slept with / after a few too ma
+0x0993	 / Yo ho ho! |  / What is it here? / A bit of fight in ye? |  / Harr! |  / I
+0x0994	 / To face death... |  / Aye, 'tis sooner than I'd like, / just... t
+0x09C6	 / We cannot let them... / No... |  / All of our... work... | 
+0x09C7	 / Insolent fool! |  / You should not have / come to this forsaken p
+0x09C8	 / Blast... / Perhaps it is I |  / who deserved this cruel... | 
+0x09DC	 / My dear wife, / please forgive me... |  / Don't let our unborn / ch
+0x09DE	 / To die a soldier's death... / I have... no regrets... |  / Lord G
+0x09DF	 / You'll regret trying to / take me head on! |  / Your little reign
+0x09E0	 / Damn... / But I'm the finest... | 
+0x09EF	 / So you've come? / Ha ha ha! |  / Good! / I thirst for a good bout. | 
+0x09F0	 / My blood... |  / Tch, it was a terrible / life... anyway. | 
+0x09FF	 / What? Lord Titus is attacking us? / So the rumors were true, 
+0x0A02	 / Much like a captain and / their ship... |  / If this fort goes do
+0x0A03	 / 18 years... / 18 damn years... |  / Guess everything must / come to
+0x0A0B	 / So they want to attack the / supply depot? Dotards! |  / I was ap
+0x0A0E	 / Knaves, all of you! |  / Do you truly think you / can best me? Me
+0x0A11	 /  / Hold! |  / Are you Lord Titus? |  / Hm? |  / Yes, and who might you be
+0x0A12	 /  /  / Captain Zoya? |  / General Lesley's younger sister? |  / Have you
+0x0A20	 / Blast! Have they come / this far already? |  / I'll deal with you
+0x0A21	 / Dastards... killing me... / won't save you... |  / Your fate is..
+0x0A28	 /  / Naia, how's your sword arm? |  / After I left Belaro, |  / I came 
+0x0A34	 / Come! |  / You, who dare oppose me. / Cower before my might! |  / 
+0x0A63	 / Bandits? Again? |  / You'd think they would've / left us alone by
+0x0A71	 / You weren't part of the plan. |  / I will not let you best / the 
+0x0A72	 / Damn you, Kitozawa... / This was not... |  / Supposed to / be as it
+0x0A73	 / So... |  / You've come to face / me yourself, Lord Titus. |  / Empero
+0x0A80	 /  / Naia! |  / Don't go too far out! / It's dangerous! |  / Oh Marlen. I
+0x0A88	 / You... You're Kuchingi! |  / Why do you betray / your homeland? |  / 
+0x0A89	 / Dewi... |  / I did not expect we'd  / meet again like this. |  / Hind
+0x0A8A	 / I'll just have to / kill you bastards... |  / from the grave... | 
+0x0A97	 /  / Sage Vernon!  / How did you find us? |  / Ah, Esfir. |  / I think it
+0x0AA9	 / You cannot run! |  / Resist, and die! |  / The law of the land / will
+0x0AAB	 / No... / We will lose Lomsk... |  / The Empire... / will fall... | 
+0x0ABD	 / Hmph, / so you've made it this far... |  / No matter. |  / For I've s
+0x0ABE	 / You too choose to  / fight against me? |   / I cannot be defeated
+0x0AF0	 / Chief... / Sister... |  / I'm sorry. | 
+0x0AF1	 / ... So it goes. | 
+0x0AF6	 /  / Lady Zuzana... Are you ready? | As ready as I'll be, I suppo
+0x0AF7	 /  / Lord Titus. | Helga... What is it? | I want to apologize for m
+0x0B03	 / Perhaps it is my own / doing that wrought this. |  / But I will n
+0x0B04	 / And so it ends... |  / Festan, is this how you / felt in your fin
+0x0B1D	 / Kosuke... I know you,  / but I don't recognize you. |   / What co
+0x0B20	 / Who the hell are you / supposed to be? |  / Protecting the savage
+0x0B23	 / You're attacking me directly? |  / A bold move! / But, I'll have 
+0x0B24	 / We will not let you / cross the border! |  / Arrows will rain upo
+0x0B25	 / You're in my way. / Die. | 
+0x0B26	 / Although I may die... / my spirit will live on... |  / Fear not, 
+0x0B42	 / You savages will get  / what you deserve! | 
+0x0B43	 / This is all your / fault, savage! |  / You raided our lands, / kill
+0x0B44	 / What!? Lady Sigrid... / You live? |  / Lord Darien! |  / You will cea
+0x0B45	 / The Grand Chief himself. |  / Volunteering your own  / head for m
+0x0B47	 / You... |  / You're from the garrison!  / Are you mad? |   / You think
+0x0B48	 / No...  / Nabokov, my State... |  / Slipping through... / my fingers
+0x0B49	 / Lord Darien! |  / Why do you align / yourself to the Empire? |  / I s
+0x0B4A	 / Hm, you were tougher  / than I thought... |  / Kudos to you...  / B
+0x0B68	 / You will leave this / place at once! |  / Nabokov will not fall / t
+0x0B6B	 / Lady Zuzana?! |  / Why are you here? / Was this your assignment? | 
+0x0B6D	 / Damn... / Horvath, you swine... |  / I'll pay for my crimes / in th
+0x0B9A	 / General Bromhilda, |  / it is an honor to face / you on the field
+0x0B9B	 / My Emperor... / I've failed you... | 
+0x0BAF	 / General Bromhilda... |  / Commander Erasmus. |  / So you've decided
+0x0BB0	 / Lord Alexander! / Stand down! |  / I do not wish to / harm you! |  / Lo
+0x0BB1	 / I've made my choice. |  / Did you choose / to die? | 
+0x0BB2	 / You... You're the  / common man. |  / The one who helped / Lord Tit
+0x0BBF	 / Horvath! |  / Come back for more, Storch? / I can feel you seethi
+0x0BC1	 / Lord Titus, you are / a fool to challenge me. |  / Your conquest 
+0x0BC2	 / ... / Freedom... | 
+0x0BC3	 / To challenge me is to yearn for  / the sweet release of death
+0x0BF3	 / So, Cassius... / You've found me. |  / Horvath... / Indeed I have. | 
+0x0C23	 / Pah... / What a waste... |  / Brother... | 
+0x0C24	 / But my people... |  / It wasn't my time... yet. / Ketut... I'm...
+0x0C25	 / Storch! |  / I've been hit... / I'll be fine, |  / but only if I with
+0x0C26	 / Welp. / To heck with me, right? |  / Not yet! / Gotta live for anot
+0x0C27	 / ... Storch. I'm sorry. |  / I must withdraw. / It is unsafe for m
+0x0C28	 / Mother... I... I... |  / Lera! It's too dangerous, / you must fle
+0x0C29	 / But a soldier never / backs down... |  / Heck, I'm no soldier. / Ev
+0x0C2A	 / O goddess... / I ask that in death |  / you do not judge me / too h
+0x0C2B	 / What the heck!! / Look at all this blood... |  / Oooh I don't fee
+0x0C2D	 / Forgive me... |  / The situation was too dire... / I must retreat
+0x0C2E	 / ... I'm sorry, General... / Everyone, I must retreat. | 
+0x0C2F	 / Guess I can't... / run... forever... | 
+0x0C30	 / This... This is not fair. |  / My time has not come / yet. No ple
+0x0C31	 / Ha! You think you... / can stop... me? |  / What's all this blood
+0x0C33	 / Time to get some / shut eye... for good. | 
+0x0C35	 / Is this my blood? / I suppose... I should've |  / foreseen this..
+0x0C36	 / So this is to be the end? |  / Perhaps I am overdue / for a new b
+0x0C37	 / B-but I didn't get... / to say goodbye... | 
+0x0C38	 / Looks like I wasn't / strong enough this time... |  / I can't lea
+0x0C39	 / I may be old, |  / but I'm not done yet! / Allow me to retreat...
+0x0C3A	 / This was all part / of my duty... |  / Glory to Mahala! | 
+0x0C3B	 / Heck... | 
+0x0C3C	 / Don't stop now, / The Orange Scorn... |  / doesn't lose to anyone
+0x0C3E	 / Captain Zoya... / I was right... |  / They did murder me... |  / I'm 
+0x0C42	 / The mind's eye did / not foresee this... |  / Chief, I cannot / fig
+0x0C43	 / Ha ha! A rousing bout, |  / but perhaps we took it / a bit too se
+0x0C53	 /  / Hm? An enemy? / Be gone, foul wench! |  / An enemy? / Where? |  / Do n
+0x0C54	 /  / Zuljalal. That's your name, correct? |  / Demon! How did you c
+0x0C55	 /  /  / Hey, Vagelis. / I've been reading at night, |  / and I think I'
+0x0C56	 /  / Hey, Esfir. / How are you holding up? | I'm fine, Storch. |  / As 
+0x0C57	 /  / Storch, your swordsmanship is / really improving. |  / I'm impre
+0x0C58	 /  / Esfir. | Hello, Storch. / Are you well? | Yeah... I'm fine. |  / Esf
+0x0C59	 /  /  / Marlen! / Be careful! |  / You almost fell off Sedgar / when you 
+0x0C5A	 /  /  / Marlen, you dropped / this a few leagues back. |  / Is this a b
+0x0C5B	 /  / Brother! / Hey! Storch! | Hm? Marlen, / what is it? | I wanted to 
+0x0C5C	 /  /  / Naia, how's your / sword arm these days? |  / I remember you we
+0x0C5D	 /  /  / That was a good / stroke, Storch. |  / I can see your technique
+0x0C5E	 /  / You almost bested me / in that last round, Storch. |  / You caug
+0x0C5F	 /  / Storch. |  / Oh, hey Kusuma. / Are you well? |  / While I admit I ma
+0x0C60	  /  /  / ... So that's what happened. |  / And that's how I've / learne
+0x0C61	 /  /  / Storch, thanks for your / help in that last battle. |  / Oh, it
+0x0C62	 /  /  / Hm, so you're / Storch, right? |  / Huh? Yeah... / That's me. |  / Yo
+0x0C63	 /  /  / That stroke was rough, / you'll tire yourself out. |  / You can
+0x0C64	 /  /  / Say, Zakawat. |  / You never did tell me... / Why did you put d
+0x0C65	 /  / Storch! |  / You must be more careful / on the battlefield. |  / You
+0x0C66	 /  / Storch, nice work in that / last battle. |  / I'd say it was a..
+0x0C67	 /  / Say... Larisa? | Yes, Storch? / Are you well? | Yeah, I'm fine. | 
+0x0C68	 /  / Chief. |  / Yes, Kusuma? / Are you well? |  / As well as I can be, C
+0x0C69	 /  / Kusuma. |  / Yes, Chief? |  / I was thinking about / our previous co
+0x0C6B	 /  / Bulan, how are you holding up? / I know this has been unusua
+0x0C6C	 /  / Chief. |  / Yes, Bulan? / Is something amiss? |  / Yes, yes, I'm qui
+0x0C71	 /  / Yo, Chief! |  / How are you / holding up? |  / Surya... |  / While the o
+0x0C72	 /  / Hey, Surya. |  / Chief! / What's up? |  / You're always looking out / 
+0x0C74	 /  / Duke Cajon, my friend, / how are things in Mostyn? |  / King Ham
+0x0C75	 /  / There you are, Chief. |  / I've mulled over what you've / said n
+0x0C77	 /  / Michael, I trust you're / doing alright on the battlefield? | 
+0x0C78	 /  / Michael, I wanted to ask you. |  / Do you ever intend to go / ba
+0x0C7A	 /  / Lera! |  / What is it, mother? |  / You need to be more careful. / S
+0x0C7B	 /  / Mother, I wanted to / ask you... |  / How did you get so good / at
+0x0C7C	 /  / Lera, are you well? |  / Mother... I'm fine. |  / Really I am. / I j
+0x0C7D	 /  /  / Esfir. |  / Hm? Oh, hello Onisim.  / Do you need something? |  / Yo
+0x0C7E	 /  /  / Esfir. Please watch yourself. |   / That enemy almost felled 
+0x0C7F	 /  /  / Onisim.  / Do you have a moment? |  / Hm? Esfir?  / Of course, is
+0x0C80	 /  / Natsuko, how are you faring? |  / It's been a minute since you
+0x0C81	 /  / Natsuko! Watch out! / You almost plowed me over! |  / Oops! Sorr
+0x0C82	 /  / Natsuko. |  / Ah! Esfir! / I didn't see you there. |  / I thought yo
+0x0C83	 /  / Esfir, tell me, how have you fared / since your move to Rask
+0x0C84	 /  /  / Tell me, Sage Vernon.. / Do you have any children of your o
+0x0C85	 /  / Esfir... are you well? |  / Yes, Sage Vernon. / Thank you for as
+0x0C86	 /  / Oy! Vagelis! / You ape of a man! |  / That last arrow almost hit
+0x0C87	 /  / Cousin, duck now! |  / What!? Woah! |  /  / Wide left. |  /  / Hey! / You al
+0x0C88	 /  / Cousin! / You best look out right now! |  / Else you wanna end u
+0x0C89	 /  / My, Larisa, watch yourself! |  / Wearing all that armor's goin
+0x0C8A	 /  / Ah, Larisa. |  / Just who I wanted to see. / I had a question fo
+0x0C8B	 /  / Say, Larisa... Do you have / a moment to speak? |  / For you, Ar
+0x0C8C	 /  / Oof! Sorry, excuse me. / Didn't mean to walk right into you.
+0x0C8D	 /  / Say, Onisim... I had a question for you. |  / Mm? Hello, Micha
+0x0C8E	 /  / Hey, Onisim... / I think I'm ready. |  / Hello Michael. Well, I 
+0x0C8F	 /  / Say there, Natsuko! / How are you faring? |  / Enjoying your tra
+0x0C90	 /  / Ah, Natsuko! / Just who I was hoping to see. |  / My dear compan
+0x0C91	 / Look at me over here, / just minding my own business. |  / Ain't 
+0x0C92	 /  / Ah, you're a new face! / I'm Arckady, nice to meet you. |  / Oh,
+0x0C93	 /  / Ah, Osane, how are you today? |  / Hey, Arckady. / Doing fine, t
+0x0C94	 /  / Oh, hey there, Arckady. / I wanted to ask you a math questio
+0x0C95	 /  / Ah, Otilie! Just the lovely / woman I was hoping to encounte
+0x0C96	 /  / Say, Otilie. / I wanted to ask you something. |  / Yeep! |  / Arckad
+0x0C97	 /  / Otilie, there you are. / Have you been avoiding me? |  / Oh, hel
+0x0C98	 /  / Fine weather we're having / today, eh Arckady? |  / Finer now th
+0x0C99	 /  / Say, Honeydew! |  / Just the pal I wanted to run into. / How are
+0x0C9A	 /  /   / Alright, Arckady, / you ready for this? |  / Bring it on! |  / I k
+0x0C9B	 /  / Freyja, the companion I hold / near and dear! |  / How are you f
+0x0C9C	 /  / Ah, Freyja. |  / I had a question to ask of you. / That axe you 
+0x0C9D	 /  / Here. |  / Huh? / Hey, that's my spare hatchet! |  / You dropped it.
+0x0C9E	 /  / ... Hey. |  / Hm? May I help you? |  / You have a good shot. |  / ... 
+0x0C9F	 /  / Hey... Your technique. / It needs improvement. |  / ... Hm? |  / I s
+0x0CA0	 /  / Hey. I didn't get / your name last time. |  / I wanted to thank 
+0x0CA1	 /  / Vagelis, I never did properly / thank you for the food the o
+0x0CA2	 /  / Tien. |  / Hm? Oh, hello, Vagelis. / What is on your mind? |  / A lo
+0x0CA3	 /  / Vagelis, are you well? |  / Hello, Tien. / Yes I am fine. |  / Glad 
+0x0CA4	 /  / ... |  / ... |  / ... May I help you? |  / No. |  / Then why are you / stari
+0x0CA5	 /  / Hm? You again? |  / Hm. So much for a hello. / I wanted to give 
+0x0CA6	 /  / Vagelis, was it? |  / Hello. That is who I am. / And what is you
+0x0CA7	 /  / Lera, watch out! |  / Hm? Ah! Marlen! |  / Woah, Sedgar! / Simmer do
+0x0CA8	 /  / Marlen! |  / Doesn't Sedgar look great? / He's so pretty now! |  / I
+0x0CA9	 /  / Here it is Marlen! |  / I made some stewed vegetables. / I got s
+0x0CAA	 /  / Sage Vernon! |  / Now that you're traveling with us, / could we 
+0x0CAB	 /  / Lera, how did you feel about / our lesson the other day? |  / We
+0x0CAC	 /  / Lera, I wanted to apologize / for taking so long to procure | 
+0x0CAD	 /  / Oy! Hey there, Lera. |  / That's a mighty nice green you're / we
+0x0CAE	 /  / ... So you take the potatoes, / and you cut 'em up like this
+0x0CAF	 /  / Hey, Honeydew... |  / I know we never got to make / that stew th
+0x0CB0	 /  / Hey! Lord Titus! |  / Hm? Oh, hello Lera. / How do you fare? |  / Oh
+0x0CB1	 /  /  / Hey! Lord Titus! |  / Ah, Lera. |  / How goes it? |  / I've been thin
+0x0CB2	 /  / Hello, Lera. |  / Oh... hey, Lord Titus. / How are you, um, milo
+0x0CB3	 /  / ... You there, Mahalan rider. |  / Hm? / Yes? |  / You are quite swi
+0x0CB4	 /  / Say... I wanted to / thank you for the advice. |  / I've tried t
+0x0CB5	 /  / Lajos! Look out! |  / Hm? Ah! |  / Nice dodge! / We should be safe n
+0x0CB6	 /  / Hey, your armor... |  / Are you one of  / the royal knights? |  / Ye
+0x0CB7	 /  / Natsuko. |  / Oh, hey Naia. / How are you doing? |  / I noticed you 
+0x0CB8	 /  /  / Naia. |  / ... Natsuko. |  / You've been avoiding me. |  / And you've
+0x0CB9	 /  / Natsuko! |  / Watch that form, / you're slouching. |  / Yes, Captain
+0x0CBA	 /  / Natsuko! |  / ... Yes, Captain. |  / Your bootlace has come / undone
+0x0CBB	 /  / Natsuko. |  / Yes, Captain. |  / Please. Call me Hokulani. |  / Hm? |  / I
+0x0CBC	 /  / You there, young pegasus rider! / You are of Mahala, are you
+0x0CBD	 /  / Ah, Natsuko! Just who / I was looking for. |  / Oh, hello, Batar
+0x0CBE	 /  / Batari, hey! / What are you scribbling? |  / Oh, hello Natsuko. | 
+0x0CBF	 /  / Otilie, you mustn't rush off / on your own like that! |  / I wea
+0x0CC0	 /  / Otilie, there you are. |  / Oh, hey Larisa. |  / I picked these up
+0x0CC1	 /  / Otilie. |  / ... Hey. |  / I wanted to apologize for / my behavior t
+0x0CC2	 /  / Larisa, are you well? |  / Yes, Naia. Quite well. |  / A woman suc
+0x0CC3	 /  / Naia, I have something to / ask of you. |  / Hello, Larisa. |  / The
+0x0CC4	 /  / Naia. |  / Hello, Larisa. |  / It's been a few days since / I've see
+0x0CC5	 /  / Ho! |  / What are you doing out / of position here? |  / I damn near
+0x0CC6	 /  / Ah, Stina! |  / I heard the thundering gallop of your / steed an
+0x0CC7	 /  / Larisa! Your legs are quivering! |  / You look like you're dam
+0x0CC8	 /  / Hey there, Sri! |  / Hm? Marlen? / In case you hadn't noticed, |  / 
+0x0CC9	 /  / Hey Sri! |  / Marlen? |  / What did I tell you about / coming 'round
+0x0CCA	 /  / Marlen! |  / Get a look at this new do. / I had Dewi help me out
+0x0CCC	 /  / Hey Duck! |  / Hello there, Marlen. / You hanging alright? |  / Hang
+0x0CCD	 /  / ... So, when you're looking at horses / to breed with your o
+0x0CCE	 /  / Sage Vernon! |  / Ah, young Marlen. / How are you faring? |  / Just 
+0x0CCF	 /  / Alright, Sage Vernon, / are you ready? |  / Ah, is now an optima
+0x0CD0	 /  / Hey Sage Vernon, what did / you think of that strategy the o
+0x0CD1	 /  / Oy! Oni! |  / Hm? Hello, Nazar. / Are you well? |  / "Are ye well?" | 
+0x0CD2	 /  / "And so, the sailor stared out / to the endless ocean. |  / Ther
+0x0CD3	 /  / "And so... the sailor, / in his dying b-breath |  / asked 'was m
+0x0CD4	 /  / Dewi is that... a kitten? |  / Oh! Onisim! / Why yes, it is a ki
+0x0CD5	 /  / Dewi, where is your kitten? |  / He's fine, Onisim. / I left him
+0x0CD6	 /  / Dewi, I found your cat. |  / What?! He got out? |  / As we were le
+0x0CD7	 /  / You there, you're a / priest, are you not? |  / A fledgling man 
+0x0CD8	 /  / Tien, are you well? / Your arm... it is wounded. |  / I was stuc
+0x0CD9	 /  / Onisim. |  / Hm? Tien? / Are you well? |  / Quite fine, thank you. |  / 
+0x0CDA	 /  / Oy! Sri! / What is that you got there? |  / Hm? Ah, it's nothing
+0x0CDB	 /  / Nazar! What are you doing? |  / You're stumbling about like a 
+0x0CDC	 /  / Sri. |  / ... Nazar. |  / Like a woman I once offended, / you're avo
+0x0CDD	 /  / Ruslan! |  / Hi there, Nazar. / What's going on? |  / Your wyvern...
+0x0CDE	 /  / Say, Nazar, I had a thought. |  / Hm? What's that? |  / Papillion 
+0x0CDF	 /  / Hey there, Nazar. |  / Ruslan! Argh, don't approach / me so clos
+0x0CE0	 /  / Yo, Nazar! |  / Don't think I forgot about / that deal we made! | 
+0x0CE1	 /  / Yo, Nazar! Next town, the deal is sealed! |  / Aye, Dreyfus. Y
+0x0CE2	 /  / Dreyfus! Don't leave me hangin' here! / What happened next? | 
+0x0CE3	 /  / Hey! I think I've seen you before. / Your name's Nazar, isn'
+0x0CE4	 /  / Pant... pant... / So, you wanna call that one a draw? |  / Hah, 
+0x0CE5	 /  / So, Nazar, it's been a while / since we last sparred. |  / You'v
+0x0CE6	 /  / Sri! There you are. / You look so sullen. |  / Something eating 
+0x0CE7	 /  / Sri, I wanted to apologize... |  / I'm sorry I was so direct e
+0x0CE8	 /  / There you are, Dewi. |  / ... Hello. |  / Listen.. I wanted to apo
+0x0CE9	 /  / Ruslan, you're bleeding! / You need to be more careful! | Oh? 
+0x0CEA	 /  / Hm, see, that's the story / about the war I heard. |  / What do 
+0x0CEB	 /  / Ruslan, I'm curious, why did  / you want to learn about Kuch
+0x0CEC	 /  / Ah, Dewi. How are / you faring? |  / Lord Titus? Oh, I'm fine. |  / 
+0x0CED	 /  / Ah, Dewi! There you are. / I've been looking for you. |  / You h
+0x0CEE	 /  / And that, Dewi, is how I / learned to wield magics. |  / Quite a
+0x0CEF	 /  / Hey, you're Kuchingi! |  / Hm? So are you? / What does it matter
+0x0CF0	 /  / Hey, wait, I never got your name last time. |  / Hm? Oh, hello
+0x0CF1	 /  / Hey, Dewi. |  / Oh, hello, Surya. / Can I help you with somethin
+0x0CF2	 /  /  / You there! |  / Hm? A Kuchingi valkyrie... |  / Ah, so it is as I
+0x0CF3	 /  / Ah, Dewi, there you are. / I have a question for you. |  / Hm? Y
+0x0CF4	 /  / Dewi... I wanted to apologize. |  / ... Oh, hey. / About what? |  / 
+0x0CF5	 /  / Sri, how did you learn to use a bow? |  / Hm? Why do you ask, 
+0x0CF6	 /  / So you hold it like this... / and then you draw it like that
+0x0CF7	 /  / Hey, Sri, I wanted to ask you... / How have you found being 
+0x0CF8	 /  / Hey! Watch where you're / shooting, pal! I almost got stuck!
+0x0CF9	 /  / ... |  / ... Oh, hey. It's you. |  / Your form could use / some work
+0x0CFA	 /  / Sri! Watch yourself! |  / Huh? Woah! An arrow! |  / That could've 
+0x0CFB	 /  / Hey, rider!  / Watch out! |  / Huh? What? |  / Ugh!  / Thanks for the 
+0x0CFC	 /  / Hey, Sri! | Ah, it's you. |  / The sober, shirtless, / bootlicker 
+0x0CFD	 /  / Surya. | Hello, Sri. / Are you well? | I should be asking you. | H
+0x0CFE	 /  / Hey, Gunnar, right? |  / I never had a chance to thank / you for
+0x0CFF	 /  / Good swing, Gunnar. / That's the way. |  / ... Thanks. |  / If you'r
+0x0D00	 /  / Gunnar! |  / You should stay in formation. / They'll pierce our 
+0x0D01	 /  / Hey... you look familiar. / What's your name, pal? |  / ... Gunn
+0x0D02	 /  / Say, Gunnar. I was thinking. / You're from Orebro, right? |  / .
+0x0D03	 /  / Duck. |  / Ah, Gunnar. / Is everything alright? |  / My past... if y
+0x0D04	 /  / You... Enemy! |  / Excuse me? / Woah! |  / Please, stay your blade! / 
+0x0D05	 /  / Ah, excuse me. / I did not catch your name. |  / It is common pr
+0x0D06	 /  / Ah, Gunnar. / There you are. |  / ... I do not want / to speak wit
+0x0D07	 /  / ... You! |  / Hm? |  / Go... get out of here. |  / Gunnar... / What did 
+0x0D08	 /  / ... |  / ... |  / Gunnar, before you shoo me off, / please... allow 
+0x0D09	 /  /   / Gunnar, here. I want you / to see this document. |  / ... I do
+0x0D0A	 /  / Brother, how are you / adapting to all of this? |  / I know you 
+0x0D0B	 /  / Sister, I implore you to stay / a bit closer to our line. |  / I
+0x0D0C	 /  / Osane. |  / Yes, Bosco? |  / I need to talk to you. |  / About? |  / ... M
+0x0D0D	 /  / Hey there, I'm Osane. |  / Oh, hey. / I'm Otilie. |  / Otilie? |  / Not 
+0x0D0E	 /  / Hey, Otilie! / What are you eating? |  / This? / I mean- |  / What foo
+0x0D0F	 /  / Otilie, I got you something. |  / What is it, Osane? |  / It's one
+0x0D10	 /  / Hey, Naia. |  / I was wondering if you / could tell me something
+0x0D11	 /  / ... Another cookie? |  / Osane, I can't eat nine cookies / each 
+0x0D12	 /  / Hey, Naia. / There you are. |  / Oh, hello, Osane. |  / You know, it
+0x0D13	 /  / Woah, a girl! / Umm... Hey! |  / Hello. I have a name. / You can a
+0x0D14	 /  / Hey! Cashew! |  / Oh! H-hey, Osane. / How are you doing? |  / I'm do
+0x0D15	 /  / Osane. Um. Hey. |  / Oh, hey there, Cashew. / How are you? |  / I'm 
+0x0D16	 /  / Hey! I see you're quite / skilled in dark magics. |  / Hm? Dark 
+0x0D17	 /  /  / ... And it was in the year 437, |  / when leadership of  / The 
+0x0D18	 /  / Hey, Radoslav. |  / Ah, Osane, my star pupil! |  / How are you far
+0x0D19	 /  / Good shot, Lajos! / You're a natural archer. |  / Thank you. |  / Wh
+0x0D1A	 /  / Hey, Lajos! |  / We still have yet to go hunting. / Or have an a
+0x0D1B	 /  / You missed a good hunt. / The roasted boar meat was excellen
+0x0D1C	 /  / Ah, Naia! |  / It's good to have you / around again. |  / It reminds
+0x0D1D	 /  / Naia, I had a thought / the other day. |  / Do you remember when
+0x0D1E	 /  / Naia. |  / Hey, Bosco. |  / Here. I got you scones. |  / ... Thanks. |  / 
+0x0D1F	 /  / Hello, Helga. |  / Oh, it's you. |  / You looked thrilled to see m
+0x0D20	 /  / Helga, Helga, Helga. / I come bearing a gift for you! |  / The b
+0x0D21	 /  / Helga, if we don't have this cheese soon, / it is going to s
+0x0D22	 /  / Say, aren't you one of Queen / Akela's royal knights? |  / Yes. 
+0x0D23	 /  / ... No, I actually don't remember much / about any of that, 
+0x0D24	 /  / Ah, there you are, Ruslan. / It's been quite some time. |  / Are
+0x0D25	 /  / Hey, aren't you Captain Kir? / From the Lomsk garrison? |  / Yes
+0x0D26	 /  / ... And that's checkmate. |  / Ruslan, do you even remember / ho
+0x0D27	 /  / Alright, Captain. My turn. |  / I'll move this wyvern lord eig
+0x0D28	 /  / Lajos, a question. |  / Hm? Onderdonk? / What is it? |  / I've heard
+0x0D29	 /  / I see. |  / So you aim like this... / And when enemies are high.
+0x0D2A	 /  / Lajos. |  / Yes, Onderdonk? / Do you have a question? |  / No. I wan
+0x0D2B	 /  / Ah, Helga, how are you / faring, my dear companion? |  / I'm doi
+0x0D2C	 /  / Ah, Helga. Just the woman / I was looking for. |  / ... Yes, Lor
+0x0D2D	 /  / Helga! Take a look / at what I've sourced for you. |  / Is that.
+0x0D2E	 /  / Ah, Captain Zoya! / Well met. |  / Oh! Lord Titus. / Well met. |  / Al
+0x0D2F	 /  / Lord Titus. |  / Ah, Captain Zoya! / Well met, my good lady! |  / Wh
+0x0D30	 /  / Captain Zoya. |  / Yes, Lord Titus? |  / I wanted to apologize... / 
+0x0D31	 /  / L-lord Titus! / Please, let me be your shield! |  / Ah, Hollace,
+0x0D32	 /  / Hollace, my good man, / an excellent killing stroke! |  / The st
+0x0D33	 / Focus, Hollace. Focus! |  / The enemy could be anywhere. / The en
+0x0D34	 /  / Oy! |  / Oy? |  / Heh heh, why the uneasy / look on your face, milor
+0x0D35	 /  / Oy! My Lord Titus, / watch out, there's a puddle there. |  / Let
+0x0D36	 /  / Lord Titus, it's cold today. |  / You're gonna catch a cold / if
+0x0D37	 /  / Helga, I never thanked you. |  / Hm?  / Thanked me for what? |  / Yo
+0x0D38	 /  / Helga. |  / Hello, Captain Zoya. |  / You know, Helga, for someone
+0x0D39	 /  / Helga. I was thinking about / what you said the other day. |  / 
+0x0D3A	 /  / Look alive, Hollace! / You're moving slowly. |  / Ah! Helga! / W-w
+0x0D3B	 /  / Hollace. |  / Ah! Helga! / Didn't see you there. |  / Do you realize
+0x0D3C	 /  / Hollace. You're starting / to fall behind again. |  / I don't kn
+0x0D3D	 /  / Hey. |  / Hm? What do you want? |  / Is that any way / to greet some
+0x0D3E	 /  / Back for more, Duck? |  / On the battlefield? / You're daft, Hel
+0x0D3F	 /  / That was a slick move / you pulled on me, Duck. |  / I did not s
+0x0D40	 /  / Hey. |  / ... Hey. |  / ... |  / ... Do you need something? |  / No... |  / Th
+0x0D41	 /  / Hey, so, what's your name? / I'm Otilie. |  / Hm? Hello. It's Fr
+0x0D42	 /  / Hey there, Freyja. |  / I gotta say, that bread we baked / a few
+0x0D43	 /  / My, that's a lovely pegasus. / What a pretty animal. |  / Thank 
+0x0D44	 /  / Ah, Otilie. There you are. |  / Oh! Hello, Hokulani. / What's go
+0x0D45	 /  / I see... so your mother passed / away when you were young. |  / 
+0x0D46	 /  / Hollace, how are you faring? |  / We have not had much chance 
+0x0D47	 /  / Good stroke, Hollace! / Your blade arm is sharp. |  / Clearly yo
+0x0D48	 /  / I gotta say, Captain, / you took to fishing pretty quickly. | 
+0x0D49	 /  / Excuse me, miss. |  / You are Lady Sarka of / the Imperial Army,
+0x0D4A	 /  / Pardon my ignorance,  / but I am still concerned, Sarka. |  / I 
+0x0D4B	 /  / Lady Sarka. |  / I wanted to thank you for / all of your help so
+0x0D4C	Axe Armor
+0x0D4F	Sword Armor
+0x0D50	 / Using a General to collect / taxes and prisoners... |  / What is 
+0x0D51	Hmm... |  / No one's home. / Makes this all |  / a little bit easier..
+0x0D52	This looks like something / we can use... |   / Huh? | Better get go
+0x0D53	 / W-what are you doing? / Just who are you? |  / Please don't hurt 
+0x0D54	 /  / Huh? W-who are you? |  / T-thieves?! They've come / to this part
+0x0D55	 /  /  /  / Did everyone make it out okay?  / We should be far away en
+0x0D56	 /  / Is the gang all here?  |  /  / Arckady is late. |  / Tch, not surpri
+0x0D57	 /  / Storch, this is one of the wealthier  / parts of town. It's 
+0x0D58	 /  /  / Did everyone make it out okay?  / We should be far away eno
+0x0D59	 / What? Thieves? To arms, men! / Don't let them escape! |  / Genera
+0x0D5A	Ezell
+0x0D5B	 / A battle? In this place? |  / Those merchants look like / they co
+0x0D5C	Traders and shopkeeps / peddling their wares.
+0x0D5D	 /  /  /  / We're all here, Storch.  / What's the word on tonight? |  / Pi
+0x0D5E	 / They're sitting ducks! At first I felt bad / for stealing, bu
+0x0D5F	 /  /  /  /  / Are you alright? |  / Yes, thanks to you. / Your timing was i
+0x0D60	 /  / When was the last time you went home? |  / Been a while now. P
+0x0D61	 /  / Storch? |  / So it takes an attack on our  / town for you to sho
+0x0D62	Arcfire
+0x0D63	Effective vs. cavalry.
+0x0D64	Arcwind
+0x0D65	Effective vs. fliers.
+0x0D66	 /  / Is everyone alright? |  / Yes, we're all accounted for. |  / [Open
+0x0D67	 /  / Port Irene! I feel like it's |  / been a heck of a long time / s
+0x0D68	 / Alright, everyone! |  / Looks like these pirates / are up to no g
+0x0D69	 /  / Onisim? Is that you? |  / Good god, man! / Carrying a staff? |  / Yo
+0x0D6A	 /  / You drunken idiot! / Where are we gonna sleep now? |  / Hic...  / 
+0x0D6B	 /  /  / Hey, what are you two doing out here?  / They're after us, 
+0x0D6C	 /  / Hey. / Sorry you got mixed up in all this. |  / Glad I could len
+0x0D6D	 /  /  /  / Marlen, you and your mother  / should hide in the basement
+0x0D6E	 / Finally got all of this armor on. / Time to go help the villa
+0x0D6F	 /  / This looks awful. / Is this our punishment? |  / Focus, Storch! 
+0x0D70	 /  /  / Storch, you're a complete menace! |  / You're like a crazed b
+0x0D72	High-flying knights vulnerable only to / bows and magic. Equip
+0x0D74	A tent containing supplies, / to support an army.
+0x0D75	 /  / Is everyone alright? |  / Yes, we're all accounted for. |  / ... W
+0x0D76	 / Damn... / More soldiers. Looks like they're gonna |  / try and su
+0x0D77	 / General Lesley is in pursuit. / She will be here soon. |  / Hold 
+0x0D78	 /  /  /  /  / Are we all here? / Jeez, this is exhausting. | It appears s
+0x0D79	 / They're still fighting? Pah! |  / Looks like I'll have to take 
+0x0D7A	Hm? There's no one here... | 
+0x0D7B	 / My pals and I like to have some ale / and throw hand axes at 
+0x0D7C	 / Hey! You're fighting pirates? / Wow! That's so neat! |  / I thoug
+0x0D7D	 / Why hello there, young one. / I bet you'd like to find a way 
+0x0D7E	 / So, they've come back. / Looks like this was the right town..
+0x0D7F	 / This "hero" has a bit of / fight in him! |  / Let's see how he ha
+0x0D80	 /  /  /  / We're back! / And look, Storch came home! |  / Mom, dad, are y
+0x0D81	 /  /  / Are you going to stick / around for a few days, Storch? |  / No
+0x0D82	Effective vs. anima magic users.
+0x0D83	Mage Killer
+0x0D84	 /  /  /  / Storch! Vagelis! |  / Lera? Is everything okay? / You look lik
+0x0D85	 /  /  / Lera! |  /  / Marlen! Is everyone okay? |  / I ran back as fast as 
+0x0D86	 /  /  / So this is where you ran off to. |  /  ...  |  / I'm not mad, I j
+0x0D87	 / ... Can't sleep. |  / Guess I should take over on watch. | 
+0x0D88	 /  /  / Storch? |  / Your shift isn't for another hour. / You should ge
+0x0D89	 /  / We've found them! / They're holed up in an inn to the east! | 
+0x0D8A	 /  /  /  / Storch. / It isn't safe here anymore. |  / There's no sense in
+0x0D8B	 / What's the big idea? |  / This territory belongs  / to my gang! |  / 
+0x0D8C	 / This was supposed / to be easy. Why are you |  / getting in my wa
+0x0D8E	 . thi, irt, & i. 
+0x0D90	Effective vs. pegasi.
+0x0D91	T w
+0x0D93	Flame Sword
+0x0D94	Imbued with fire magic.
+0x0D95	As spring's temperatures help / the citizens of Belaro forget | 
+0x0D96	Belaro's countryside is a diverse landscape, / hosting hills, 
+0x0D97	Villagers in Belaro predominantly / subsist through farming an
+0x0D98	Port Irene is the center of commerce / in the state of Belaro.
+0x0D99	Storch escapes Port Irene after liberating / the town from the
+0x0D9A	In ancient times, before the lands / had taken the names they 
+0x0D9C	Myrmidons/Swordmasters/Storch only.
+0x0D9D	 /  /  /  / Here we are, the graveyard. |  / While it'll be our resting 
+0x0D9E	 /  / It appears we have been found. |  / They look like nothing but
+0x0D9F	 /  /  /  / Whoever they were,  / they did not want us to find out. |  / T
+0x0DA0	Meanwhile, in Castle Belaro... / Lord Gradin and General Lesle
+0x0DA1	 /  / So they got away again, / is it? |  / We sent a troop to engage 
+0x0DA2	Ruby Sword
+0x0DA3	i 
+0x0DA4	A late night brawl leaves / Storch and team with |  / nowhere safe
+0x0DA5	 /  / Mom! Dad! |  We're back!  / Huh, they're not here? |  / What? |  / The
+0x0DA6	 /  / Wait, Storch. |  / Before you go.  / I have a favor to ask you. | 
+0x0DA7	 /  / Larisa. Are you well? |  / Father! I am. |  / I'm glad to see you'
+0x0DA8	 /  /  /  / Liberation of Belaro... |  / Sounds like serious business. |  / 
+0x0DA9	Imprisonment plays an important role / in the folklore of Neva
+0x0DAA	 /  / Keep at it, men! |  / We're well on our way  / to the castle now
+0x0DAB	 /  /  / Storch, a wyvern knight approaches. |  / We've been spotted. | 
+0x0DAC	 /  /  / Mom! Dad! |  / Where are you? |  / Storch! |  / Calm down, we'll find
+0x0DAD	 /  /  /  / Ah, and this is the  / Hero of Port Irene himself. |  / You di
+0x0DAE	 / An enemy approaches? |  / Only a fool with a death wish / would d
+0x0DAF	Fort Osbar, named after the third / Lord of State of Belaro, |  / 
+0x0DB0	 /  / Emperor Festan, / Belaro welcomes you. |  / I trust your accommo
+0x0DB1	 / That didn't look like it went well. |   / I've never seen him l
+0x0DB2	 /  /  / This is the least guarded  / entrance to the Fort Osbar. |  / N
+0x0DB3	 /  / We've claimed the fort.  / A victory is in our hands. |  / Storc
+0x0DB4	 /  /  / Storch, you should really get some rest. |   / Vagelis is her
+0x0DB5	 /  / Esfir.  / Is there someone on watch? |  / Well met, Lord Titus. / 
+0x0DB6	A few miles south of Castle Belaro is / a large supply depot. | 
+0x0DB7	 /  /  / Here we are... |  The supply depot. |   / We are not far from C
+0x0DB8	 /  / We've destroyed the supplies... |   / Let's keep moving before
+0x0DB9	 /  / Esfir. |  / Storch, you've been quiet tonight.  / What's wrong? | 
+0x0DBA	 /  / So you've come... |  / Peace, we do not wish to fight you. |  / We
+0x0DBB	 /  / Hollace. That's them. / Are you ready? |  / As ready as I'll / eve
+0x0DBC	 /  / Commander Erasmus? |  / Did General Lesley request / reinforceme
+0x0DBD	Castle Belaro has housed Belaran / Lords for centuries. |  / While
+0x0DBE	 /  / Helga. |  / Hm?  / Lord Titus? |   / What is it? |  / A word. / Do you hav
+0x0DBF	 /  / This castle... It's huge! |  / Glad to see Gradin's made good 
+0x0DC0	 /  / General Lesley! |  / The preparations have been made. / Lord Tit
+0x0DC1	 /  /  / Gradin...  / He is not here. |  / What!?  / Where is he, then? |  / I
+0x0DC2	 /  /  /  / What? |  / How can you be so sure? |   / We beat Lesley, all of 
+0x0DC3	 /  / Esfir... |  / This is it. / This is when it all ends. |  / Indeed. Y
+0x0DC4	Welcome to Vision Quest v3! |  / This is a "complete" version of
+0x0DC5	Seize one of the misfit tiles / near the boss to escape. |  / Gene
+0x0DC6	 /  / Lord Titus! |  / What's the plan? |  / We don't have much choice. / 
+0x0DC7	 / Pitiful fools. |  / They're walking corpses. / General Lesley, |  / y
+0x0DC8	 /  /  / Grr... Damn. |  / It is over, dear uncle. |  / Concede! |  / Concede 
+0x0DC9	And so ends the rebellion / against Lord Gradin. |  / Lord Titus v
+0x0DCA	 /  / Lord Titus, / what news do you bring? |  / It's not like you to 
+0x0DCB	This is the end of the current patch. |  / Thanks for playing! |  / 
+0x0DCC	 / So the hero is here! |  / We're gonna make you fear  / the name o
+0x0DCD	 / H-hey! |  / You really need to  / get out of here! |  /  / What's this?
+0x0DCE	 / Do not... / let them... Escape... | 
+0x0DCF	 / What's this? |   / Turning yer blade  / on me, Nazar? |   / Yer as da
+0x0DD0	 / Oni! |   / You know you cannot  / win against me! |  / What are you d
+0x0DD1	 / You're a strong rider, boy. |  / You'd make a  / fine soldier... | 
+0x0DD2	 / Ah, the leader. |   / A bold move, to challenge me. / Think you'r
+0x0DD3	 / Wait a minute,  / I recognize you! |  / You were one of Borst's / t
+0x0DD4	 / You should not have / come to this place, woman. |  /  / What are y
+0x0DD5	 / Hey! |  / Who are you, anyway? |  /  / Insolent girl! |  / Who are you to
+0x0DD6	 / Let my parents go! |  /  / Ha! |   / A child on a horse?  / This isn't 
+0x0DD7	 / Release the prisoners! |  / You ain't got no right / to take 'em 
+0x0DD8	 / Lord Titus!  / So it was you all along. |  / Only someone with / in
+0x0DD9	 / Lord Titus! |   / Treacherous worm,  / why do you fight your bret
+0x0DDA	 / You there! |  / I recognize you... / You're from the capital! |  / Wh
+0x0DDB	 / You... |  / You've been a thorn / in my side for far too long. |  / T
+0x0DDC	 / Lord Titus... / So it has come to this. |  /  / General Lesley! |  / La
+0x0DDD	 / Sister! |  / Please, stop this! |  / There's no sense / in fighting, 
+0x0DDE	 /  / Helga... You callous tramp. |  /  / Takes one to know one. |  /  / Spe
+0x0DDF	 / So, you've made it this / far, have you? No matter, |  / I'll end
+0x0DE0	 / W-what is this? / Who are you? |  / What are you doing here? |  /  / So
+0x0DE1	 / Titus, you wretch. |  / I should not have let you / live this lon
+0x0DE5	Reverses weapon triangle.
+0x0DE6	Darkstone
+0x0DE7	Axe Cavalier
+0x0DE8	Mounted knights with sturdy defenses. / Equip: Axes.
+0x0DE9	 / Alright, think I'm all ready... |  / Hey! |  / Natsuko! |  /  / Hey there
+0x0DEA	Dear Mom & Dad, |  / Hey there! It's me, Marlen. / How are you? |  / I
+0x0DEB	 /  / Larisa,  / where are you taking me? |  / It's a secret,  / my dear
+0x0DEC	 /  /  /  / Are you two still squabbling? |  / Brother!  / Naia! |  / Are you 
+0x0DED	 /  / We've been walking forever, Larisa! |   / Where is it? |  / Almost
+0x0DEE	 /  /  / Oh ho? |  / Can't find the words, can ya? |  / Ah! Who are you? |  
+0x0DEF	 /  /  / Naia, I'm worried about my brother, |   / he's outnumbered.  / 
+0x0DF0	Outside Rask in the State / of Belaro. |  / Eight years ago... | 
+0x0DF1	 / What's this? |  / Titus and his lapdogs are / here to stop us? |  / T
+0x0DF2	 /  / Do you think Lera should / be out here? |   / This isn't exactly
+0x0DF3	 /  / I'm sorry I dragged you into this.  / I hate stooping to thi
+0x0DF4	 /  / Tell me, cousin,  / how are your parents? |  / The old man's the
+0x0DF5	 /  / Lera, don't fall behind.  / We can't afford to move slowly. | 
+0x0DF6	 /  / Esfir. |  / Vagelis? |   / It's not like you to initiate / a convers
+0x0DF7	 /  / Lera, how are you faring? |  / Huff...  / puff... |   / I'm... / okay.
+0x0DF8	 /  / Vagelis! |  / You never finished that  / thought the other night
+0x0DF9	 /  / Quick, brother! |  / Hop on Sedgar!  / We'll be faster. |  / I canno
+0x0DFA	 /  / I thought by joining up with ya, |   / that'd be the end of th
+0x0DFB	An uncommon gemstone / worth 2,500 gold.
+0x0DFC	 /  / Did you really have to shoot him  / before he could finish t
+0x0DFD	 /  / Lera, don't get too far, |  / we don't know who, / or what, |  / we'
+0x0DFE	 /  / Vagelis, how's your shot in the fog? |  / Same as normal. |  / Mea
+0x0DFF	 / What the... |  / An arrow? |  / Who's trying to shoot / me from behin
+0x0E00	Learned   / 
+0x0E03	Character with whom this unit / may talk on the battlefield. / 
+0x0E04	Special abilities that can do / many different things. / 
+0x0E05	No skill description found. / 
+0x0E07	This unit's personal / stats and skills. / 
+0x0E08	donorbox.org/donate-to-circles / 
+0x0E0A	Buff nearby allies. / 
+0x0E0C	Switch places with opponent / after combat. / 
+0x0E0E	Leave opponent with / at least 1 HP. / 
+0x0E0F	 Gamble / 
+0x0E10	2x crit rate, 0.5x hit rate. / 
+0x0E12	Use the power of dragons. / 
+0x0E14	Push an adjacent unit one / tile away. / 
+0x0E16	Push an adjacent unit two / tiles away. / 
+0x0E18	Move to opposite side of / an adjacent ally. / 
+0x0E19	 Reposition / 
+0x0E1A	Move adjacent ally to this / unit's opposite side. / 
+0x0E1B	 Swap / 
+0x0E1C	Swap positions with adjacent / ally. / 
+0x0E1D	[MidRight]Nothing to see here. |  / 
+0x0E1E	[MidRight] / These look useful. |  / 
+0x0E21	Adept: Gain a consecutive attack. / (Speed % activation) / 
+0x0E22	Acrobat: All traversable / terrain costs 1 movement. / 
+0x0E24	Canto+: Can move again after / attacking and other actions. / 
+0x0E25	Wary Fighter: Unit cannot / double or be doubled. / 
+0x0E26	Sure Shot: A precision attack that / always hits and does 1.5x
+0x0E27	Provoke: Enemies are more / likely to target this unit. / 
+0x0E28	Mercy: Enemies are left / with at least 1 HP. / 
+0x0E29	Frenzy: For every 4 damage / taken, +1 to damage dealt. / 
+0x0E2A	Canto: Can move again / after certain actions. / 
+0x0E2B	Cunning: Can steal items, pick / locks, and see in darkness. / 
+0x0E2C	Lethality: Instantly kill opponent. / (Skill/2 % activation) / 
+0x0E2D	Bane: Leave the opponent at 1 HP. / (Skill/2 % activation) / 
+0x0E2E	Luna: Negates enemy defenses. / (Skill % activation) / 
+0x0E30	Aether: First strike absorbs HP, / second strike negates defen
+0x0E32	Discipline: Weapon experience / gains are doubled. / 
+0x0E33	Swordbreaker: +50 Hit/Avo when / enemy has a sword equipped. / 
+0x0E34	Lancebreaker: +50 Hit/Avo when / enemy has a lance equipped. / 
+0x0E35	Axebreaker: +50 Hit/Avo when / enemy has an axe equipped. / 
+0x0E36	Bowbreaker: +50 Hit/Avo when / enemy has a bow equipped. / 
+0x0E37	Tomebreaker: +50 Hit/Avo when / enemy has a tome equipped. / 
+0x0E3A	Duelist's Blow: +30 Avo / when initiating battle. / 
+0x0E3B	Death Blow: +20 Crit / when initiating battle. / 
+0x0E3C	Darting Blow: +3 Attack Speed / when initiating battle. / 
+0x0E3D	Warding Blow: +3 Res / when initiating battle. / 
+0x0E3E	Certain Blow: +30 Hit / when initiating battle. / 
+0x0E3F	Armored Blow: +3 Def / when initiating battle. / 
+0x0E40	Vantage: If HP < 50%, / strike first when attacked. / 
+0x0E41	Desperation: If HP < 50%, / double attacks occur immediately. / 
+0x0E42	Wrath: If HP < 50%, / +20 critical rate. / 
+0x0E43	Counter: Physical damage taken / at 1-2 range is reflected. / 
+0x0E44	Countermagic: Magic damage taken / at 1-2 range is reflected. / 
+0x0E45	Miracle: Survive a lethal / attack if HP > 50%. / 
+0x0E46	Swordfaire: +4 damage / when equipping a sword. / 
+0x0E47	Lancefaire: +4 damage / when equipping a lance. / 
+0x0E48	Axefaire: +4 damage / when equipping an axe. / 
+0x0E49	Bowfaire: +4 damage / when equipping a bow. / 
+0x0E4A	Tomefaire: +4 damage / when equipping a tome. / 
+0x0E4B	Crit Boost: +15 critical rate. / 
+0x0E4C	Slayer: Deal effective damage / to monster units. / 
+0x0E4D	Summon: Can conjure a phantom / soldier to fight alongside you
+0x0E4E	Dance: Refresh an ally unit / to let them act again. / 
+0x0E4F	Lifetaker: Restore up to 50% HP after / attacking and defeatin
+0x0E50	Galeforce: Move again after / attacking and defeating an enemy
+0x0E51	Renewal: Restore 30% of max HP / at the start of each turn. / 
+0x0E52	Nice Thighs: No effect, really. / Just thought I'd point them 
+0x0E53	Demoiselle: Male allies within / 2 tiles receive -2 damage. / 
+0x0E54	Gentilhomme: Female allies within / 2 tiles receive -2 damage.
+0x0E55	Malefic Aura: Enemies within 2 / tiles receive +2 magic damage
+0x0E56	Inspiration: Allies within 2 tiles / deal +2 damage and receiv
+0x0E57	Charm: Allies within 2 / tiles deal +2 damage. / 
+0x0E58	Voice of Peace: Enemies within / 2 tiles deal -2 damage. / 
+0x0E59	Amaterasu: Allies within 2 tiles / recover 20% HP each turn. / 
+0x0E5A	Spur Strength: Adjacent allies / deal +3 physical damage. / 
+0x0E5B	Spur Magic: Adjacent allies / deal +3 magical damage. / 
+0x0E5C	Spur Speed: Adjacent allies / gain +3 Attack Speed. / 
+0x0E5D	Spur Defense: Adjacent allies / take -3 physical damage. / 
+0x0E5E	Spur Resistance: Adjacent allies / take -3 magical damage. / 
+0x0E5F	Nihil: Cancels the opponent's / skills in combat. / 
+0x0E60	Nullify: Unit is protected / from all effective attacks. / 
+0x0E61	Paragon: Experience gain / is doubled. / 
+0x0E62	Impale: Deal 4x damage. / (Skill % activation) / 
+0x0E63	Colossus: Triples Strength. / (Skill % activation) / 
+0x0E64	Rally Strength: +4 Str / to allies within 2 tiles. / 
+0x0E65	Rally Magic: +4 Mag to / allies within 2 tiles. / 
+0x0E66	Rally Skill: +4 Skill / to allies within 2 tiles. / 
+0x0E67	Rally Speed: +4 Spd to / allies within 2 tiles. / 
+0x0E68	Rally Luck: +4 Luck to / allies within 2 tiles. / 
+0x0E69	Rally Defense: +4 Def to / allies within 2 tiles. / 
+0x0E6A	Rally Resistance: +4 Res / to allies within 2 tiles. / 
+0x0E6B	Rally Movement: +1 Move / to allies within 2 tiles. / 
+0x0E6C	Rally Spectrum: +2 all stats / to allies within 2 tiles. / 
+0x0E6D	Bow Range +1: Maximum range / of equipped bows is increased. / 
+0x0E6E	Staff Savant: Maximum range / of staves is increased by 1. / 
+0x0E6F	Live to Serve: When healing / an ally, also heals self. / 
+0x0E70	Ignis: Add Def/2 and Res/2 / to damage dealt. / (Skill % activat
+0x0E71	Life and Death: +10 to / damage dealt and taken. / 
+0x0E72	Locktouch: Can open locks / without keys or picks. / 
+0x0E73	Lunge: Swap places with the / opponent after combat. / 
+0x0E74	Intimidate: -10 Avoid to / all enemies within 2 tiles. / 
+0x0E75	Opportunist: +4 damage / if the foe cannot counter. / 
+0x0E76	Trample: +5 damage to / unmounted units. / 
+0x0E77	Camaraderie: Recover 10% HP each turn / if there are allies wi
+0x0E78	Foreign Princess: Foreign army units / take -2/+2 damage dealt
+0x0E79	Savage Blow: After attacking, enemies / within 2 tiles take 20
+0x0E7A	Relief: Recover 20% HP each turn if / there are no allies with
+0x0E7B	Tantivy: +10 Hit/Avoid if there are / no allies within 3 tiles
+0x0E7C	Focus: +10 Critical if there are / no allies within 3 tiles. / 
+0x0E7D	Bond: All allies within 3 tiles / recover 10% HP each turn. / 
+0x0E7E	Anathema: -5 Avoid/Dodge to all / enemies within 3 tiles. / 
+0x0E7F	Lily's Poise: Adjacent allies gain / +1/-3 damage dealt/receiv
+0x0E82	Fiery Blood: +2 damage / when HP is not at max. / 
+0x0E83	Elbow Room: +3 damage dealt / when on open terrain. / 
+0x0E84	Natural Cover: -3 damage taken / when on terrain with effects.
+0x0E85	Seal Attack: Debuff opponent's Str/Mag / by 6 after combat. (R
+0x0E86	Seal Skill: Debuff opponent's Skl / by 6 after combat. (Recove
+0x0E87	Seal Speed: Debuff opponent's Spd / by 6 after combat. (Recove
+0x0E88	Seal Luck: Debuff opponent's Luck / by 6 after combat. (Recove
+0x0E89	Seal Defense: Debuff opponent's Def / by 6 after combat. (Reco
+0x0E8A	Seal Resistance: Debuff opponent's Res / by 6 after combat. (R
+0x0E8C	Dragon's Blood: Unit is able / to activate Dragon Veins. / 
+0x0E8D	Nice Personality: This unit has / a deep and engaging characte
+0x0E8E	Quick Draw: +4 Damage / when initiating battle. / 
+0x0E90	Strong Riposte: When under / attack, damage +3.  / 
+0x0E91	Patience: When under / attack, avoid +10.  / 
+0x0E92	Pursuit: When under attack, / attack speed +2.  / 
+0x0E93	Light Weight: When holding three / or less items, attack speed
+0x0E94	Killing Machine: Total critical / rate is doubled. / 
+0x0E95	Critical Force: Base critical is / Skl * 1.5. / 
+0x0E96	Chivalry: When foe is at full HP, / attack and def/res +2. / 
+0x0E97	Pragmatic: When foe is not at full HP, / attack +3 and def/res
+0x0E99	Moonbow: Enemy Def/Res is / reduced by 25%. Charge: 2 / 
+0x0E9B	Smite: Allows unit to push / other units two tiles away. / 
+0x0E9C	Down with Arch: If the hit lands, / instantly kill the enemy u
+0x0E9D	Up with Arch: Adjacent ally units gain / might equal to half t
+0x0E9E	Rightful Arch: Sets Skill / activation rate to 100%. / 
+0x0EA0	Rightful God: +30% to / Skill activation rate. / 
+0x0EA1	Lucky Seven: +20 Hit and Avoid / until the 7th turn. / 
+0x0EA2	Odd Rhythm: +10 Hit and Avoid / on odd numbered turns. / 
+0x0EA3	Even Rhythm: +10 Hit and Avoid / on even numbered turns. / 
+0x0EA4	Quick Burn: +15 Hit and Avoid. / This bonus decreases each tur
+0x0EA5	Slow Burn: +1 Hit and Avoid for / each passing turn, up to 15.
+0x0EA6	Despoil: Obtain a Red Gem after / attacking and defeating an e
+0x0EA7	Pivot: Allows unit to move to the / opposite side of an adjace
+0x0EA8	Reposition: Allows unit to pull an / adjacent ally to its oppo
+0x0EA9	Swap: Allows unit to swap positions / with an adjacent ally. / 
+0x0EAA	Breath of Life: After attacking, / allies in 2 tiles heal of 2
+0x0EAB	Fury: +2 Atk/Spd/Def/Res. Unit / takes 6 damage after combat. / 
+0x0EAD	Triangle Adept: Doubles / weapon triangle effects. / 
+0x0EAE	Supply: This unit has / access to the convoy. / 
+0x0EB0	Trace: During Battle, copies / the first Skill of the enemy. / 
+0x0EB1	1d12: Gain 1 of 12 random proc / Skills during battle. / (Proc %
+0x0EB2	Identity Problems: This unit can't / decide on a name or face.
+0x0EB3	Camus / 
+0x0EB6	Charisma: Grants +10 Hit/Avoid / to all allies within three ti
+0x0EB7	Death Blow: +3 Attack / when initiating battle. / 
+0x0EB8	Life and Death: Grants / +5 Str/Mag/Spd, -5 Def/Res. / 
+0x0EB9	Catch 'Em All: Grants / the user every skill. / 
+0x0EBA	Vantage+: User always attacks first, / even if attacked. Negat
+0x0EBB	Hawkeye: User will / always hit the enemy.
+0x0EBC	Solidarity: Critical and Critical / Avoid +10 to adjacent alli
+0x0EBD	Bracing Stance: +4 defense / and resistance when / foe initiates
+0x0EBE	Darting Stance: +6 speed / when foe initiates battle. / 
+0x0EBF	Fierce Stance: +6 attack / when foe initiates battle. / 
+0x0EC0	Kestrel Stance: +4 attack / and speed when foe / initiates battl
+0x0EC1	Mirror Stance: +4 attack / and resistance when / foe initiates b
+0x0EC2	Ready Stance: +4 speed / and defense when foe / initiates battle
+0x0EC3	Steady Stance: +6 defense / when foe initiates battle. / 
+0x0EC4	Sturdy Stance: +4 attack / and defense when foe / initiates batt
+0x0EC5	Swift Stance: +4 speed / and resistance when / foe initiates bat
+0x0EC6	Warding Stance: +6 resistance / when foe initiates battle. / 
+0x0EC7	Spectrum Stance: +2 attack, / speed, defense, and resistance / w
+0x0EC9	Steal+: Unit can steal staves and / unequipped weapons if thei
+0x0ECA	Capture: Capture an enemy after / defeating it with reduced st
+0x0ECB	Black Magic: Skill% chance to / inflict a random status. / 
+0x0ECC	Fortress Defense: / +5 Def, -3 Str/Mag / 
+0x0ECD	Fortress Resistance: / +5 Res, -3 Str/Mag / 
+0x0ECE	Foresight: Avoid the damage / from enemy Critical Hits and / Ski
+0x0ECF	Axefaith: Axes can't lose durability, and / grants +Luck*1.5 H
+0x0ED1	Inspiring Tune: Refreshing a unit grants / them +2 Pow/Def unt
+0x0ED2	Forager: Recover 20% HP each turn / if on a Plain, Forest or M
+0x0ED3	Full Metal Body: This unit is / immune to all the Seal skills.
+0x0ED4	Liquid Ooze: Attackers trying to gain HP / from attacking this
+0x0ED5	Shadowgift: Allows the user to use / Dark Magic. (Uses highest
+0x0ED6	Lumina: Allows the user to use / Light Magic. (Uses highest Ma
+0x0ED7	Devil's Luck: Immune to Devil Reversal. / Gives unit's Devil R
+0x0ED8	Devil's Pact: Immune to Devil Reversal. / Curses the enemy wit
+0x0ED9	Devil's Whim: This unit is cursed, but / the curse spreads to 
+0x0EDC	->
+0x0EDF	 Stairs
+0x0EE0	Take this staircase to / the connecting end.
+0x0EE2	Poison Strike: Deals damage equal to / 20% of the enemy's max 
+0x0EE3	Grisly Wound: Deals damage equal / to 20% of the enemy's max / H
+0x0EE4	Hex: -15 avoid to all / adjacent enemies.
+0x0EE6	Barricade+: In combat, damage / recieved equals half of the / da
+0x0EE7	Point Blank: Minimum range of / equipped bows is set to 1.
+0x0EE8	Perfectionist: +15 Hit/Avoid when / user's HP is at maximum.
+0x0EEC	Battle Veteran: Gain +1 damage and / +5% Hit per 10 levels uni
+0x0EED	Holy Aura: Gain +1 damage, +5% hit, / +5% avoid, +5% crit when
+0x0EEE	Silent Pride: Gain 2 damage and take / -2 damage per 25% below
+0x0EEF	Loyalty: When within 2 spaces of / a Lord, -3 damage taken, +1
+0x0EF0	Thunderstorm: If weapon weight > enemy / W. Weight, +2 dmg, +1
+0x0EF1	Outrider: Take -1 damage and / gain +3% crit per space moved.
+0x0EF2	Heavy Strikes: Add weapon / weight to critical chance.
+0x0EF4	Infiltrator: If within 2 spaces / of two or more enemies, gain
+0x0EF5	Vanity: Gain +2 Damage and +10 Hit / when fighting enemy at 2 
+0x0EF6	Mage Slayer: Gain +2 damage and +10% / crit when facing magica
+0x0EF7	Knight Aspirant: When above 75% / health, +2 damage, +15% avoi
+0x0EF8	Watchful: This unit cannot be / captured or stolen from.
+0x0EF9	Hero: +30% skill activation / rate when HP is below 50%.
+0x0EFA	Boon: Cure bad status effects / at the beginning of each turn.
+0x0EFB	Re-Move: Luck% chance to get / another action at end of turn. / 
+0x0EFD	Discipline+: Weapon experience / gains are doubled.
+0x0F00	 /  / It is lovely to have you here, Dewi. |   / Having an additiona
+0x0F01	 /  / Marlen... |  / Do you ever think about  / what it's going to be 
+0x0F02	 /  / Dewi, what do you  / make of all this? |  / Make of all what?  / I
+0x0F03	 /  / Storch. |  / Lord Titus? / What is it? |  / I apologize for falling / 
+0x0F06	 Escape
+0x0F07	Have this unit / leave this chapter.
+0x0F08	 Arrive
+0x0F09	Complete this chapter / by having this unit arrive.
+0x0F0A	Drive Strength: Allies within / 2 spaces receive +4 strength.
+0x0F0B	Drive Magic: Allies within / 2 spaces receive +4 magic.
+0x0F0C	Drive Skill: Allies within / 2 spaces receive +4 skill.
+0x0F0D	Drive Speed: Allies within / 2 spaces receive +4 speed.
+0x0F0E	Drive Luck: Allies within / 2 spaces receive +4 luck.
+0x0F0F	Drive Defense: Allies within / 2 spaces receive +4 defense.
+0x0F10	Drive Resistance: Allies within / 2 spaces receive +4 resistan
+0x0F11	Blossom: 2x growth rates, / but 1/2 exp gain.
+0x0F12	Aptitude: +20% to / all growth rates.
+0x0F13	Seal Magic: Debuff opponent's Mag / by 6 after combat. (Recove
+0x0F14	Total number of leadership stars / for ally units.
+0x0F16	Leadership. Grants +5 Hit +3 Avo / to all ally units per star.
+0x0F17	Besides the fighting, / traveling around has been pretty |  / fun!
+0x0F19	Bandits and raiders  / plaguing the countryside.
+0x0F1A	Desert-dwelling brigands / lusting for a good bout.
+0x0F1B	Gladiator
+0x0F1C	Pit fighters who risk  / their lives for coin.
+0x0F1D	Nevan
+0x0F1F	Kir
+0x0F21	Lietunenant of Nevan. / Dislikes dissent.
+0x0F22	Lomsk
+0x0F23	Loyal knights from / the state of Lomsk.
+0x0F25	Lieutenant in the Imperial / Nevan Army. Experienced / and well-
+0x0F28	Mario Golf 64 Match
+0x0F29	Volt Catfish (Megaman X3)
+0x0F2B	Akela
+0x0F2C	Queen of Mahala. / Known for her sharp mind.
+0x0F2E	Knights of Mahala, / fighting for their Queen.
+0x0F2F	 /  / So, Gradin has fallen. | Yes. |   / Lord Titus launched a surpri
+0x0F30	Horvath
+0x0F31	A powerful dark wizard. / Shifty and conniving.
+0x0F32	Zuzana
+0x0F33	An army veteran of Nevan. / Not afraid to speak her mind.
+0x0F34	 /  /  / General Bromhilda...  / Are you well? |  / I can't imagine that
+0x0F35	Three months after Lord Titus  / seized the Belaro throne / from
+0x0F36	 /  /  / Phew, did you both finish  / sharing your rations? |  / Not eve
+0x0F37	 /  /  /  / Ah, Storch. Esfir. Well met. |  / Natsuko, thank you for / arr
+0x0F38	 /  /  /  / ... And that's all we know about it. |  / Unbelievable! |  / I c
+0x0F39	 /  / Ah, Storch. There you are. |  / Hm? |  / Oh hey, Lord Titus.  / Is e
+0x0F3A	 /  /  / Help! Help! |  / Are you a group of mercenaries? |  / Woah there,
+0x0F3B	 / Fools! |  / While the lordlings prance,  / my axe shall dance! |   / 
+0x0F3C	 /  / Tien, thank you for helping us. |  / While our village was not
+0x0F3D	 /  /  / Hey!  / Are you both members of this militia? |   / I'm here wi
+0x0F3E	 /  /  /  / Are you both okay? / I'm sick of all these dang bandits. |  / 
+0x0F40	Boosts ally's POW  / for 1 turn.
+0x0F41	Shield Ring
+0x0F42	Boosts ally's DEF/RES  / for 1 turn.
+0x0F43	Strike Ring
+0x0F46	Boost ally's avoid / for 1 turn.
+0x0F48	Creates barrier on adjacent space.
+0x0F49	As the sun rises and falls / on Belaro's southern sea, |  / the se
+0x0F4A	 /  /  / So long as we have good weather, |  / I suspect the trip will
+0x0F4B	 / Looks like everything is set. / Ropes are in their place. |  / Po
+0x0F4C	 /  / Yo, Naia! |  / Hm?  / Oh hello, Dreyfus. |  / What's up with that  / p
+0x0F4D	 / Man, what rotten luck! |   / Everyone else gets to hide  / below 
+0x0F4E	 /  /  / Our instructions are clear. / Surround this ship. |  / Capture 
+0x0F4F	 /  /  /  / And then there was the time I  / met Shanty Pete. He sure 
+0x0F50	 / Hmph, as expected... |  / Lord Titus, you may have / won the thro
+0x0F51	 /  /  / They're fleeing. |  / Damn straight. |  / Let's assess the damage
+0x0F52	 / Damn it all, / they fight like demons! |  / I'm not risking mysel
+0x0F54	 /  / Larisa, are you well? |  / About as well as a woman  / can be in
+0x0F55	 /  / Dreyfus! Is that you? / Good god, man, |  / ya look so brooding.
+0x0F56	 /  / Helga. |  / Lord Titus? |  / What in the hell are you  / doing awake
+0x0F57	Mahala is a a sovereign nation / currently ruled by Queen Akel
+0x0F58	 /  / Whew, this heat sure is hot. |   / Is this what bread feels  / l
+0x0F59	 /  /  / Naia,  / are you certain this is the right way? |  / Natsuko fl
+0x0F5A	 /  / You know who we are hunting. / They should be heading this w
+0x0F5B	 /  / Hmm, it appears they've  / taken an interest in us. |   / Damn..
+0x0F5C	 /  /  / Jeez, that guy was tough. |  / He sure looked like he / had som
+0x0F5D	 /  /  /  / What a place! |   / No wonder oasis has  / multiple meanings, | 
+0x0F5E	 /  / So wait.  / Just hang on one sec. |  / I can't believe it! |  / You'
+0x0F5F	 / It's awfully quiet. |  / I cannot remember  / the last time I was
+0x0F60	When you feel the breeze / creep up your spine. |  / When you savo
+0x0F61	 /  / It appears that the bandits / are threatening the Osturc |  / pe
+0x0F62	 / Emperor... |  / Yes...  / So that is my fate. |   / It is... Yes. / Thi
+0x0F63	 / It's not uncommon to / find items on the ground. |  / Those merch
+0x0F64	 / We know you aren't / bandits. |  / The folks here in Ouromov / are 
+0x0F65	 / Did you know there are  / some people who don't |  / believe the 
+0x0F66	 / Rumors say that Lord / Gradin's grandfather, |  / Lord Namestikov
+0x0F67	 / Well, now, whaddaya want? |  / Hic... / Look at ya, |  / you're nothi
+0x0F68	 / I was told a story once. / Wait, no. It was a side story. |  / It
+0x0F69	 / Ex-Colonel Kitozawa was / exiled for his crimes. |  / He used to 
+0x0F6A	 / That dark mage attacking... |  / He has an old friend in your r
+0x0F6B	 / How do you find Mahala? |  / Our army is famous for its / cadre o
+0x0F6C	 / The shopping here / is top notch. |  / You look like you could / us
+0x0F6D	The Royal Summer Manse, / a castle in the remote northeast, |  / i
+0x0F6E	 /  /  / Man, oh man!  / I can't get over this place. |   / Mahala makes
+0x0F6F	 /  /  /  / So that about sums up / what I intend to do. |  / Of course, I
+0x0F70	 /  / Well, Lord Titus, |  / I believe this is the start  / of a wonde
+0x0F71	 /  /  /  / Your Majesty! |  / Please excuse my intrusion, / but we are un
+0x0F72	 /  /  / We survived. |  / Barely.  / They were tough. | That is putting i
+0x0F73	 /  / ... |  / Lord Titus? |  / Even for you, this is late. / Especially a
+0x0F74	 /  / Owen? / You wanted to chat? |  / Yeah, I did. |  / Thank you for pro
+0x0F75	 / Another day, another fight. / Pulled in a nice haul this week
+0x0F76	 / Kosuke... |  / You let the darkness / get the best of you. |  / It is
+0x0F77	 /  /  /  / You're all safe now! |  / That meanie Cruller / ain't gonna bo
+0x0F78	Mahalan ports are diverse / centers of commerce for the kingdo
+0x0F79	 /  /  /  / Here we are,  / the central shopping district. |  / It's huge!
+0x0F7A	 / We don't have much time. / We gotta rush for that boat! |  / I kn
+0x0F7B	 /  / Oy! / Naia! Is that you? |  / Hm? I'm sorry, / I don't recognize y
+0x0F7C	 /  /  / Look at that man!  / He looks quite silly. |  / Hm? Do I now? |  
+0x0F7D	 /  / A knight of Mahala?  / Wait, I know you. |   / You saved us from
+0x0F7E	 /  / You! |  / Me? |  / I see you're with this group. |  / Are you some sor
+0x0F7F	 /  /  /  / Look, it's The  / Orange Scorn! |  / She's so cool! |  / It's real
+0x0F80	 /  / You, you're one of  / them, how you say, |  / holy folks? |  / Walke
+0x0F81	 / Took you long enough! |  / Let's shove off. / Now! |  /  / 
+0x0F82	 /  / So... |  / Our attempts in Mahala  / were foiled. |   / We were comp
+0x0F83	Imbued with Ice magic.
+0x0F86	Nabokov
+0x0F87	Soldiers of Nabokov, / in the Empire of Nevan.
+0x0F88	Alexander
+0x0F89	Lord of Horschadt, / State of Nevan.
+0x0F8A	The Wabooz Canal is a marvel / of human ingenuity, |  / stretching
+0x0F8B	 / Thank you all for coming today  / during these trying times. | 
+0x0F8C	Sjohstrom
+0x0F8D	Lord of Lomsk, / in the Empire of Nevan.
+0x0F8E	Scissor Axe
+0x0F8F	 /  / Jeez, this is taking a long time. |  / Be patient, Storch. |  / Th
+0x0F90	 /  / Hey, Vagelis.  / How do you feel about all this? |  / I should a
+0x0F91	 /  /  / Lord Lori's boat is stuck! |  / We sailed right into a trap! | 
+0x0F92	 / A clever trick, |  / they must've foreseen this / pass would be a
+0x0F93	 / We will not let warmongers  / set foot on our homeland! |   / The
+0x0F94	 /  /  / What?! |  / But do we know how they were  / able to get to her?
+0x0F95	 /  /  / How's the damage? |  / The ship took damage from / this trap, u
+0x0F96	 /  /  / Hm? |  / It appears she's coming to.  / Get the meal ready. |  / Si
+0x0F97	 /  /  / Hm? |  / Perhaps we can help. |  / What?!  / How did they find us? | 
+0x0F98	The war on Kuching begins in earnest. |  / Storch and his compan
+0x0F99	A civilian imprisoned / for their "crimes".
+0x0F9B	Gladiator
+0x0F9C	Welcome to Part III! |  / In this section, you will / take command
+0x0F9D	Lightweight and durable.
+0x0F9F	 /  / Lord Vaspasian, my dear brother / and esteemed guest. |  / I tru
+0x0FA0	 / Tch, having such trouble / with a petty band of thieves? |  / Pic
+0x0FA1	 /  / Lord Vaspasian... / You are testing my patience. |  / I suppose 
+0x0FA2	This is currently a defeat boss map. |  / Goal is to turn this i
+0x0FA3	 /  / This is quite a sum. |  / Could you imagine what it'd look lik
+0x0FA4	 / You're helping the Lomsk / soldiers retreat, is it? |  / I suspec
+0x0FA5	The flames of war sear across the  / land near the Kuching-Nev
+0x0FA6	 /  /  /  / Chief Waluyo, they've broken our line  / and have entered 
+0x0FA8	 /  / You there...  / You don't desire this fight. |  / How...  / How di
+0x0FA9	 / So, the murderous Chief is here... |  / A pity that the bands o
+0x0FAA	 /  / Chief... Have you received any / word from our forces to the
+0x0FAB	 /  /  / Ketut!  / Don't get too close. |   / Stay back and let  / me take
+0x0FAC	 /  / Ketut!  / Are you well? |  / My love...  / These trials are most..
+0x0FAD	 /  / Anisa, stay behind me.  / I'll handle this. |  / Why?  / So I can 
+0x0FAE	 /  / Stand aside, Michael. |  / This battlefield is no place  / for a
+0x0FAF	Kuching's tribal bands have  / oscillated between unity and / di
+0x0FB0	 /  / So we are to support  / the invasion effort? |  / I don't like t
+0x0FB1	 /  /  / Damn, / there are more knights out here. |  / Don't worry,  / we 
+0x0FB2	 /  / Commander Stroganoff! |  / Chief Waluyo's forces have broken / o
+0x0FB3	 /  / Duke Cajon, I see them. |   / Smashing, simply smashing. |   / Goo
+0x0FB4	 /  / Waluyo, my old friend.  / Well met. |   / Cajon... My heart is f
+0x0FB5	 /  /  / Anisa, how do you fare? |  / I know this fight must be / partic
+0x0FB6	 /  / You there! |  / Yes, you, the pretty thing / on a horse. | Yes? |  / Y
+0x0FB7	 /  / That's quite an axe you wield, friend. | Thank you. And you 
+0x0FB8	 /  /  / What a battle! |  / My good man, / your horse riding has improv
+0x0FB9	While Chief Waluyo continues / to defend against the invading 
+0x0FBA	 / Temple of the Moonwalker... |  / It feels different, in a weird
+0x0FBB	 /  / Please...  / Please stop. I beg of you! | Silence! |   / Open your
+0x0FBC	 /  /  / Careful with this one. |  / She is the heir to the throne / of 
+0x0FBD	 / This is horrible. Those robed gentlemen... |  / They look like 
+0x0FBE	 /  /  /  / Hm! What's this? |  / An intruder? / Was there anyone on watch
+0x0FBF	 /  / So is this the town where / you have operatives, Chief? |  / My,
+0x0FC0	 /  / Dang it! |  / Sorry Zakawat, / it looks like we're too late. | Fea
+0x0FC1	 / Sister... / I'm sorry it came to this. |  / So truly sorry... |  / I 
+0x0FC2	 /  / Speak, man! / What brings you here? | Sir! Chief Waluyo is adv
+0x0FC3	 /  / Your clothes... Are you a hermit? | I care not for what othe
+0x0FC4	 /  / Chief Waluyo! | Hm? Who are you? / I'm sorry, I don't recogniz
+0x0FC5	 /  / Zuljalal! Zul! Is that you? | Kusuma? Hindrawan's kid sister
+0x0FC6	 /  / It isn't safe here. |   / More reinforcements will come  / and d
+0x0FC7	 /  /  / Bad news, Chief. |  / We have company.  / Your orders? |  / To figh
+0x0FC8	 /  /  / Lord Lori! Lord Titus! |  / Commander Wellington is  / requesti
+0x0FC9	 /  / There's no one else here in the fort... |  / Bulan! / Bulan! Tel
+0x0FCA	 /  / Natsuko, how are you finding / yourself? |  / I doubt when you j
+0x0FCB	 /  / Hey, uh, Lord Titus? | Hm? What is it, my good man? |  / Please,
+0x0FCC	 /  / Hm? You there! Imperial! | Huh? What do you want? | What are y
+0x0FCD	 /  / Surya, do you have a sec? | Hey Kusuma? / What is it? | Do you t
+0x0FCE	 /  / Bulan! | Hm? What is it? | Don't you have something / to say to 
+0x0FCF	 /  / ... | ... | ... | ... May I help you? | Yeah. Zakawat, was it? |  / I 
+0x0FD0	 /  / Ho, Sister Ketut! How do  / you fare with all this fighting?
+0x0FD1	 /  / Hey! Pink-haired / archer lady, watch out! |  / You shouldn't ex
+0x0FD2	 /  / This is looking pretty bad. / Should we keep fighting? | We mu
+0x0FD3	 /  / It is looking grim... | Lord Titus! |  / Get Lord Lori to call t
+0x0FD4	 /  / Lord Titus, call it off. / This is mad! |  / We're throwing away
+0x0FD5	 /  / Look who decided to show up. |  / Is Lord Titus going to final
+0x0FD6	 /  / Stop!  / Stop the fighting! |  / We are trying to stop / the fight
+0x0FD7	 /  / Lord Lori! / Where is Storch? | Ah, look who decided to show u
+0x0FD8	 /  /  / Hey. I spoke with their Chief. |  / He's willing to chat with
+0x0FD9	 /  / Chief Waluyo, do you suspect this / is an elaborate trap? |  / T
+0x0FDA	 /  /  / I see. So the heir to the throne / of Lomsk was murdered, |  / 
+0x0FDB	 /  /  /  / Well, Storch. I must say I'm impressed / with you how you 
+0x0FDC	 /  / So your little gambit paid off. |  / Well, I must commend you 
+0x0FDD	Lajos
+0x0FDE	An Osturc hunter and / familyman. Distrusting.
+0x0FDF	Sarka
+0x0FE0	Imperial knight of Nevan. / Lively and optimistic. / 
+0x0FE1	Hmm, looks like nothing over here. / Should get back to the ot
+0x0FE2	 /  / Hey, you there. / Are you alright? |  / You're free to go now. | .
+0x0FE3	 /  / Commander Erasmus! | Lady Sarka, well met. |  / What news do you
+0x0FE4	 /  / Lord Titus! | Hm? That is who I am, |  / and who do I have the p
+0x0FE5	 /  /  /  / Excuse me, but before we depart, / I do have a question fo
+0x0FE6	The Kuching-Nevan border is a / contested region, stained with
+0x0FE7	 /  / That is all I have to report, Your Majesty. | I see... |  / So L
+0x0FE8	 /  /  / Lord Titus. Have you informed the  / other Lords of your ac
+0x0FE9	 / Traitors to the throne! / Thinking they can take Ft. Khavare.
+0x0FEA	 /  /  /  / Get it together you two! |   / We have to work as a team  / if
+0x0FEB	 /  / Ho! Commander Erasmus! / How interesting for us to meet here
+0x0FEC	 /  / Commander Erasmus, surely we must / rest soon. Your horse is
+0x0FED	 /  / You there... You're with Lord Titus, / are you not? I am Era
+0x0FEE	 /  / Commander Erasmus! / Well met, I'm glad to see you. | Sarka, y
+0x0FEF	 /  / Storch. | Hm? / Oh hey, Esfir. | How are you feeling? / Besides ou
+0x0FF0	 /  / Hm? That girl... / That hair color... |  / Could it be? | Hey, if 
+0x0FF1	 /  / Kusuma, wait up. |  / I wanted to thank you... / I know this isn
+0x0FF2	 /  / Michael? Holy heck, is that you? |  / You're looking a little 
+0x0FF3	 /  /  / Praise be, the fort is ours! | So it would seem. |  / I'll send
+0x0FF4	 /  /  /  / Yes, I'm sure Lord Sjohstrom / would like to see us. | Ah, C
+0x0FF5	Lomsk, westernmost state in / the Nevan Empire, |  / has borne the
+0x0FF6	 /  /  /  / Well, that tale just sounds / plain awful, Lady Sigrid. |  / I
+0x0FF7	The next day... | 
+0x0FF8	 /  /  / Sir, Imperial Soldiers have launched  / an attack on us! |   / 
+0x0FF9	 /  / We should be approaching the / main front shortly. |  / I have n
+0x0FFA	 /  /  / Look, here they come, / between the mountains there. |  / No ti
+0x0FFB	 /  /  / Lady Sigrid... It warms / my heart to see you safe. |  / To thi
+0x0FFC	 / Huff... puff... / Where is Sir Timmonen? | 
+0x0FFD	 / Don't let a single one through. |  / Lomsk is trying to join up
+0x0FFE	 / Hm, so they intend to defend / the fleeing Lomskians... |  / Guid
+0x0FFF	 /  / Sir Timmonen, thank you for / coming to our aid. | Quite the c
+0x1000	 /  / So, it looks like our battle together / came sooner than we 
+0x1001	 /  / You seem to be in a good mood. | And yours is always so foul
+0x1002	 /  / My liege!  / Are you well? | I haven't run this much / in an age
+0x1003	 /  /  /  / Lord Sjohstrom, Sir Timmonen. / Thank you for your aid. | Lo
+0x1004	 /  / Father! / Oh Father, it's really you. | My daughter... / Sigrid,
+0x1005	 /  /  /  / Man, Lord Titus really likes to talk. |  / That review was h
+0x1006	 / Nice night... / Feels good to get some air. |  / All that fightin
+0x1007	The route to Balti involves / mountain ranges that meander |  / li
+0x1008	 /  / Lord Darien. |  / Emperor Festan! / It is an honor. |  / Surely you 
+0x1009	 /  / Father, how was your meeting / with Lord Titus and Chief Wal
+0x100A	 /  / What a lovely relationship / those two have. | You can tell he
+0x100B	 /  /  / You will have larger problems than / that cowardly fool, Da
+0x100C	 /  / Father! |  / Look out, it's the terrible man. / He's the one who
+0x100D	 / Damn it all... / I need to do something. |  / I can't let them ta
+0x100E	 /  /  / There is no time. You will come now! |  / I will not, unhand 
+0x100F	 /  / Storch. | Hm? What is it, Chief? | What you did back there... / 
+0x1011	A drifter from Mostyn / with a troubled past.
+0x1012	 /  / So, you're the one who / caused this damned fuss. |  / Storch, r
+0x1013	 /  / Nevanese devils, I will / destroy you all! |  / Your cruelty wil
+0x1014	 / Soldiers should emerge from / the forts soon... We will trap 
+0x1015	 / Kuching and Nevan have always / gone to war with one another.
+0x1016	 / You may be wondering to yourself, / "why does this village ha
+0x1017	 / My husband has had insomnia / for many years... |  / The fear of 
+0x1018	 / You're with Chief Waluyo? / Praise the heavens! |  / Why am I not
+0x1019	 / What? You're attacking Ft. Khavare? |  / You're mad! Look, I'm 
+0x101A	 / Lord Sjohstrom of Lomsk was a  / friend of my departed brothe
+0x101B	 / Lord Darien has always been / good to the citizens of Nabokov
+0x101C	 / Hey! You there! / Why are you in my house? |  / Will you help me 
+0x101D	 / So, you've made it this far? |  / You should be proud of what  / 
+0x101E	 /  / Storch... |  / Please don't risk yourself  / like that again. |  / W
+0x101F	 /  / Lady Sigrid... I'm sorry. / I failed to protect Lord Sjohstr
+0x1020	 /  /  / You could see the fear / in his eyes. |  / He did not wish to f
+0x1021	 / Another sleepless night. |  / At least the reflection / of the mo
+0x1022	Lord Sjohstrom of Lomsk is dead. |  / After Horvath's attempt at
+0x1023	 /  / The traces of our presence here... / It must be wiped clean.
+0x1024	 /  /  / This forest is thick as heck! |  / Doesn't seem like a lot / of
+0x1025	 /  / He's... so fast. / I missed again... |  / Storch! / You mustn't fi
+0x1026	 / Hm, so Horvath... |  / This is where you've / been holed up. |  / Per
+0x1027	 /  / You there! | Huh? / Are you one of Horvath's men? |  / Don't come 
+0x1028	 / Thanks for coming by / to save the town. |  / My dad's always goi
+0x1029	 / So it appears even this / town is unsafe. |  / I've lingered too 
+0x102A	 / Kuching's made up of a handful / of tribes that vie for terri
+0x102B	 / You may not believe it, |  / but in my youth I was  / quite the c
+0x102C	 /  / Storch... | Hey Esfir... I'm sorry. / I lost my cool there. |  / I
+0x102D	 /  / Storch. | Hey. | You alright? | ... Yeah. | ... Good. Stay close. | 
+0x102E	 /  / Hm? You... / What's your name? | ... Gunnar. | Gunnar... / It soun
+0x102F	 /  / Lord Titus. | Ah, yes, Helga. / What is it? | I've taken a look 
+0x1031	 /  /  /  / Lord Titus, I understand you are / grieving at this moment
+0x1032	 /  / Well, sister, I must commend / your restraint. |  / Are you well
+0x1033	 /  /  /  / He's gone... But I don't suspect / that's the last we'll s
+0x1034	 /  /  / Hey... Cassius, was it? / Thanks for your help back there. | 
+0x1036	A young thief from Belaro. / Has a chip on her shoulder.
+0x1037	 / Whew, glad I made it in. / This guard was tight! |  / Now then, t
+0x1038	 /  / Heck! / I've been spotted. |  / Gotta make a clean break... | Hey,
+0x1039	 /  / You there! | Dang it all to heck... / Gotta make a break for i
+0x103A	After a battle near the Temple / of the Moonwalker, |  / Horvath i
+0x103B	 /  /  /  / This place. | It's nothing more than a hill. / How are you c
+0x103C	 /  / This... This is horrible. / The stench... | The scent is fresh
+0x103D	 /  / Commander Zuzana. |   / I investigated / the disturbance. |   / It's
+0x103E	The blinking cursor is the location / where prisoners will esc
+0x103F	 /  / So these prisoners are from / Belaro, brother? | Some of them 
+0x1040	 /  / Chief... Is it true what / they said, about the Osturc? |  / Our
+0x1041	 /  /  /  / Commander Erasmus, you / know this woman? | Indeed, this is 
+0x1042	 /  /  /  / ... I'll come with you too. | You will? | Do I have to say i
+0x1043	 /  /  /  / ... I'm going home. / Back to Lomsk. |  / I need to clear my h
+0x1044	 /  /  /  / Are you all alright? | You saved us... / Thank you. |  / Yes, I'
+0x1045	 /  /  /  / Storch, you really put on / quite the display back there! | 
+0x1046	 / So, you've made your way / to the capital after all... |  / I'm i
+0x1047	
+0x1048	A mercenary from Nevan. / Simple and caring.
+0x1049	A citizen with no / combat abilities
+0x104B	A knight captain in / the Nevanese army.
+0x104C	Protect And Serve
+0x104D	 / It's quite late... |  / What are you doing out / at this time? |  / M
+0x104E	Kuchingi cuisine is unique / throughout the continent, |  / predom
+0x104F	 / What? Chief Waluyo's men / are here too now? |  / This was suppos
+0x1050	 /  / Ho! / You there, knight! |  / Allow us to help you / protect these
+0x1051	 /  / You... You're Nevanese! |  / Why are you fighting against / your
+0x1052	 /  /  / Sir, have you enjoyed your / stay in our small village? |  / Yo
+0x1053	 /  /  /  / No town guard? This will be easy. / Gather 'round, everyon
+0x1054	 /  / My good man. / Nightfall is upon us! |  / Shall we set up camp / f
+0x1055	 / There's a wyvern rider protecting / those villagers. We must 
+0x1056	 /  /  / Thank you again for your help. | Truly... Such bravery. | The
+0x1057	 /  / Chief Waluyo... / Thank you again for your help. |  / We are ind
+0x1058	 /  /  / So, Lord Titus has killed Lord / Darien, and Lord Sjohstrom
+0x1059	 / Damn... We're losing. |  / I still have one trick up my sleeve.
+0x105A	 / It seems even Mahala's / finest cannot break their ranks. |  / No
+0x105B	 / Now then... / Let's finish this! |  / To accomplish my goals... / T
+0x105C	 /  / Storch, do you have a moment? | We're in the middle of our / b
+0x105D	 /  / Lord Lori? You came... |  / Is everything alright / back in Ofen
+0x105E	 /  / Lord Titus. Need a hand? | Lord Lori? I wasn't expecting / you
+0x105F	The Nevanese capital, Balti, / lies protected within tall moun
+0x1060	 /  /  /  / So... Now we will charge into / the capital? |  / I suppose it
+0x1061	 /  / Cousin, I do not believe you. / Not for a second. | What! You 
+0x1062	 /  / Lord Alexander. Do you remember / the plan? |  / You will guard 
+0x1063	 / Too late to back out. |  / This gate will not fall! / There's too
+0x1064	 / My family... / I'm sorry... |  / Perhaps my cowardice... / Will sav
+0x1065	 / So this is how / I meet my end. |  / A knight's death, / on the bat
+0x1066	 / Harrumph! |  / You've bested me.. / The fort... has finally... | 
+0x1067	 / Oof! / Pulling back for now. |  / Must live to fight / for another 
+0x1068	 / Damn... |  / All this armor... / this horse... |  / for what? | 
+0x1069	 / I have died... / But for what? |  / Forgive me... | 
+0x106A	 / Oh, heck! / I've done it now... |  / Father... / There's still some
+0x106C	 / What a way to go down... / Guess that's it... for now... | 
+0x106D	 / Is... this the end? |  / Will I ever see the dew / on the morning
+0x106E	 / No... | 
+0x106F	 / Oof! / I yield! |  / We can talk this out... | 
+0x1070	 / Damn... |  / Wasn't able to escape / this time... | 
+0x1071	 / That's it. I mustn't idle around / any longer. |  / The time to c
+0x1072	 / My men, Orland's finest, / cannot handle these whelps? |  / Time 
+0x1073	 / They're making quick work of us. |  / It'd be ruinous if the de
+0x1074	 / ...  |  / Storch, are you well? |  / You've been staring off / to sea
+0x1075	 /  / Lord Titus, thank you for / your aid today. |  / Many lives were
+0x1077	Masters of anima, feverish in pursuit / of knowledge. Equip: A
+0x1078	Lord Lori's boat is sinking. |  / If you do not defeat the boss / 
+0x1079	 / We're taking on too much / water! The ship is lost! |  / Everyone
+0x107A	 /  / Storch... |  / I know you're distracted, / but you must stay on 
+0x107B	 /  /  /  / We did it. / But holy heck, |  / that was not easy. | It was thr
+0x107C	 /  / The vision? |  / What do you mean, / Lord Titus? | I...  / I'd prefe
+0x107D	 /  / Storch... How do you fare? |  / I heard what I thought / was sho
+0x107E	 / So they've all fallen... |  / Lord Alexander leaves / behind a yo
+0x107F	Storch and his companions pierce / the last lines of the Imper
+0x1080	 /  / Balti, the capital of Nevan. / It's been a long time. | I wond
+0x1081	 /  /  /  / Preps are all made, Lord Titus. |  / We have secured the pas
+0x1082	 /  / Emperor Festan. / The rebels are here. Your orders? | Order th
+0x1083	 / Blast... The situation is / getting rather dire. |  / I can no lo
+0x1084	 / We weren't fast enough... / We're done for... |  / My comrades, m
+0x1085	Destroy the supply tent units / within the turn limit. |  / If you
+0x1086	 / General Bromhilda... |  / It was you who saved the  / Lady Sigrid
+0x1087	On the outskirts of Balti. / 35 years ago... | 
+0x1088	 /  / Hey, Mikhail! / Why are we out here? | Listen, Yury. |  / Don't yo
+0x1089	 /  /  / Woah! What is this?! / Get your hands off me! |  / I am the hei
+0x108A	 /  /  /  / We did it... / It's finally over... | Good. Let's go home. | N
+0x108B	 / And so he lies.  / Dead. |   / Blood spilling from your stomach, 
+0x108C	 / Oh, you poor thing. / Fighting in the fog, is it? |  / I pity you
+0x108D	Grant Charm Skill. +3 STR/DEF.
+0x108E	 /  /  / There he lies... Dead. / Uncle, you damned fool. |  / What sort
+0x108F	 /  / Still talking like that, milord? | Ah... Helga...  / I apologi
+0x1090	 /  / Chief Waluyo! | Ah, Storch. How are you? | Should ask you the 
+0x1091	And so ends the war. |  / After a year of fighting,  / Lord Titus 
+0x1092	 /  /  / Is the gang all here? |  / Yes, we are all accounted for. |  / Ar
+0x1093	The journey home was long, / but largely uneventful. |  / As the B
+0x1094	 /  / Storch. |  / Esfir?  / Everything alright? |  / You've been quiet th
+0x1096	Mission Street (SA2B)
+0x1097	Anisa, Skilled Archer
+0x1098	Anisa, despite learning of her past, / chose to remain in Kuch
+0x1099	Kir, Knight & Husband
+0x109C	Sigrid, Lord of Lomsk
+0x109E	Zuljalal, Headstrong Warrior
+0x109F	Gunnar, Lost Enigma
+0x10A0	Lajos, Osturc's Pride
+0x10A1	Sarka, Florist Knight
+0x10A2	Duck, Seabound Drifter
+0x10A4	Zuzana, Iron Will
+0x10A7	Seize the gate within 25 turns / to win the map. If you take l
+0x10A8	 / The Summer Palace... / Not too far from where I grew up. |  / Tie
+0x10A9	Break Point (Mario Tennis)
+0x10AB	Battle (Zelda II)
+0x10AD	 / Some of us will need to hang back / to protect Lord Lori. |  / Th
+0x10AE	 / No... / Not here... |  / Damn it all... | 
+0x10AF	 / ... Guess I'm worthless / after all, right mom? | 
+0x10B0	 / .. Kalea... Ikaia... / Forgive your mother... | 
+0x10B1	 / Keep up the pressure! |  / More reinforcements / from the south w
+0x10B2	 /  / Lord Lori! Fear not, Belaro / is here to rescue you! |  / Are yo
+0x10B4	 / Hmph, so these are the curs / that bested Stroganoff? |  / No mat
+0x10B5	 /  / Sir Onderdonk, are you well? | Yes, Miss Ketut. / Thank you fo
+0x10B6	 /  /  /  / Chief, it's bad out there. / They're moving in fast. |  / What
+0x10B7	 / Alas... | 
+0x10B9	 /  / Kusuma, are you well? | Oh, hello, Chief... |  / I'm doing alrig
+0x10BA	 / Kir! You dastard, / you've betrayed us? |  / Commander Stroganoff
+0x10BB	 / Chief Waluyo! |  / While I detest you / as an enemy, |  / I admire yo
+0x10BC	 / So, you've made it this / far. I'm not surprised. |  / You're qui
+0x10BD	 / Kir! I had heard a rogue / Nevanese was in their ranks, |  / but 
+0x10BE	 / These rabble rousers are / not to be trifled with! |  / Prepare t
+0x10BF	 / This isn't looking good... |  / Looks like I'll need to take / ca
+0x10C0	 / These primative beasts / are ravenous indeed... |  / Time to show
+0x10C1	Thank you for playing / Vision Quest v.07! |  / The team and I hav
+0x10C2	If all the citizens survive, / you will get a reward. | 
+0x10C3	To "escape" this map  / (and others later on), |  / use the "seize
+0x10C4	 /  / There are Nevanese / soldiers everywhere. |  / Wally... It looks
+0x10C6	Captured civilian forced to / take up arms to survive.
+0x10C7	 / That woman... She looks / like a high-ranking official. |  / She'
+0x10C8	 /  / We've got them now, Ghirken. / Those merchants are trapped. | 
+0x10C9	 / Hmph, these pirates are in / quite a bind... |  / If they fall he
+0x10CA	 / Hm, think the other lads were / deeper into town to fetch som
+0x10CB	 /  / You there! / Allow me to aid you. | Do you take me for a fool,
+0x10CC	 / Those dullards should keep / emerging from the forts. |  / And ye
+0x10CD	 / Ha, so they're worthy / of facing me? |  / This will be interesti
+0x10CE	 / Can you believe this? |  / That mean jailer man came / through he
+0x10CF	 / This job is much tougher / than I bargained for... |  / I suppose
+0x10D1	 /  / Why did that dastard give / us weapons and have us guard? |  / D
+0x10D2	Vaspasian
+0x10D4	Castle Belaro
+0x10D5	 / Vaspasian, you noble fool. |  / You always stuck your nose in / t
+0x10D6	 /  / Storch! / We must keep moving! | But to where? |  / Everywhere we 
+0x10D8	 / Oh ho, what is this now? / A fight's broken out? |  / Now's our c
+0x10D9	 /  /  / Thank you for coming. / We're grateful for your help. | Huh? 
+0x10DA	 /  /  / Captain Zoya? / I see you've made your choice. | Helga, well 
+0x10DB	 /  / Why yes, Madame, I / hic... like this cognac. |  / Shall we... d
+0x10DC	Adversity (FE5)
+0x10DD	Jungle (Wonder Boy III)
+0x10DE	BGM18 (Golden Axe 3)
+0x10DF	Distant Travels (FE7)
+0x10E0	 /  /  / ... So, that's what's happened / in Belaro since I left. | Ye
+0x10E1	 / Everyone! Attack! / Don't let them near the Queen! |  / What!? Re
+0x10E3	A mercenary hired by / a mysterious order.
+0x10E4	Pluto
+0x10E5	An opportunistic pirate / with a hot temper.
+0x10E6	Obermueller
+0x10E7	A Nevanese fruit importer. / Modest about his strength.
+0x10E8	 / This group... it must be them. |  / Men! / The targets have arriv
+0x10E9	 /  /  /  / This isn't good... / Were you followed? | Dang... Are these 
+0x10EA	 /  /  /  / Talk about making an exit. |  / The boat was moving the mome
+0x10EB	 / Reinforcements will arrive soon. / Do not let the enemy get t
+0x10EC	 / This is our chance! / Raid the houses! |  / Eh? What's this? |  /  / Pl
+0x10ED	 /  / What a day it is! |  / Sun is shining, my stomach / is full of a
+0x10EE	 / Guess we've got no choice. / Charge them! |  / Everyone surround 
+0x10EF	 / Have you heard about the / weapon triangle? |  / I have, and it's
+0x10F0	 / Mahala is generally quite a / peaceful place... |  / These distur
+0x10F1	 / I used to work at the church, / serving the head bishop there
+0x10F2	Click seize on the flashing / tile to end the map. |  / If you do 
+0x10F3	 / We were paid a hefty sum / to take your heads. |  / I am Valdez, / 
+0x10F4	 / You're in my way. / Now die! | 
+0x10F5	 / My might...  / was not enough... | 
+0x10F6	 / What could've been, / had I only... |  / Damn... | 
+0x10F7	 / This does not bode well... / They're picking us apart. |  / Yet m
+0x10F9	 / Grr, these dastards / are tough. |  / Lads! Be quick! / I'm falling
+0x10FA	 /  / Emperor Festan, thank you / for giving me a moment of your t
+0x10FB	Ripple Field 1 (Kirby)
+0x10FC	Dry Lagoon (SA2B)
+0x10FD	Flying Battery Zone (SaK)
+0x10FE	Cosmic Wall (SA2B)
+0x10FF	Rise to the Challenge (FE7)
+0x1101	Festan's longtime guardian. / Feels remorse for his past actio
+0x1102	 / They are making their way in... |  / I will rest on my laurels 
+0x1104	 / Home... It's been a while, / hasn't it? |  / Mom and Dad must be 
+0x1105	 / Oh, heck! / How could I forget this? |  / Bet if I get scraped up
+0x1106	 / Helga! |  / So you've aligned yourself / to Lord Titus, I see. |  / C
+0x1107	 /  / Mango? By the gods, / you're still here? | Duck... |  / Your tone 
+0x1108	After an uneventful journey home, / Titus receives word from B
+0x1109	 / More reinforcements... Will / it ever cease!? |  / They look toug
+0x110A	 / Hmph, you dare / to face me? |  / Tch, guess I'll need / to show yo
+0x110B	 / Damn, they are moving / through the fort swiftly. |  / Everyone, 
+0x110C	 /  / Chief. | Kusuma? | Enemies are approaching / from within the for
+0x110D	Corridors of Time (CT)
+0x110E	Vyland
+0x110F	Has a rough temper, / but likes eating cabbages.
+0x1110	 /  / Storch. There you are. / I've been looking for you. | Hm? / Oh, 
+0x1111	r' rf tm. l & wrn t.
+0x1112	 / Alas... It looks like / this old bull... |  / Has had enough... / S
+0x1113	Soldiers from Lomsk will / attempt to escape southward. |  / You w
+0x1114	w
+0x1115	A mercenary from Belaro. / Self-described hard worker.
+0x1117	A priestess of Kuching. / Has a strong will.
+0x1118	 / Zzzz.... Heck... |  / Yawn... / Huh, where are they? |  / Guess every
+0x1119	 / Oh, hello there! |  / I was just, uh, guarding / this spot here, 
+0x111A	 / This town... I'm too late. / Nevan's already come through... | 
+0x111B	 / Heck! They got me... |  / Guess you were right, ma, / I shoulda j
+0x111C	 / The light... Will you... / Come for me? |  / It's so... dark. | 
+0x111D	 /  / Chief Waluyo! / Fear not, aid has arrived. | Hm? A valkyrie? |  / 
+0x111E	 / Ah, Queen Akela herself. |  / I'm impressed you / choose to face 
+0x111F	 / To die a knight... |  / Mother... / Are you proud? | 
+0x1120	Edge of Reality
+0x1121	False Memory
+0x1122	Unknown
+0x1123	It is unsure what their / origin is...
+0x1125	Border guard from Belaro. / Affable and confident.
+0x1126	Pawel
+0x1127	Storch's dad. / Stern and self-righteous.
+0x1128	 / Someone's taking their / sweet time. |  / Going for chests instea
+0x1129	 / My son... |  / Your father is here / to avenge you. |  / Storch, you 
+0x112A	 / ... There are more. |  / I must go. |  / Man... Can't get much slee
+0x112B	 /  / What is this old place? |  / I never knew that this / existed so
+0x112C	 / Your friends... / They're here. |  / They are? |  / We're lucky they / 
+0x112D	 / No... / We were too slow. |  / I hear footsteps. / We'll never get 
+0x112E	Ivy
+0x1130	 / So, you've come. |  / I question how you / found this place... |  / O
+0x1131	 / What!? |  / So it was you... / How did you... |  / You... |  / I remember
+0x1132	 / Who found this place!? / At this time of night!? |  / Our allies 
+0x1133	 /  /  / What is going on here? |  / We're lucky we found / you both at 
+0x1134	 /  / Esfir... Thanks for coming. |  / We would've been / dead for sur
+0x1135	 / Zzz... Zzz... / Brother... no... |  / GWAAAaaaa.... / Zzz... Zzz...
+0x1136	 /  / ... Storch. | Huh? / Where am I? |  / Who are you? | You don't recog
+0x1137	 / Brother... / Can I do this alone? |  / I should just find a spot.
+0x1138	 / This chest... |  / Don't open it unless / you can react. |  / I suspe
+0x1139	 / Heh... |  / Guess you've learned / a few tricks. | 
+0x113A	 / Not here... / Not now... |  / Our mission... / Must... | 
+0x113B	 / Hmph... |  / You'll get yours... / Just you wait, boy... | 
+0x113C	 / Brother! |  / Well, well, well... / If it isn't Storch! |  / The Hero
+0x113D	 / Sending your friends / to fight me instead? |  / Do you truly fea
+0x113E	 / You killed my / favorite son, |  / and you've ruined / my most inno
+0x113F	 / You're not who / I'm here to face. |  / Get out of my way. / Now. | 
+0x1140	 / We did it... / It's over... |  / Brother... / Wait a moment... |  / Whe
+0x1141	 / Zzz... Heck. |  / Huh? / What was all that? |  / Huh? / I can't... move
+0x1142	 /  /  /  / Ah, there he is. |  / The prettiest girl / at the ball. |  / Sleep
+0x1143	 / You're making me / angry, brother. |  / My patience is wearing th
+0x1144	Rout the enemy within / the turn limit. |  / If you fail, / you will
+0x1145	The Joy Of My Life
+0x1146	Blanchard
+0x1147	Lieutenant in the Imperial / Army. A known bootlicker.
+0x1148	 / Oh... You came? / I'm so grateful... |  / Please... / Where is my h
+0x1149	Indah
+0x114A	A Kuchingi seamstress residing / in Lomsk. Kir's beloved wife.
+0x114C	A married woman. / Does not fight.
+0x114D	 / Why are the soldiers / attacking? |  / They sure are mean... |  / I'v
+0x114E	 / Who in heck's name / are you supposed to be? |  / Well, what are 
+0x114F	 / You're here to rescue me? |  / Well, thanks a lot. / I'm grateful
+0x1150	 / Snuff out these traitorous / worms! |  / We'll show them the migh
+0x1151	 / So these rebels are / putting up quite a fight? |  / How unsavory
+0x1152	 / So... |  / We've managed to capture / Ft. Khavare... |  / Never would
+0x1153	 /  / What?! |  / They're attacking Hanko / of all places!? |  / My pregna
+0x1154	 / That's my home. |  / My wife, Indah, / is inside. |  / Chances are th
+0x1155	The villagers will emerge / from their homes when you visit. |  / 
+0x1156	 / No... |  / We're moving too slow... / There are more reinforcemen
+0x1157	 / Kir... My sweet / husband... |  / It's too late for me... / Go... |  / 
+0x1158	 / No, no, no... |  / My time is not yet... / My Emperor... |  / Please.
+0x1159	 /  / My love... To see you here / before me, alive and safe, |  / I a
+0x115A	 /  / They are truly in love. |  / A partnership and union / unlike an
+0x115B	 /  /  / My dear... / He did not make it, did he? | Your husband fough
+0x115C	 / You dare oppose / his Majesty?! |  / Allow me to unveil / his ultim
+0x115D	Fitzpatrick
+0x115E	A finnicky trader with / loose morals.
+0x115F	 / Oof! |  / Duck! / Mango! |  / You blathering dotards! / Look at me! |  / I'
+0x1161	A selfish criminal. / Surprisingly agile for his size.
+0x1162	Purcell
+0x1163	A cunning criminal. Begrudgingly  / deals with his brother, Re
+0x1164	Ruffian
+0x1165	Criminals and highwaymen / looking for their next score.
+0x1166	 / Those pesky brothers, / Reichard and Purcell... |  / They're no g
+0x1167	 / Those dastards... |  / That shifty Purcell, / and the doughy Reic
+0x1168	Army of Leif (FE5)
+0x1169	Eyvel (FE5)
+0x116A	Area 6 (Blaster Master)
+0x116B	Destiny (FE5)
+0x116C	Arena (FE5)
+0x116D	Army B (FE5)
+0x116E	Losing (FE5)
+0x116F	Forward (FE5)
+0x1171	 /  / So, you've just been / mulling around all this time, huh? |  / C
+0x1172	 /  /  / Well, look at this! |  / If it ain't Duck and Mango. / It's bee
+0x1173	 /  /  / I'm gonna ask ya one / more time. |  / You don't have any more / 
+0x1174	 / Reichard and Purcell's men... / They're everywhere. |  / You two 
+0x1175	Escort Fitzpatrick to the fort. |  / He will move his full movem
+0x1176	 /  /  /  / 
+0x1178	 / Graaaagh! |  / I'm so mad at / those meanies! |  / Just you wait... |  / 
+0x1179	 / I gotta... keep... / running... away! |  / Here, take this. / Thank
+0x117A	 / ... I made it. |  / Thank you all / so much... | 
+0x117B	 / Alright, we've saved / who we can... |  / Let's go. | 
+0x117C	Clive
+0x117D	A bit passive and mellow. / Not the fastest steed.
+0x117E	Titania
+0x117F	Seasoned mare who has / fought in many battles.
+0x1180	Cecil
+0x1181	Rugged filly that isn't social. / Likes to eat apples.
+0x1182	Isadora
+0x1183	A cheerful filly. Does well / with unseasoned riders.
+0x1185	A young colt with few / interests other than carrots.
+0x1186	Sigrid's Prf tome. Brave effect.
+0x1187	 /  /  /  / Storch... |  / Your blade is as dull as / your mind. |  / Had your
+0x1188	 /  / Father!! / You fiend! | You will come now with me. |  / Not if I h
+0x1189	 /  /  / He vanished... | Father... / Oh why... | Look... Soldiers are a
+0x118A	 /  / Brother! |  / We gotta protect / the horses! |  / Those poor little 
+0x118B	If all of the horses die, / you will get a game over. | 
+0x118C	 / Ow... If I die here... / My line... |  / No... / I must retreat... | 
+0x118D	 / This old town used to be / quite bustling, you know. |  / When I 
+0x118E	 / Send more soldiers around / to cut off their escape. |  / Charge 
+0x1190	 / Looks like they're getting / away... |  / This is looking chaotic
+0x1191	 / Looks like y'all are good / for something after all. |  / Knew I 
+0x1192	 /  /  / Those brothers are  / a dastardly pair. |  / Glad we could give
+0x1193	 /  / Four thousand gold pieces... |  / Certainly not the easiest / mo
+0x1194	Balti
+0x1196	 / This report... / Hmm... |  / So... / It's true then. |  / I suppose the
+0x1197	 /  / Well, it has been quite some / time, has it not, Emperor Tit
+0x1198	Sky Piercer
+0x119A	Emerald Axe
+0x119B	Weapon triangle bonus x2 for user.
+0x119E	r w tril. ff . .
+0x119F	Kuching
+0x11A0	Swift warriors from the / plains of Kuching.
+0x11A2	Lord of Ofenloch. / Stern and pragmatic.
+0x11A3	Hindrawan
+0x11A6	 / This village... |  / This is where I was born / all those years a
+0x11A7	 / My lands... / Truly, is this my destiny? |  / Perhaps I am the ri
+0x11A8	 /  / Heh, you're going to need / to try harder than that. | That vo
+0x11A9	 / My daughter... |  / I may have failed you once. / But I vow never
+0x11AA	 / Of all the types of drat, |  / all combined would fail / to match
+0x11AB	 / My... What's happening? / Why am I fighting...? |  / My head... |  / 
+0x11AC	 / Did they all just... vanish? |  / This has indubitably been a / b
+0x11AD	 / The dog still draws breath? |  / And yet he dares to / approach m
+0x11AE	 / Lord Titus! |  / My blade will pierce your / armor, and I will cu
+0x11AF	 / You, Lord Titus, / dare to face me? |  / Ha. |  / You may have bested
+0x11B0	 / You choose to align / yourself with him? |  / Suit yourself. |  / My 
+0x11B1	 / Follow my lead, boys. / If we sack the caravan, |  / you lads can
+0x11B2	 / Thanks for bringing the / supplies right to me. |  / I'll relieve
+0x11B3	 / Give us the supplies! |  / Ain't worth forfeiting your / life ove
+0x11B4	 / Chiasa... Forgive / your father... |  / Glory... to... / Mahala! | 
+0x11B5	 / Oof! |  / Brother... they stuck  / me real good... |  / Please... / Pur
+0x11B6	 / I knew it would have / to end someday... |  / Reichard... |  / You're
+0x11B7	w t
+0x11B8	Horseman adept in swift / combat. Equip: Swords.
+0x11B9	 / Indah! Indah!? |  / Tell me, are you here? / ... Am I too late? |  / 
+0x11BA	 /  / It appears that the bandits / are threatening the Osturc |  / pe
+0x11BB	 / You'd challenge / me here? |  / Well then... |  / What are you  / waiti
+0x11BC	Wind Scene (CT)
+0x11BD	 /  / Hey, Dewi! | Hm? What is it, Sri? | You remember that old ston
+0x11BE	Chief
+0x11BF	Local leader of a band / of Osturc militiamen.
+0x11C0	 /  / Chief, you called? | Yes. Thank you, Kusuma. / I have somethin
+0x11C1	Begin Quest (Pandan ft. Chair)
+0x11C2	 / Hmph, so you survived? |  / Wouldn't expect a damned / cave dwell
+0x11C4	An excommunicated bishop / now serving as a mercenary.
+0x11C5	 /  / Alright, merc, you know the drill. / Charge the gates. |  / Don'
+0x11C6	 / Lord Titus, you ravenous beast! / You'd dare betray the Empir
+0x11C7	 / Captain Kir!? |  / What are you / doing here? |  / Wasn't your troop / 
+0x11C8	 / Ho! You there, are / you the commander? |  / Yes. I am Lieutenant
+0x11C9	 / Hm, so they've made / it this far... |  / I'll show you the stren
+0x11CA	 /  /  / Come out with your  / hands raised, or you're dead. |  /  /  / Don'
+0x11CB	 / Horvath's distraction allowed / us to approach without issue.
+0x11CC	 / Hmm? / What is that scent? |  / I know it... it is strangely / fami
+0x11CD	 / The scent grows stronger... / Just over this mountain... |  / Ah,
+0x11CE	 /  /  / How does it look out there? | Chief, it's bad. | This was an 
+0x11CF	 /  / ... and then he went off / following the scent. |  / He suspects
+0x11D0	 /  /  / Quickly, we must keep running! |  / We cannot afford to waste
+0x11D1	 / This... this is horrible. |  / Nevanese dastards... / They will p
+0x11D2	Do not let the Chief die. / If he dies, it is a game over. | 
+0x11D3	 /  / Foolish cave dwellers. / They are lost. |  / They emerge from th
+0x11D4	The citizens are frozen with fear. / If they all survive, / you 
+0x11D5	Oasis Quest (Pandan)
+0x11D6	My Name's Not Kelik, Kid (Chair)
+0x11D7	Night Quest (Pandan)
+0x11D8	 /  /  /  / Ahoy, Chief! |  / You must be the ruler of / the brave militia
+0x11D9	 /  / Thank you... for saving / me and my family. |  / We can go back 
+0x11DA	 / Oof... it's all over for me... / Nevanese dogs... |  / You'll... 
+0x11DB	 / So, they wish to fight, eh? |  / If only they'd lay down / and ac
+0x11DC	 / What? We're being saved? / Thank goodness... |  / Please, take th
+0x11DD	 / We Osturc 'round these parts / just started living outside ag
+0x11DE	Supply tent containing goods / for the army of Belaro.
+0x11DF	 / You will cease this / assault at once! |  / Oh, shove it up your / 
+0x11E0	 / Get out of my way, / you bald traitor. |  / Does it make you feel
+0x11E1	 / I don't care who you are, / or why you're here. |  / All that mat
+0x11E2	 / Lord Gradin! |  / What's this? A young girl? / Stand aside, littl
+0x11E3	 /  /  / ... Esfir, was it? |  / You are quite well-learned. / Do you re
+0x11E4	 /  / Hey, Cassius. Wait up a sec. / I have a question for you. |  / T
+0x11E5	 /  /  / Alright, we gotta make sure / we free all the prisoners. |  / I
+0x11E6	 /  / Footsteps from below... / Reinforcements are coming! | We'll b
+0x11E7	 /  /  / I suspect another force / will cut us off soon. |  / Quickly, g
+0x11E8	 / Is this... the end? |  / This job didn't pay out / if I... died. | 
+0x11E9	 /  / Hm? Who are you!? / Begone, bandits! |  / Ooooh, if I knew a thi
+0x11EA	 /  / Lera, stand behind me. |  / It's important that you / don't expo
+0x11EB	 /  / Natsuko, I gotta tell you, / your pegasus is so pretty! |  / She
+0x11EC	 /  / Hm? What's that smell? / Michael... what are you smoking? | Hu
+0x11ED	 /  / Storch. | Hm? Oh, hey Vagelis. / What's going on? | I should be 
+0x11EE	 /  / Captain Zoya... |  / If you do not... / If you don't want to- | Ho
+0x11EF	 /  / Captain Zoya. | Hello, Helga. | ... | ... | ... I'm sorry. |  / I'm so
+0x11F0	 /  / Ah, southern Belaro. |  / The winding rivers, the green grass,
+0x11F1	Survive / Save Chickens
+0x11F2	Brian
+0x11F4	Torie
+0x11F5	A young hen. / Rather peckish.
+0x11F9	A curious chicken. / Fascinated by fire.
+0x11FC	MacBriare
+0x11FD	A pirate known as / the "Sea Lion".
+0x11FE	Chicken
+0x11FF	A hapless farm animal. / Supposedly can count.
+0x1200	After their encounter with / bandits in the rural hills, / Storc
+0x1201	 / Looks like we got a little / time to spare, huh? |  / Never been 
+0x1202	 /  / So, you're telling me you / can't help out? |  / Why in heck's d
+0x1203	 /  / How's inventory looking? | We got, uh, a dozen pigs, |  / three 
+0x1204	 /  /  / Yeah, and sometimes ol' gran / would make a pie out of them
+0x1205	 /  /  /  / Huh? Who are they, mister? | Listen kid, that ain't no mer
+0x1206	 / Ol' Stoltzki got what he had comin'. |  / Throwing the blowhard
+0x1207	You must defend the town / until the reinforcements arrive. |  / I
+0x1208	 / MacBriare, the Sea Lion, is feared / around these waters. |  / He
+0x1209	 / That Sea Lion is a big meanie! |  / All he does is take farm an
+0x120A	 / Look at all these chickens / roaming around the town... |  / I me
+0x120B	 / Finally, those reinforcements. / It's about time! |  / Those dast
+0x120C	 /  / We owe you lot for your help. / All of my precious chickens.
+0x120D	 /  / My chickens... they're not all here. / Well, I commend you l
+0x120E	 /  / And wait just a moment... |  / What about that girl? / She helpe
+0x120F	 /  /  /  / Looks like whoever is left / is fleeing now. |  / Thanks for a
+0x1210	 /  / Hey there, Storch! |  / It's nice of you to help / us out with t
+0x1211	 /  / Sigh... the Sea Lion himself. / I never liked the dastard. | H
+0x1212	 /  / Lord Titus, why are we here? |  / Look at this mess. / Saving ch
+0x1213	 / Hey! You're the Sea / Lion, aren't you? |  / That's who I am. / Who
+0x1214	 / Nazar? You're with this militia? |  / Never thought you'd be / so
+0x1215	 / I am MacBriare, / the Sea Lion! |  / My axe will crash into / your 
+0x1216	 / So, they're still fighting? / Looks like it's up to me... |  / Ev
+0x1217	 / No... my... chickens... | 
+0x1218	 / Oof... I suppose... |  / My chickens have / come home to roost...
+0x1219	 / Hmph, I didn't expect / it'd come down to this... |  / I've stuck
+0x121A	 /  / Tien? | Hm? Yes, Freyja? / What is it? | You look somber. | I've a
+0x121B	 /  / Natsuko, hold just a moment. | Oh, hello, Hokulani. | I wanted
+0x121C	 /  / Dewi... how are you / feeling about all of this? |  / We went th
+0x121D	Heck, I'm Honeydew (Pandan ft. Chair)
+0x121E	Vision Qredits (Chair)
+0x1220	Pirates under command of / MacBriare, the Sea Lion.
+0x1221	Hidden Village (Twilight Princess)
+0x1222	 / Argh... So, that's it, eh? |  / Damn... Stoltzki... This is / you
+0x1223	 /  / Yo, Sage Vernon! | Ah, hello, Duck. / Is something the matter?
+0x1224	Brooding Blade (Chair)
+0x1225	Menahan
+0x1226	Knight-captain of Ofenloch. / A martial arts enthusiast.
+0x1227	Jae
+0x1228	Knight of Ofenloch. / Has an eye for art.
+0x1229	Selanne
+0x122A	Knight of Ofenloch. / Fascinated by the weather.
+0x122E	A kind girl who likes / animals and plants.
+0x122F	l
+0x1231	Seruni
+0x1233	Rakkaus
+0x1235	Wabooz
+0x1236	Bandits who have taken / control over the old canal.
+0x1238	A disgraced noble residing / near the old canal.
+0x1239	Kuda
+0x123A	Warrior serving Chief Waluyo. / A pragmatic tactician.
+0x123B	A big hunk of wood / to be used for a fire.
+0x123C	Vlasic
+0x123D	Commander of a Nevanese / strike force. Aggressive.
+0x123E	Log
+0x123F	 /  /  / Lady, er, Lord Lori! / I have a report. | Speak, Captain Mena
+0x1240	 / Soldiers of Belaro! / My valorous champions! |  / Today we begin 
+0x1241	 / What is all that noise? |  / Are the boys making / a ruckus over 
+0x1242	 / That Tompkins is / an absolute dolt. |  / I ain't got the kinda t
+0x1243	 /  / Hm, you don't look like a knight. / You look like one of our
+0x1244	 /  / Well, well, well... |  / If it isn't Menahan! / Lord Lori's left
+0x1245	 /  / Jae, a word. | Oh, hey Selanne. | How do you feel about this? | 
+0x1246	 / Just go on... / without me... | 
+0x1247	 / Heck... guess that's / it for me... | 
+0x1248	 / Cloudy skies... |  / Not surprised... / that this happend, now...
+0x1249	 / Maelle... forgive / your father. |  / He... failed you. | 
+0x124A	 / Father... |  / The forest is calling / me back home... |  / I can see
+0x124B	 / Oof! |  / Please... don't let me / be lost to history... |  / The ann
+0x124C	 / Oof... |  / Guess this is what / I deserve for trusting... | 
+0x124D	 / Where are you!? |  / Demons! Dastards! / Don't hide from me! |  / I w
+0x124E	 / Heck! / Damn it all! |  / I don't deserve this! / Unhand me! |  / I am 
+0x124F	 / Hindrawan... Chief... / Guess I wasn't enough... | 
+0x1250	 / Graaaagh! |  / I hate this! / How did you... |  / I lost to a bunch / o
+0x1251	 / Lori, you wretch. |  / You couldn't let / me live in peace? |  / Shut
+0x1252	 / Rakkaus! / You'd betray me!? |  / I knew this day / would come... |  / 
+0x1253	 / Drat! |  / You've come this far... / I'll end this myself! | 
+0x1254	 /  / Lord Titus. / Are you well? | Yes. Quite alright. / We achieved 
+0x1255	Along the Wabooz are forests / that line the waterway. |  / In the
+0x1256	 /  /  /  / Vagelis, you show off! / A log in each arm? |  / You're making
+0x1257	 /  / Hindrawan. We've found them. | So, they decide to forage her
+0x1258	 / Soldiers. Prepare to strike! |  / We will not let them escape! / 
+0x1259	Escape to the north near the boss / by seizing the flashing ti
+0x125A	 /  / Thanks again for offering / to help us out, Cygnus. |  / I'm sor
+0x125B	 /  / Miss Esfir... please, be safe. | Maelle, you're awfully kind
+0x125C	 /  / Father... this war... / Are we going to die? | Maelle... In wa
+0x125D	 /  / We're almost home, Dewi. / I can't believe it. |  / I can't beli
+0x125E	 /  / Whew... we made it. |  / And we saved all the / logs, too. Good 
+0x125F	 /  / We made it, somehow. / But the firewood... |  / We couldn't grab
+0x1260	The border of Kuching and Nevan / is blessed with many rivers.
+0x1261	 / ... There we go. / Just a little closer... |  / ... / ... |  / Huh? / It 
+0x1262	 /  / You really did not / like that curry, dear? | Not at all. You 
+0x1263	 /  / So, you can do / more than talk. |  / That is reassuring. | Listen
+0x1264	 / What good fortune has / graced us today! |  / Ha! Look alive, men
+0x1265	 /  /  / Could it truly be / the Great Chief? |  / Chief Waluyo, it is a
+0x1266	 / Hm? You're not one / of ours. Who are you? |  / Actually, forget 
+0x1267	 / I am Kuda! |  / Remember my name well, / for it is the last you'l
+0x1268	 / You dare face me? / Ha! |  / You're as good / as dead, vermin. |  / Hmp
+0x1269	 / Trying to rush / past us, eh? |  / You're dumber than / you look! |  / 
+0x126B	 /  / Hm? You're new. / Who are you? | I am Radoslav. |  / I am a schola
+0x126D	A common gemstone / worth 1,000 gold.
+0x126E	 /  /  /  / Chief, please, take this as thanks. / We're grateful for o
+0x1270	Saint Batari
+0x1271	Menahan, The Exemplar
+0x1272	Jae, Wanderer
+0x1273	Selanne, Ofenloch's Blade
+0x1275	Radoslav, Studious Sage
+0x1276	Seruni, Feared Huntress
+0x1277	Rakkaus, Changed Man
+0x1279	Storch Quest (Chair)
+0x127A	 / Stop dawdling!  / Go, Storch! |  / I said to RUN! |  / Ah! Alright, a
+0x127B	Alm Enemy Phase (FE2)
+0x127C	Celica Map 2 (FE2)
+0x127D	Fast Lane (Crue Ball)
+0x127E	World 1 (Kid Icarus)
+0x127F	Underworld (SMB2)
+0x1280	Big Boss (SMW2)
+0x1281	Track 1 (Extreme G)
+0x1282	Bumper-Crop Bump (Kirby 64)
+0x1283	Astral Observatory (LoZ: MM)
+0x1284	Mayor's Theme (LoZ: MM)
+0x1285	Boss A (Starfox 64)
+0x1286	Trainer Battle (Pokemon TCG)
+0x1287	Xiayou (Tekken Tag Tournament)
+0x1288	Revenge! (FE6)
+0x1289	One Will (FE6)
+0x128A	Legendary Inheritance (FE6)
+0x128C	 / Eh, what's this? / A young girl? |  / This is the guard / of Port I
+0x128D	Osane
+0x128E	A cheerful lass from Belaro / who enjoys history and magic.
+0x128F	Bosco
+0x1290	A guardsman from Belaro. / Troubled, yet fiercely confident.
+0x1291	t M
+0x1292	 / Hrrrngh... Osane... / Your brother... |  / Couldn't get it done..
+0x1293	 / Oof! |  / Looks like... / I'm done for... | 
+0x1294	 /  / Have you found anything, Osane? | Nothing yet, Bosco. |  / I kno
+0x1295	 /  / We're lucky you arrived. / Thanks for helping us out. | I have
+0x1296	 /  / So, you some type of / dark mage hunter, or what? |  / I don't f
+0x1297	 /  / Osane, was it? |  / How did you and your brother / even find thi
+0x1298	 /  / Osane, you can't stay too close! |  / You never know when a st
+0x1299	 tr
+0x129A	A young farm boy. / Admires his older brother.
+0x129B	 ri
+0x129C	A young village girl. / Yearns for companionship. / 
+0x129D	 / Heck... I'm... I'm... |  / I should've just stayed / back... at h
+0x129E	 / No... Storch... |  / Where are you? / It's... so dark... |  / I can't
+0x129F	 /  /  / Huh? / Where am I? |  / Is that... | Oh no, bandits! / Stand back, 
+0x12A0	If Young Storch or Young Larisa / die, you will receive a game
+0x12A2	A young boat crewman / yearning for a big moment.
+0x12A3	 /  / We have to press northwards. |  / There is a path to the north
+0x12A4	 /  / Lord Lori! | Hm? Speak, man. | Right. |  / Our hunting party has / r
+0x12A5	Anwen
+0x12A6	High ranking bishop / from Orebro on a mission. / 
+0x12A7	hw'  w. r.
+0x12A8	Many hours later... | 
+0x12A9	 /  / I hope you understand / the trouble you've caused. |  / Lord Tit
+0x12AA	 / A young girl? / You dare to face me? |  / I'm not afraid of you! | 
+0x12AB	 / ... |  / ... |  / ... Nothing to say? |  / I will not speak with you. |  / 
+0x12AC	 / So, you're the one / they're after. |  / All of this trouble / for 
+0x12AD	 / They're not giving up... |  / Men! / Fall back, now! |  / I will not 
+0x12AE	 / You dare face a sage / as powerful as I, girl? |  / You've picked
+0x12AF	 / A town guard? |  / Is Lord Titus' coalition / really so ragged? |  / 
+0x12B0	 /  / I see you, Horvath. |  / I don't know what / you're scheming, |  / b
+0x12B1	A few days later, / en route to the Wabooz. | 
+0x12B2	 / They're inching closer... |  / Danging them to heck would / not b
+0x12B3	 / Need a hand? |  / Name's Cashew, I'm / an archer. |  / Pleased to mak
+0x12B4	 /  / Cashew. | Oh... Hey, Captain! | Don't play me the fool, boy. |  / 
+0x12B5	 / What... |  / But... I'm not ready / to die just yet... |  / Sister, m
+0x12B6	Osane, Young Wizard
+0x12B7	Bosco, Guardian Spear
+0x12B8	Cashew, Never Content
+0x12B9	Anwen, Resolute Oathtaker
+0x12BA	 / My mission... |  / O divine light, take this / poor soul... |  / Let 
+0x12BB	 / Well, when we heard there / was a chicken thief, |  / I was expec
+0x12BC	 / Ah, so the Divine Bishop's / handmaiden is here. |  / Are you goi
+0x12BD	 / Ah, so you're the / escaped rat. |  / Many of my people / have fall
+0x12BE	 / The only way out is / to push through. |  / We must rescue the / in
+0x12BF	 / Chief Waluyo! |  / Prepare to be / skewered! |  / Your crimes will / no
+0x12C0	 / Insolent wench! / You dare to face me? |  / I don't care about yo
+0x12C1	Training Theme (Punch Out!)
+0x12C2	Forest Interlude (DKC2)
+0x12C3	Few Paths Forbidden (SD3)
+0x12C4	Oppression (DW3)
+0x12C5	National Park (Pkmn Silver)
+0x12C6	Axe Bring Storm (SD3)
+0x12C7	Fighting the Spirit (ToS)
+0x12C8	Regular Enemy (PMTTYD)
+0x12C9	Accept Sidequest (Pandan)
+0x12CA	Specter's Castle (Ape Escape)
+0x12CB	 /  / Bosco... |  / Are we truly to go / to Mahala with everyone? | Yes.
+0x12CC	Planet Ratis (Salamander)
+0x12CD	Battle (KDVG)
+0x12CE	BGM03 (Kaijuu Monogatari)
+0x12D0	 / What the... / Cygnus, is that you? |  / You dare show your / sorry 
+0x12D1	Vs. Rocket Leader (PTCG2)
+0x12D2	Ronald (Pokemon TCG2)
+0x12D3	Grandmaster Duel (PTCG)
+0x12D4	Muda (Super Mario Land)
+0x12D5	Storch remained at home on the / farm until his parents passed
+0x12D6	Helga left Titus shortly after he / was crowned emperor. Titus
+0x12D7	After being crowned emperor, Titus / appointed Zoya to become 
+0x12D8	The pair developed a close / bond and were wed. Esfir / found a 
+0x12D9	Having grown closer during the war, / Arckady moved to Rask to
+0x12DA	The pair respected each other's  / hunting prowess, and romanc
+0x12DB	Natsuko did not make Arckady wait / too long to accept his pro
+0x12DC	Arckady and Larisa returned to Belaro, / and developed a roman
+0x12DD	Determined to show Osane he / was the man she dreamed of, / Arck
+0x12DE	Arckady asked Otilie to return / with him to his home, but Oti
+0x12DF	The pair fostered a great / friendship and rivalry. / Every time
+0x12E0	Arckady asked for Freyja's hand / in marriage, but she refused
+0x12E1	The young couple matured and / were wed years later. They trav
+0x12E2	With Hokulani's help, Natsuko / moved up in the army. Realizin
+0x12E3	Natsuko quit the nights and joined / Naia as a mercenary on sh
+0x12E4	The old friends helped each other / through their dark times. 
+0x12E5	Marlen always looked up to Duck, / and the two wrote letters f
+0x12E6	Larisa eventually earned the respect / of Stina, and the two b
+0x12E7	The two became madly in love, / and tossed aside their knightl
+0x12E8	After the war, Sigrid took the / crown of Lomsk. Erasmus was / a
+0x12E9	The twins grew closer throughout / the war, and returned to Ku
+0x12EA	After being appointed great general, / Zoya appointed Hollace 
+0x12EB	Bulan and Stina developed a / friendship and romance. Stina le
+0x12EC	Moved to support her friend, Freyja / joined Tien on his quest
+0x12ED	Hokulani and Tien developed / a close friendship, and she was / 
+0x12EE	Tien and Cassius both went to Orebro, / seeking answers. While
+0x12EF	The brothers returned home together. / Their parents were happ
+0x12F0	Michael and Bulan maintained / a friendship for years after th
+0x12F1	Admitting their feelings for each other, / the pair returned t
+0x12F2	With not much else in common / besides their deceased friend, / 
+0x12F3	Menahan went to Mahala / with Hokulani, and fell in love. / The 
+0x12F4	After the war, Mango and Duck / went their separate ways. Mang
+0x12F5	The pair had a short lived / romance, but ultimately parted. / D
+0x12F6	While Helga and Ruslan never / spoke again, Papillion and Vaid
+0x12F7	Hollace begged Anisa to return / to Nevan, and she refused. / Wh
+0x12F8	Stina continued to serve as / Cajon's retainer for many years.
+0x12F9	The moment she tossed aside the / mythic short range bow, Zulj
+0x12FA	Lady Sigrid took over the / throne from her deceased father. / T
+0x12FB	Zuljalal hounded Zakawat for a / duel to prove his might. Zaka
+0x12FC	When Gunnar went back to / Orebro, he didn't tell Duck. / Duck n
+0x12FD	Duck convinced Stina to leave / the knights of Mostyn behind. / 
+0x12FE	After the war, Lajos invited / Onderdonk to his home. / Lajos pr
+0x12FF	Honeydew went home to raise fowl, / and Cashew stayed in Freyu
+0x1300	Honeydew and Onderdonk both / discovered a mutual love for coo
+0x1301	Jae left the knights to / focus on painting. Menahan / admired h
+0x1302	The pair became the most / popular couple in Ofenloch. / The two
+0x1303	Menahan and Rakkaus became / training partners. Rakkaus was / de
+0x1304	When Jae left the knights, / Selanne was crestfallen. / While Ja
+0x1305	While Cygnus never got over / his guilt, Maelle reasurred her 
+0x1306	Cashew professed his feelings / for Maelle, and the two engage
+0x1307	Osane and Bosco returned to / Belaro and lived in port. / They l
+0x1308	After the war, they both returned / to Freyung. Cashew would f
+0x1309	 /  / I enjoyed our spar, Zuljalal. / You have a strong stroke. |  / A
+0x130A	 /  /  / Hey, Vagelis. |  / Yes, Storch? / Is something the matter? |  / Nah
+0x130B	 /  / Say, Vagelis... / I was thinking, |  / do you remember when we / w
+0x130C	 /  / You there! |  / Gah! M-me? |  / You lumbering oaf, / you almost hit 
+0x130D	 /  / Bulan? |  / What is it? |  / I thought about it. / I want to know...
+0x130E	 /  /    / Hollace! |  / Gah! Bulan! |  / You are are skittish / as a kitten
+0x130F	 /  / Zuljalal. That's your name, correct? |  / Demon! How did you c
+0x1310	 /  / Sister... my baby sister, Anisa. / To know you are here... |  / 
+0x1311	 /  / Anisa, tell me, what has / your life been like in Kuching? |  / 
+0x1312	 /  / Anisa. |  / ... Yes, Hollace? |  / I know things have been... / some
+0x1313	 /  / Honeydew, what are you doing? / Why are you looking at the g
+0x1314	 /  / Kir, may I ask / you a question? |  / Speak, man! |  / Y-yes, sir! |  / 
+0x1315	 /  / Ah, Hollace. There you are. / I'm ready to answer your quest
+0x1316	 /  / Hollace, I wanted to talk to you. |  / Oh, Kir! About what? |  / A
+0x1317	 /  / Hey there, Selanne, / how are you doing? |  / Hey there, Honeyde
+0x1318	 /  / Honeydew, I wanted to talk / to you about something. |  / Oh! He
+0x1319	 /  / Woah! That's quite a wyvern / you got there, mister. |  / What's
+0x131A	 /  / So, wyverns like to eat meat? |  / That's correct. / Lots of bee
+0x131B	 /  / So, what do you think? / Pretty yummy, right? |  / Stir fried ca
+0x131C	 /  / That's a mighty fine / axe swing you got there, miss. |  / Thank
+0x131D	 /  / So, Freyung is not really / great for farming. |  / We can't gro
+0x131E	 /  / Hey! Cashew! |  / Oh! Hey, Honeydew. |  / You've been avoiding me / 
+0x131F	 /  / Freyja, may I ask you something? |  / Sure, what is it? |  / Your 
+0x1320	 /  / You feeling alright? |  / Your stamina... it's better / than mos
+0x1321	 /  / Freyja, are you enjoying / your new pot? |  / It was certainly..
+0x1322	 /  / You've got a / unique riding style. |  / I haven't seen it befor
+0x1323	 /  / There you are, Duck. / I was looking for you. |  / Hm? What for?
+0x1324	 /  / Duck. |  / Hello, Sarka. |  / Here on your own volition / or are the
+0x1325	 /  / Hey. You're one of / the Imperial Nevanese knights, right? |  / 
+0x1326	 /  /  / Sarka! |  / Yes, Stina. / Must you shout? |  / Your heads in the cl
+0x1327	 /  / Stina. |  / Sarka. |  / I haven't seen you much lately. |  / You barel
+0x1328	 /  / Commander Erasmus! |  / Ah, Lady Sarka. / How are you faring? |  / I
+0x1329	 /  / Lady Sarka... |  / Yes, Commander Erasmus? |  / I need to share so
+0x132A	 /  / Lady Sarka. |  / Commander... |  / How are you doing? |  / I am doing 
+0x132B	 /  / Duck. |  / Hm? What is it? |  / I got a letter recently. / It's from
+0x132C	 /  / Duck. About the letter. |  / I said you can wipe / your dung on 
+0x132D	 /  / Mango. |  / Daryl. |  / You know I don't / like that name, Marjorie.
+0x132E	 /  / Hm, you look familiar. / What's your name, soldier? |  / Who's a
+0x132F	 /  / Duck. / You dropped this. |  / Your dog tag. |  / Hm? Thanks. / Where'
+0x1330	 /  / Duck. |  / Came to interview me / again, Stina? |  / No. |  / Then? |  / You
+0x1331	 /  / Freyja, how are you / handling life on the road? |  / Hey, Tien.
+0x1332	 /  / Tien. |  / Yes, Freyja? / Are you well? |  / Yeah, I'm fine. |  / Been t
+0x1333	 /  / ... |  / ... |  / Got something to say? |  / Yes. / Do you? |  / Yeah. Do yo
+0x1334	 /  / Lady Hokulani of the / Mahalan Royal Guard, I take it? |  / Yes,
+0x1335	 /  / Tien. I wanted to ask you. / You seemed uneasy last time we 
+0x1336	 /  / Lady Hokulani. |  / Hello, Tien. |  / I hope you did not take / my w
+0x1337	 /  / Sage Vernon. It is nice  / to see you again. |  / Ah, yes... Tie
+0x1338	 /  / Sage Vernon. |  / Hello, Tien. / How are you faring? |  / I am well.
+0x1339	 /  / Tien. |  / Sage Vernon? |  / I realize that you and / I have much in
+0x133A	 /  / You... You're from Orebro, / are you not? |  / Ah, one of the li
+0x133B	 /  / Cassius. |  / Ah, the monk. / Hello, Tien. |  / I thought deeply abo
+0x133C	 /  / Ah, Tien. |  / Just who I was looking for. / What an opportune m
+0x133D	 /  / Hey, um... Sir? |  / Hm? Well, you're a small lad. / You're talk
+0x133E	 /  / Oy! Kid! |  / Oh! Rakkaus! / How can I help you? |  / You can help m
+0x133F	 /  / Hey, Rakkaus. |  / You got me thinking a lot / about my parents.
+0x1340	 /  / Hm, that's quite a swing / you have there, friend. |  / Thanks. | 
+0x1341	 /  / Freyja, you said you liked / fighting for a wage, yeah? |  / "Li
+0x1342	 /  / Hey, Freyja. |  / Hey there, Mango. / You alright? |  / You seemed p
+0x1343	 /  / Well, well, well, / if it isn't Naia! |  / What do you want / now,
+0x1344	 /  / Dreyfus, here's the report / I wrote for the Captain. |  / I nee
+0x1345	 /  / Dreyfus, have you received / anything back from the Captain?
+0x1346	 /  / You there! |  / I recognize you. / But your name... |  / It escapes 
+0x1347	 /  / Say, I recognize that / blade stroke... |  / It's all coming bac
+0x1348	 /  / Mango, I wanted to thank you. |  / For what? / Being an easy foe
+0x1349	 /  / Dreyfus! |  / Cashew! / What are you doing? |  / Looking for you. / Se
+0x134A	 /  / Cashew, watch your back more. / I can't keep both eyes on yo
+0x134B	 /  / Cashew, you're holding your / bow a little wrong. |  / Here, let
+0x134C	 /  / Well, look at this. / It's Dreyfus. |  / Hm? Mango? |  / How did you
+0x134D	 /  / Dreyfus. / There you are. |  / Oh! Damn it, Mango, / don't sneak u
+0x134E	 /  / Alright, Mango. / Here's the deal. |  / I know you're a  / gamblin
+0x134F	 /  / Michael, I can tell you've / been putting in some practice. | 
+0x1350	 /  / Michael. |  / Oh, hey Dreyfus. |  / Look, I know what our parents / 
+0x1351	 /  / Hey, Dreyfus. |  / Hello there, Michael. / How are you today? |  / D
+0x1352	 /  / Hey, miss. / That's a nice horse. |  / Oh... thank you. / His name
+0x1353	 /  / Oh, hey! Maelle! |  / Ah! Oh, Cashew... / Nice to see you again.
+0x1354	 /  / Hey, Maelle. |  / I wanted to apologize / for the other day... |  / 
+0x1355	 /  / Excuse me. / Are you Sage Vernon? |  / Yes, that is who I am. / Ma
+0x1356	 /  / There you are, Zakawat. / I haven't seen you around. |  / Are yo
+0x1357	 /  / Sage Vernon, I wanted to follow / up from our prior discussi
+0x1358	 /  / Hm? I didn't know we had / other Mahalan knights here. |  / Whic
+0x1359	 /  / Ah, Hokulani. / I... |  / had a question I wanted / to ask of you.
+0x135A	 /  / Hokulani. |  / Hello, Menahan. / What is it? |  / I wanted to thank 
+0x135B	 /  / Watch where you swing / that blade of yours, girl. |  / You'll d
+0x135C	 /  / Well, if it isn't the / fortune teller. |  / I heard a bit more 
+0x135D	 /  / Well? You're starting to make / me think you're a fraud. |  / I 
+0x135E	 /  / You there, half-shaved hair woman! |  / I have a name, man. / Ca
+0x135F	 /  / You! |  / Surprised to see me? |  / Frankly, I'm more surprised yo
+0x1360	 /  / Mango. |  / Hm? Zuljalal? / What is it? |  / You were right. |  / I was 
+0x1361	 /  / Captain Menahan. |  / Yes, Selanne? |  / Here is the report / you re
+0x1362	 /  / Selanne, how are you faring? |  / Captain Menahan, I am well. / 
+0x1363	 /  / Captain Menahan, a word. |  / Yes, Selanne? |  / I was struggling 
+0x1364	 /  / Jae, how are you / holding up? |  / Oh, Captain Menahan. / I'm fin
+0x1365	 /  / Jae, nice movement out there. / Your riding has improved. |  / T
+0x1366	 /  / Captain Menahan? |  / Hm? What is it, Jae? |  / I wanted to share 
+0x1367	 /  / Captain Menahan, don't / think I've forgotten. |  / I'm looking 
+0x1368	 /  / Menahan! |  / Like I said, I want a best / two out of three. |  / Or
+0x1369	 /  / Captain Menahan. |  / Hello, Rakkaus. / How are you? |  / As much as
+0x136A	 /  / Hm, that stance... / Excuse me, Cygnus? |  / Hm? What is it, lad
+0x136B	 /  / Menahan, was it? |  / Yes. Can I help you, Cygnus? |  / I wanted t
+0x136C	 /  / Cygnus. |  / Yes, Menahan? |  / I can tell from our previous / conve
+0x136D	 /  / Jae, you really should stop / carrying your art supplies aro
+0x136E	 /  / Selanne. |  / Yes, Jae? |  / I wanted to apologize for / acting out 
+0x136F	 /  / I didn't know you had such / a keen eye for art, Selanne. |  / W
+0x1370	 /  / Ah, excuse me.  / Jae, was it? |  / Oh, yes. That's me. / You're..
+0x1371	 /  / Jae, here. |  / Cygnus, is this... / my pastry bag!? |  / Did you pa
+0x1372	 /  / Cygnus!  / I got you something. |  / Oh, hello, Jae. / What are th
+0x1373	 /  / Excuse me, are you lost? |  / Hm? Oh... / No, I'm not. |  / I'm... u
+0x1374	 /  / Excuse me, Jae? |  / Oh, hey, Maelle. / Are you doing alright? |  / 
+0x1375	 /  / Maelle! That cake we made / was super tasty. |  / You're really 
+0x1376	 /  / Oy! / Watch that horse, girlie. |  / You damn near trampled me. | 
+0x1377	 /  / Your name is Rakkaus, isn't it? |  / Oh, it's you. / Yeah, what 
+0x1378	 /  / You! Knight wench! |  / My name is Selanne. |  / To heck with your
+0x1379	 /  / Well, what do we have here? / Look how tiny you are! |  / Oh... 
+0x137A	 /  / Maelle! I've got a few scrapes. / Help me out, will you? |  / Oh
+0x137B	 /  / Maelle... |  / Oh, Rakkaus. / Are you okay? |  / I don't see any bru
+0x137C	 /  / Hey, what's that in your hair? |  / Did a bird get stuck in it
+0x137D	 /  / Oh, look. It's the feather-lady. |  / Look. It's the bald oaf.
+0x137E	 /  / Hey, lady. |  / I realized we never got / to exchange names. |  / Ca
+0x137F	 /  / ... Father? |  / Yes, my dear? |  / Is this what it was like / for y
+0x1380	 /  / ... Father, are you well? / You look hurt. |  / Maelle, I'm alri
+0x1381	 /  / Father. |  / Yes, Maelle? |  / I wanted you to tell me / about why y
+0x1382	 /  / Oh! It's so nice to see / another girl my age here. |  / I am Si
+0x1383	 /  / Ah, Maelle. / Perfect timing. |  / I've prepared some / biscuits f
+0x1384	 /  / Maelle. |  / Oh, hi Sigrid. |  / Thank you again for the / biscuits.
+0x1385	 /  / Say, Duck! |  / That's a mighty fine horse / you got there. What
+0x1386	 /  / Ketut, have you adjusted / to life on the battlefield? |  / Kusu
+0x1387	 /  / Kusuma, I wanted to share / with you a dream I had recently.
+0x1388	 /  /  / Anisa! |  / You're off in a  / rush today, aren't you? |  / ... How
+0x1389	 /  / Surya, you're awfully / reckless on the battlefield. |  / Let me
+0x138A	 /  / Ketut! |  / Yes, Surya? |  / I thought a lot about what / you told m
+0x138B	 /  / Ketut... it is risky / for you to fight. |  / Please... stay bac
+0x138C	 /  / Sir Onderdonk! |  / I wanted to continue showing / you Kuchingi 
+0x138D	 /  / Ketut, it's been quite a while / since I've seen you around.
+0x138E	 /  / Ah, Sister Ketut. / I'm glad I found you. |  / I wanted to share
+0x138F	 /  /  / Anisa! |   / Watch yourself out there!  / There's only so much 
+0x1390	 /  / Ketut. |   / I assume now is  / your daily inquiry? |  / It's become
+0x1391	 /  / Ah, if it isn't Anisa. |  / ... Hello, Bulan. |  / Is that all you
+0x1392	 /  / Good shooting, Anisa. / You're improving quite a lot. |  / ... T
+0x1393	 /  / Bulan. / Here. |  / This is... your medal. / You're giving this to
+0x1394	 /  / Michael! |  / You must stop prancing / about on the front lines.
+0x1395	 /  / Michael. |  / Oh, hey, Bulan. |  / Look, I wanted to apologize  / fo
+0x1396	 /  / Say, Bulan. |  / Why do you care so / much about me, anyway? |  / I 
+0x1397	 /  / Stina. |  / Bulan. |  / You look like a seasoned warrior. / When did
+0x1398	 /  / Stina, are you well? |  / I'm doing as well as I can be. |  / I su
+0x1399	 /  / Bulan. |  / Yes, Stina? |  / There was a flower / in my tent with a 
+0x139A	 /  / Ah... You! |  / You're from Orebro, / are you not? |  / Hm, a fellow
+0x139B	 /  / Cassius. |  / I'm curious to learn more / about this Order of yo
+0x139C	 /  / Bulan, a question for you. |  / Cassius, perhaps, / I have an an
+0x139D	 /  / Anisa, nice shot! |  / I was a little off. |  / That last cavalrym
+0x139E	 /  / Anisa. |  / Yes, Kusuma? |  / You dropped this. / Is it a letter? |  / O
+0x139F	 /  / Anisa. |  / Hey, Kusuma. |  / I wanted to ask you- |  / About what I m
+0x13A0	 /  / Kusuma. / You doing alright? |  / Hello, Surya. |  / Yes, I'm doing 
+0x13A1	 /  / Kusuma, watch out! |  / Woah! |  / Ya! |  / Nice stroke! / They almost g
+0x13A2	 /  / Surya. |  / Oh, hey, Kusuma. / You doing alright? |  / I... |  / I wante
+0x13A3	 /  / Well, hello there. |  / The pink-haired maiden, / bow in her han
+0x13A4	 /  / Ah, Anisa. |  / You know, you appeared to me / in a dream after 
+0x13A5	 /  / Ho there, Anisa! |  / I've come to ask you once / more for your 
+0x13A6	 /  / Damn it... |  / Zuljalal? |  / Oh, it's the / pink-haired archer. |  / M
+0x13A7	 /  / Zuljalal. |  / Are you feeling / any better, now? |  / Not entirely,
+0x13A8	 /  / Well, Anisa, here it is. |  / I just got it shipped to me / last
+0x13A9	 /  / Kir! / My fellow axe brother! |  / Ah, Surya. / Are you well? |  / Bet
+0x13AA	 /  / Kir! Kir! |  / I think I got it. / The special move! |  / Ah, Surya.
+0x13AB	 /  / Surya, I think / I've come up with some improvements. |  / Kir? 
+0x13AC	 /  / You're Michael, the / Chief's new bard, no? |  / Oh! Yes! |  / That'
+0x13AD	 /  / Ah, Michael. |  / I'm curious, do you take / requests for songs?
+0x13AE	 /  / Michael, how is that / piece coming along? |  / Oh! Duke! |  / Well,
+0x13AF	 /  / Excuse me, Sir Bard, what / was the key of that last song? |  / 
+0x13B0	 /  / Hey, Timmonen! |  / Did you enjoy that / last tune? |  / I've been t
+0x13B1	 /  / Timmonen. |  / I wanted to show / you something. |  / It's... a viol
+0x13B2	 /  / Onderdonk, are you from Balti? |  / We don't have too many / wyv
+0x13B3	 /  / Onderdonk, are you self-taught / in axe fighting as well? |  / Y
+0x13B4	 /  / Kir. |  / How do you / find my form? |  / Looking sharp, Onderdonk. / 
+0x13B5	 /  / Duke Cajon. |  / Ah, Stina. / How are you doing? |  / It's hard to t
+0x13B6	 /  / Duke Cajon. |  / You shouldn't circle around / the enemy like th
+0x13B7	 /  / Stina. |  / Duke. |  / I wanted to apologize. |  / I admit, I've been 
+0x13B8	 /  / A fellow equestrian! / How exciting! |  / ... Hello. |  / You are a 
+0x13B9	 /  / Ah, Seruni. |  / Your fighting style has me / questioning my own
+0x13BA	 /  / Ah, Seruni. |  / Have you done much hunting / since you joined t
+0x13BB	 /  / Seruni, I wanted to apologize / for getting us mixed up in t
+0x13BC	 /  / Seruni, I have a question for you. |  / I've been writing abou
+0x13BD	 /  /  / Seruni, what do I need to / do to get you to talk? |  / You are
+0x13BE	 /  / Pardon me, my good man, / but I see you use anima tomes. |  / Ma
+0x13BF	 /  / Most interesting, so prior to / your time on the mountain, |  / 
+0x13C0	 /  / Radoslav, I am curious. |  / What compels you to write a / book 
+0x13C1	 /  / Pardon me, but are / you from Orebro? |  / Your style of dress l
+0x13C2	 /  / So, Anwen, you didn't tell me, / what is your role in the ch
+0x13C3	 /  / Tell me, Anwen. |  / Does the Divine Bishop play / an active rol
+0x13C4	 /  / Are you one of Chief / Waluyo's soldiers? |  / I love the color 
+0x13C5	 /  / Seruni! |  / I want to go hunting / for this buffalo of yours. |  / 
+0x13C6	 /  / Seruni! |  / I must know, why can I not / go into Kuching? |  / How 
+0x13C7	 /  / Zakawat! |  / How does it feel to be / amongst men once more? |  / I
+0x13C8	 /  / Zuljalal. |  / Zakawat! / What is it? |  / Your form is looking slop
+0x13C9	 /  / Zakawat! |  / I will not rest until / you agree to duel me. |  / Zul
+0x13CA	 /  / You there! / Holy woman! |  / What is it, swordsman? |  / I am reque
+0x13CB	 /  / Holy woman! |  / Am I injured enough for / you to heal me now? |  / 
+0x13CC	 /  / Holy woman! / A request from you. |  / If it is about a heal, / yo
+0x13CD	 /  / Sir Timmonen, a question. |  / Commander Erasmus, |  / you may spe
+0x13CE	 /  / Commander Erasmus. |  / Oh. Sir Timmonen. / How are you? |  / Never 
+0x13CF	 /  / Commander Erasmus, here. |  / Hm? A book? / But why? |  / Emperor Bo
+0x13D0	 /  / Commander Erasmus! |  / Yes, milady? |  / How goes the battle? |  / Se
+0x13D1	 /  / Commander Erasmus! |  / I wanted to give you something / that I 
+0x13D2	 /  / Commander Erasmus. |  / Yes, Lady Sigrid? |  / You've been riding 
+0x13D4	 /  / Lady Sigrid. / Are you well? |  / Yes, Sir Timmonen. / All is well
+0x13D5	 /  / Lady Sigrid, what's that smell? / Is that... cheese? |  / Yes, w
+0x13D6	 /  / Sir Timmonen! / I wanted to give this to you. |  / A package? / Wh
+0x13D7	 /  / What a pleasant surprise. / It's Lady Anwen. |  / You're... you'
+0x13D8	 /  / Cassius. |  / Yes, Lady Anwen? |  / You don't need to put / on airs 
+0x13D9	 /  / Cassius. |  / Yes, Anwen? |  / What you shared with me / is enlighte
+0x13DA	 /  / That armor... Hmm... |  / ... Yes? / May I help you, sir? |  / Ah, a
+0x13DB	 /  / Cygnus, your fighting style... |  / Were you a soldier, once? | 
+0x13DC	 /  / Kir, I have something / I must ask of you. |  / Yes, Cygnus? |  / Mu
+0x13DD	 /  / So, you're Helga. / Lord Titus' bodyguard? |  / That's me.  / Who'
+0x13DE	 /  /  / Huff... puff... |  / Hm, getting fatigued? |  / You don't need to
+0x13DF	 /  / Helga! / You owe me an explanation! |  / I don't owe you anythin
+0x13E0	 /  / I enjoyed our spar, Zuljalal. / You have a good blade hand. | 
+0x13E1	 /  / Hey, Honeydew. / What are you looking at? | These walls, Marle
+0x13E2	 /  / Lord Lori, is it wise for you / to have joined our plight? | T
+0x13E3	 /  / Breathe in... / then breathe out. |  / Are you with me? | Yes, I'm
+0x13E4	 /  / Lord Lori, on behalf of Lomsk, / I am grateful you've joined
+0x13E5	 /  / Lord Lori, I've been contemplating / your words the past few
+0x13E6	 /  / What the... / a bald woman? | I have a name, you know. | Pardon 
+0x13E7	 /  / Say, Anwen. |  / What do you priestly / types do for fun? | Beg pa
+0x13E8	 /  / Erasmus! |  / Do you still carry around those / rosemary cracker
+0x13E9	 /  / Zuzana, is that... tobacco? | What else does it look like? |  / 
+0x13EA	 /  / Hm, nice axe. | Right back at you, Lord Lori. |  / Where'd you l
+0x13EB	 /  / Don't think I'm going to drop / what you just told me earlie
+0x13EC	 / Let's see. |  / I have three blueberry, two / cranberry walnut, a
+0x13ED	 /  / Are you alright? | Excuse me, sir. | Yes? | I wanted to thank yo
+0x13EE	 /  / Ah! Lord Onderdonk! | I am not a lord, Jae. / Just Onderdonk. | 
+0x13EF	 /  / Thank you for inviting me / here today, Lord Alexander. |  / I a
+0x13F0	Meanwhile, in the neighboring / state of Horschadt... | 
+0x13F1	 /  / Hey, hey Naia! |  / Is Mahala always this / danged hot? |  / I'm not
+0x13F2	 /  / Hey, Natsuko. / What's the Queen like? | Queen Akela's a stron
+0x13F3	 /  / Dreyfus! / Hey, Dreyfus! | Hey there, Cashew. / What's going on?
+0x13F4	 /  / Aw, heck. | Hm? What's wrong, Marlen? / You're looking awfully
+0x13F5	 /  / More... running... sigh... | Hollace? Are you doing okay? |  / Y
+0x13F6	Galbreth
+0x13F8	Bulstrode
+0x13F9	A bowyer and merchant / from Balti. Inquisitive.
+0x13FA	Fyodor
+0x13FC	If all the merchants die, you / will get a game over. | 
+0x13FD	Healing Power (Pandan)
+0x13FE	 /  / Brother! |  / You look like you didn't sleep / well at all last 
+0x13FF	 /  / Hey there, Gunnar! |  / You're looking mighty glum. / Come to th
+0x1400	 /  / Can't believe we have to lug / back these stinkin' logs. |  / To
+0x1401	They Can't Handle Me (Pandan)
+0x1402	Sharp Cheddar (Pandan)
+0x1403	They Call Him The Harpoon (Pandan)
+0x1404	If She Believes In Me (Pandan)
+0x1405	 /  / Captain Obermueller! | Eh? Cashew? / What are you up to? | Well,
+0x1406	 / Oof... I can't let down / my troops... |  / I must pull back and / 
+0x1408	A livestock merchant from Balti. / Specializes in chicken re-s
+0x1409	 /  /  / So, your lords are not all / too differnt from Kuchingi chi
+0x140A	Honeydew was proud of her / contributions after the journey. / S
+0x140B	Accept sidequest? / 
+0x140C	Creates a barrier / on an adjacent / space.
+0x140D	Sell for 2,500 / gold.
+0x140E	Sells for / 10,000 gold.
+0x140F	Gazelle
+0x1410	A graceful and skittish / antelope. Known for speed.
+0x1412	 ll
+0x1413	A juvenile antelope / that's lost its way.
+0x1414	Yogya
+0x1415	Chief of the Kalijaga. / A practical and prideful man.
+0x1416	Storch returned home a hero, but / he never cared much for the
+0x1417	Anisa and Kusuma returned to / Kuching, where they continued t
+0x1418	 / Sigh... |  / Why do I keep doing / this to myself? |  / Another sleep
+0x1419	Thirty minutes later... | 
+0x141A	 /  / ... It was not until my / thirteenth birthday, |  / when Chief R
+0x141C	 /  / Chief, we're nearing the / border now. |  / But I can see a few / 
+0x141D	Tomoko (Queen of Hearts '98)
+0x141E	Simian Segue (DKC)
+0x141F	Stage (Puzzle Bobble)
+0x1420	7 AM (Animal Crossing)
+0x1421	 / Another day, another fight. / Pulled in a nice haul this week
+0x1422	Kasuyu
+0x1423	 / Oh, heck! This ain't right. |  / Did I forget to do  / something 
+0x1424	 / There we go. / Right as rain. | 
+0x1425	 / Chief! |  / A gazelle has successfully / escaped into our territo
+0x1426	 /  / Chief Yogya! There is no / need for us to fight. |  / You would 
+0x1427	 /  / Chief Yogya, we are enclosing / around the stray gazelles. |  / 
+0x1428	 / Hear me, Chief Yogya of / the Kalijaga! |  / You will not pursue 
+0x1429	 / Hmph. Well, hear me, / Chief Waluyo! |  / The affairs of my peopl
+0x142A	 /  /  / Is he mad!? |  / His men are approaching / with their bows draw
+0x142B	The gazelles will attept to flee / to the top left of the map.
+0x142C	 /  / That's quite a story, Chief. |  / What happened to / Chief Yogya
+0x142D	 / Is he truly so dense / to fight over gazelles? |  / We will lose 
+0x142E	 / So... it's come to this. |  / Chief Waluyo, I will teach you / to
+0x142F	 / So, Chief Waluyo and Chief / Yogya are skirmishing? |  / This doe
+0x1430	 / What? Those poor ol' gazelles / are in danger? |  / What can I do
+0x1431	 / Fighting over gazelles? |  / Fools, they've left the towns / ungu
+0x1432	Seaside Hill (Sonic Heroes)
+0x1433	 / Hrrngh... these injuries... |  / Chief! I must fall back. / The r
+0x1434	 / Chief, I'm going to have / to fall back! |  / Do not allow yourse
+0x1435	 / I will not die yet. / My people still need me. |  / Alright men, 
+0x1436	 / Chief Yogya, I urge you / to back down. |  / You are trespassing 
+0x1437	 / The Dark Stallion himself! |  / What an honor it is to / face you
+0x1438	 / Oh ho! |  / The Chief himself! / I admire your courage. |  / Your fat
+0x1439	 / I am Chief Yogya of / the Kalijaga. |  / I hold no qualms against
+0x143A	Thanks again for playing! / Here you can access the prep / scree
+0x143B	Orebro, shortly after Emperor / Titus is crowned. | 
+0x143C	 /  / Hm, so this is our party? |  / Not as many as I would've / hoped
+0x143D	 / I've brought you / all a few things. |  / Use them wisely. / It is 
+0x143E	 /  / All of this and no / desserts? |  / Gunnar, you aren't / much of a
+0x1440	A sword of awesome power.
+0x1441	Find Blade
+0x1442	Recover the blade
+0x1443	 /  / Where did you send / the others? | They're on watch / outside of
+0x1444	 /  / You've caused quite / a disturbance here. |  / I'm afraid I cann
+0x1445	 /  / Keep moving. / There's no time. | But what about Cassius? / And 
+0x1446	Voices of the Temple (DKC)
+0x1447	Venus Lighthouse (GS)
+0x1448	Guile theme (SF2)
+0x1449	 / So this is the deserter that / has everyone so worried? |  / ...C
+0x144A	 /  / Hey!  / Are you with this militia? |   / I'm here with Lord Titu
+0x144B	 /  / Hey!  / Are you with this militia? |  / I'm here with Lord Titus
+0x144D	 / My son... |  / Your father is here / to avenge you. |  / Storch, you 
+0x144E	 /  /  /  / Ah, there he is. |  / The prettiest girl / at the ball. |  / Sleep
+0x144F	 /  / L-lord Titus... We came here to / join your ranks, but... |  / C
+0x1450	 /  / Captain Zoya? |  / General Lesley's younger sister? |  / Have you 
+0x1451	 /  / Thank you for coming. / I'm grateful for your help. | Huh? Who
+0x1452	 /  / Y-you... You're with / Lord Titus, right? | Yeah, and? | Thank y
+0x1453	 /  / Captain Zoya? / I see you've made your choice. | Helga, well m
+0x1454	 /  / Captain Zoya's right-hand man. / So that must be... Damn. | Y-
+0x1455	 /  / Could it truly be / the Great Chief? |  / Chief Waluyo, it is an
+0x1456	 /  / Hey, are you alright? / You look okay, but... | Yes, I'm fine.
+0x1457	 / I suppose I was misguided earlier. / That armored slug, Blanc
+0x1458	Survive for / 13 turns
+0x1459	Defeat Augustyn / and Pawel
+0x145A	Survive for 8 turns / or defeat Oosterhout
+0x145B	Defeat Tompkins
+0x145C	Survive for 8 turns / / Save Chickens
+0x145D	i10t/ / t
+0x145E	Survive for 9 turns / or rout enemy
+0x145F	tItt / mtili17t / 
+0x1460	Escort Fitzpatrick / to the gate
+0x1461	Seize gate / in 25 turns
+0x1462	Relax
+0x1463	 /  / Hm, so this is our party? |  / Not as many as I would've / hoped
+0x1464	 /  / You've caused quite / a disturbance here. |  / I'm afraid I cann
+0x1465	 / I cannot die here... / The mission... |  / I must nurse / this woun
+0x1466	 / Heck! I ain't dyin' / for this. I'm out! |  / You're on your / own 
+0x1467	Escape / / Protect Logs
+0x1468	 /  /  / Ahoy, Chief! |  / You must be the ruler of / the brave militiam
+0x1469	 /  /  / Ahoy, Chief! |  / You must be the ruler of / the brave militiam
+0x146A	 /  /  / Ahoy, Chief! |  / You must be the ruler of / the brave militiam
+0x146B	 /  /  /  / Storch. / It isn't safe here anymore. |  / There's no sense in
+0x146C	 /  /  / Storch. / It isn't safe here anymore. |  / There's no sense in 
+0x146D	 /  /  / Storch. / It isn't safe here anymore. |  / There's no sense in 
+0x146E	 /  /  / Here we are, the graveyard. |  / While it'll be our resting p
+0x146F	 /  /  / Thanks again for / the guide, Dewi. |  / I take it you've spent
+0x1470	 /  / Tight-lipped to the end... / This whole encounter spooked me
+0x1471	 / ... That was six years ago. / Now Chief Yogya is dead... |  / I h
+0x1472	 /  / Those brothers are  / a dastardly pair. |  / Glad we could give 
+0x1473	 /  / Those brothers are  / a dastardly pair. |  / Glad we could give 
+0x1474	 / Daryl... Just as quick / as he came, he's gone. |  / I thought my
+0x1475	 / Well, that was worthless. / Marjorie... No, Mango. |  / Never tho
+0x1476	 / Are you with the militia? / Get up! |  / Oof... |  / Thanks for helpi
+0x1477	 /  / Hey, you. What're you / sneaking around for? |  / We're your esc
+0x1478	 /  / If we're to rest easy, we'll need to / search thoroughly for
+0x1479	 /  / Storch! / We must keep moving! | But to where? |  / Everywhere we 
+0x147A	1-1
+0x147B	1-2
+0x147C	1-3
+0x147D	1-4
+0x147E	1-5
+0x147F	1-6
+0x1480	1-7
+0x1481	1-7x
+0x1482	1-7xx
+0x1483	1-8
+0x1484	1-9
+0x1485	1-10
+0x1486	1-11
+0x1487	1-E
+0x1488	2-1
+0x1489	2-1x
+0x148A	2-2
+0x148B	2-3
+0x148C	2-3x
+0x148D	2-4
+0x148E	2-5
+0x148F	2-5x
+0x1490	2-6
+0x1491	2-7
+0x1492	2-E
+0x1493	3-1
+0x1494	3-2
+0x1495	3-3
+0x1496	3-3x
+0x1497	3-4
+0x1498	3-5
+0x1499	3-E
+0x149A	4-1
+0x149B	4-1x
+0x149C	4-2
+0x149D	4-3
+0x149E	4-3x
+0x149F	4-4
+0x14A0	4-5
+0x14A1	4-6
+0x14A2	4-E
+0x14A3	Endgame X
+0x14A8	Endgame
+0x14A9	Unit Review
+0x14AA	Aftermath
+0x14AB	 /  / Naia,  / are you certain this is the right way? |  / Natsuko fle
+0x14AC	 /  /  / Here we are,  / the central shopping district. |  / It's huge! | 
+0x14AD	 /  /  / This isn't good... / Were you followed? | Dang... Are these m
+0x14AE	 / We don't have much time. / We gotta rush for that boat! |  / I kn
+0x14AF	 / Heck... |  / You have done enough, Freyja. |  / Keep watch at the e
+0x14B0	 / This is no good... / But I must press on... |  / Do not squander 
+0x14B1	 / Oof... / Let my guard down... |  / Leave this to us, Radoslav. |  / Y
+0x14B2	 / Oof... I had best observe / from further away. |  / Perhaps they / 
+0x14B3	Ch. 1
+0x14B4	Ch. 2
+0x14B5	Ch. 3
+0x14B6	Ch. 4
+0x14B7	Ch. 5
+0x14B8	Ch. 6
+0x14B9	Ch. 7
+0x14BA	Ch. 8
+0x14BB	Ch. 9
+0x14BE	Ch. 1x
+0x14BF	Ch. 3x
+0x14C0	Ch. 5x
+0x14C1	Ch. 7x
+0x14C2	Ch. 7

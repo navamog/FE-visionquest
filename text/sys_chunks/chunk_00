@@ -1,0 +1,660 @@
+0x0001	 [X]
+0x0003	broke!
+0x0004	is gone.
+0x0005	Got 
+0x0006	gold.[X]
+0x0007	gold was stolen.
+0x0008	Got 
+0x0009	was pilfered.[X]
+0x000A	Stole 
+0x000B	was stolen.[X]
+0x000C	Support Lv. increased.
+0x000D	You can now use 
+0x000E	You can now use 
+0x000F	Dropped 
+0x0010	Sent [X]
+0x0011	.[X]
+0x0012	The village was destroyed.
+0x0013	Strength increased.[X]
+0x0014	Magic increased.
+0x0015	Skill increased.
+0x0016	Speed increased.
+0x0017	Luck increased.[X]
+0x0018	Defense increased.
+0x0019	Resistance increased.[X]
+0x001A	Movement increased.[X]
+0x001B	Constitution increased.[X]
+0x001C	Max HP increased.[X]
+0x001D	Maturity increased.[X]
+0x001E	Level lost.[X]
+0x001F	Level lost.[X]
+0x0020	Disabled trap.
+0x0021	Recovered mine.[X]
+0x0022	.[X]
+0x0023	Change
+0x0024	Cancel
+0x0025	Dummy[X]
+0x0026	 Release Entry
+0x0027	 Continue Chp.
+0x0028	 Manual Cont.[X]
+0x0029	 Initialize File
+0x002A	 World Map
+0x002B	Viwer Map[X]
+0x002C	Viewr Face
+0x002D	Viewr BG
+0x002E	  MODE  Tutorial
+0x002F	  MODE  Normal
+0x0030	  MODE  Hard
+0x0031	  BASE  Capture[X]
+0x0032	  BASE  Devil A[X]
+0x0033	  BASE  Devil B[X]
+0x0034	  BASE  Devil C[X]
+0x0035	N/A[X]
+0x0036	At
+0x0037	Mov[X]
+0x0038	Cure
+0x0039	Status
+0x003A	blanket100
+0x003B	blanket80[X]
+0x003C	blanket50[X]
+0x003D	move off100[X]
+0x003E	move off80
+0x003F	move off50
+0x0040	none
+0x0041	Natasha off[X]
+0x0042	Lead
+0x0043	11b citizen off[X]
+0x0044	Lyn[X]
+0x0045	Roy[X]
+0x0046	gate keeper[X]
+0x0047	leader
+0x0048	cure
+0x0049	cure move off[X]
+0x004A	steal[X]
+0x004B	door Open[X]
+0x004C	Ruthea off
+0x004D	Leyvan off
+0x004E	Demon King
+0x004F	near
+0x0050	near Clarine
+0x0051	Douglas[X]
+0x0052	none
+0x0053	loot
+0x0054	loot abscise
+0x0055	2[X]
+0x0056	2 Clarine[X]
+0x0057	circuit[X]
+0x0058	random
+0x0059	to Eirika[X]
+0x005A	to Ephraim
+0x005B	abscise[X]
+0x005C	to bases
+0x005D	break wall
+0x005E	ignore near[X]
+0x005F	area
+0x0060	1T loot wait
+0x0061	1T near wait
+0x0062	bear
+0x0063	normal
+0x0064	strong
+0x0065	very bear[X]
+0x0066	vert strong[X]
+0x0067	fine
+0x0068	poison
+0x0069	sleep[X]
+0x006A	close[X]
+0x006B	angry[X]
+0x006C	Dance Attack
+0x006D	Dance Defence[X]
+0x006E	Dance Skill[X]
+0x006F	Dance Avoid[X]
+0x0070	sick
+0x0071	recover[X]
+0x0072	stone[X]
+0x0073	shield
+0x0074	stone counterattack[X]
+0x0075	1/4[X]
+0x0076	2/4[X]
+0x0077	3/4[X]
+0x0078	4/4[X]
+0x0079	Pos[X]
+0x007A	Total S[X]
+0x007B	Total P[X]
+0x007C	CP Attack[X]
+0x007D	CP Move[X]
+0x007E	Counter[X]
+0x007F	Trust Level[X]
+0x0080	Support[X]
+0x0081	CritAvo[X]
+0x0082	SRAM info[X]
+0x0083	Vct[X]
+0x0084	Dft[X]
+0x0085	Adv[X]
+0x0086	E.D.
+0x0087	Pick
+0x0088	x[X]
+0x0089	Exp[X]
+0x008A	Favorite
+0x008B	This unit has no SRAM information[X]
+0x008C	mastery levels
+0x008D	TURN
+0x008E	2-CP
+0x008F	3-CP
+0x0090	Animation[X]
+0x0091	Terrain[X]
+0x0092	Unit
+0x0093	Combat
+0x0094	Subtitle Help[X]
+0x0095	Autocursor
+0x0096	Text Speed
+0x0097	Game Speed
+0x0098	Music[X]
+0x0099	Sound Effects[X]
+0x009A	Window Color
+0x009B	CPU Level[X]
+0x009C	Autoend Turns[X]
+0x009D	Unit Color
+0x009E	Show Objective
+0x009F	Controller
+0x00A0	Rank Display
+0x00A1	Show animation without backgrounds
+0x00A2	Show animation with backgrounds[X]
+0x00A3	Turn combat animation off[X]
+0x00A4	Set animation for each unit manually
+0x00A5	Set unit movement speed[X]
+0x00A6	Set unit movement speed (fast)
+0x00A7	Set message speed (slow)
+0x00A8	Set message speed[X]
+0x00A9	Set message speed (fast)
+0x00AA	Set message speed (autoscroll)
+0x00AB	Turn Terrain window on or off[X]
+0x00AC	Show normal unit window[X]
+0x00AD	Show unit window with tail
+0x00AE	Turn unit window off
+0x00AF	Show basic Combat Info window[X]
+0x00B0	Show detailed Combat Info window
+0x00B1	Turn Combat Info window off[X]
+0x00B2	Set Easy/Help Scroll display
+0x00B3	Set cursor to start on main hero
+0x00B4	Set turn to end automatically[X]
+0x00B5	Turn music on or off
+0x00B6	Turn sound effects on or off
+0x00B7	Change window color[X]
+0x00B8	Set enemy AI
+0x00B9	Set colors for individual units[X]
+0x00BA	Turn Chapter Goal display on or off[X]
+0x00BB	Set Control Window display
+0x00BC	Rank Display
+0x00BD	ON
+0x00BE	OFF[X]
+0x00BF	1[X]
+0x00C0	2[X]
+0x00C1	3[X]
+0x00C2	4[X]
+0x00C3	Slow
+0x00C4	Norm
+0x00C5	Fast
+0x00C6	Max[X]
+0x00C7	Solo
+0x00C8	Strat[X]
+0x00C9	Detail
+0x00CA	Panel[X]
+0x00CB	Burst[X]
+0x00CC	NO DATA[X]
+0x0140	Erase[X]
+0x0141	Back
+0x0142	Cancel
+0x0143	Start[X]
+0x0144	Copy
+0x0145	Save
+0x0146	Entry[X]
+0x0147	Base
+0x0148	LV
+0x014C	0[X]
+0x014D	1[X]
+0x014E	2[X]
+0x014F	3[X]
+0x0150	4[X]
+0x0151	5[X]
+0x0152	6[X]
+0x0153	7[X]
+0x0154	8[X]
+0x0155	9[X]
+0x0156	N/A[X]
+0x0157	Ch.[X]
+0x0158	x[X]
+0x0159	Final[X]
+0x015A	Prologue
+0x015B	Side
+0x015C	Alter[X]
+0x015D	Turns[X]
+0x015E	 [X]
+0x015F	Total Turns[X]
+0x017C	Scorched Sand[X]
+0x017E	River of Regrets
+0x017F	Two Faces of Evil[X]
+0x0180	Last Hope[X]
+0x0181	Darkling Woods
+0x0182	Sacred Stone
+0x0183	Sacred Stone
+0x0185	Tower of Valni 2
+0x018C	Tower of Valni 9
+0x018D	Tower of Valni 10[X]
+0x0191	Lagdou Ruins 4
+0x0192	Lagdou Ruins 5
+0x0193	Lagdou Ruins 6
+0x0194	Lagdou Ruins 7
+0x0195	Lagdou Ruins 8
+0x0196	Lagdou Ruins 9
+0x0197	Lagdou Ruins 10[X]
+0x0198	Castle Frelia[X]
+0x0199	Melkaen Coast[X]
+0x019A	Creeping Darkness[X]
+0x019B	Phantom Ship
+0x019C	Survive[X]
+0x019D	Defeat boss[X]
+0x019E	Defeat Ghirken
+0x01A0	Seize gate
+0x01A1	Seize throne
+0x01B3	Defeat Borst
+0x01B5	Escort
+0x01B6	Rout
+0x01BA	Defeat Cruller
+0x01BC	Save Villagers[X]
+0x01C1	Left
+0x01C2	Turn
+0x01C3	Last Turn[X]
+0x01C4	[7F][7F]
+0x01C5	Plain[X]
+0x01C6	Road
+0x01C7	Village[X]
+0x01C8	Village[X]
+0x01C9	House[X]
+0x01CA	Armory
+0x01CB	Vendor
+0x01CC	Arena[X]
+0x01CD	C.Room
+0x01CE	Fort
+0x01CF	Gate
+0x01D0	Forest
+0x01D1	Thicket[X]
+0x01D2	Sand
+0x01D3	Desert
+0x01D4	River[X]
+0x01D5	Mntn
+0x01D6	Peak
+0x01D7	Bridge
+0x01D8	Bridge
+0x01D9	Sea[X]
+0x01DA	Lake
+0x01DB	Floor[X]
+0x01DC	Floor[X]
+0x01DD	Fence[X]
+0x01DE	Wall
+0x01DF	Wall
+0x01E0	Rubble
+0x01E1	Pillar
+0x01E2	Door
+0x01E3	Throne
+0x01E4	Chest[X]
+0x01E5	Chest[X]
+0x01E6	Roof
+0x01E7	Gate
+0x01E8	Church
+0x01E9	Ruins[X]
+0x01EA	Cliff[X]
+0x01EB	Ballista
+0x01EC	Long B
+0x01ED	Killer B
+0x01EE	Flat
+0x01EF	Wreck[X]
+0x01F0	[7F][7F]
+0x01F1	Stairs
+0x01F2	[7F][7F]
+0x01F3	Glacier[X]
+0x01F4	Arena[X]
+0x01F5	Valley
+0x01F6	Fence[X]
+0x01F7	Snag
+0x01F8	Bridge
+0x01F9	Sky[X]
+0x01FA	Deeps[X]
+0x01FB	Ruins[X]
+0x01FC	Inn[X]
+0x01FD	Barrel
+0x01FE	Bone
+0x01FF	Dark
+0x0200	Water[X]
+0x0201	Gunnels[X]
+0x0202	Deck
+0x0203	Brace[X]
+0x0204	Mast
+0x0205	Current[X]
+0x0206	Record
+0x0207	# Cleared
+0x0208	Monsters
+0x0209	Exp[X]
+0x020A	Units Used
+0x020B	Turns[X]
+0x020C	Time
+0x020D	:[X]
+0x020E	1 year ago
+0x020F	1 1/2 years ago[X]
+0x0210	2 years ago[X]
+0x0211	3 years ago[X]
+0x0212	Storch
+0x0216	Lera
+0x0218	Marlen
+0x0219	Larisa
+0x021B	Onisim
+0x021C	Dewi
+0x0220	Waluyo
+0x0221	Ruslan
+0x0222	Zoya
+0x0225	Tien
+0x0227	Naia
+0x0228	Vernon
+0x022A	Freyja
+0x022C	Nate
+0x022E	Kusuma[X]
+0x0235	Morva[X]
+0x0236	Zard
+0x0239	Cutter
+0x023C	Stoise
+0x023E	Garrison
+0x023F	Gelt
+0x0240	Gradin
+0x0241	Orland
+0x0245	Deni
+0x0246	Stroganoff
+0x0247	Reisma
+0x0248	Wellington[X]
+0x0249	Turken
+0x024C	Festan[X]
+0x024D	Supply
+0x024F	Lesley
+0x0250	Hunter
+0x0251	Pirate
+0x0253	Mercenary[X]
+0x0254	Bandit
+0x0255	Bergen
+0x0256	Monster[X]
+0x0257	Entombed
+0x0258	Maelduin
+0x0259	Cyclops[X]
+0x025A	Fomortiis[X]
+0x025C	Gunnar
+0x025E	Mansel
+0x025F	Dara
+0x0262	Frelian[X]
+0x0263	Ofenloch
+0x0264	Citizen[X]
+0x0265	Prisoner
+0x0267	Kitozawa's[X]
+0x0268	Wall
+0x0269	Snag
+0x026A	Mark
+0x026B	Evil
+0x026C	Summonern[X]
+0x026D	Summon
+0x0274	Storch's little brother.[NL]Innocent and kind-hearted.
+0x027B	Titus' bodyguard. [NL]Quick to anger, but loyal.
+0x028A	Kuchingi cleric with a kind heart.[NL]Waluyo's bethrothed.
+0x028C	A Kuchingi brawler[NL]with a hearty laugh.
+0x0290	Leader of the Manakete tribe. He was[NL]turned into a draco zombie by Lyon.[X]
+0x0293	Dark mage of Orebro.[NL]Wise, yet playful.[NL]
+0x0298	A mercenary serving Lord Gradin.[NL]Notorious for taking dirty jobs.
+0x029C	An opportunistic brigand[NL]with a lust for victory.
+0x029E	Former Colonel in Mahala's army.[NL]Exiled for his crimes and extremist views.
+0x02A1	Knight captain from Nevan.[NL]Loathes Kuching.
+0x02A5	Commander of a cavalry[NL]unit in Belaro's army.
+0x02A7	The crown prince of Grado. He's fallen[NL]under the control of the Demon King.
+0x02AB	A mercenary fighting as part of[X][NL]Binks's force.
+0x02AC	One of the treasure hunters who[X][NL]have laid claim to this region.[X]
+0x02B0	Members of a cult,[NL]sworn on a forbidden oath.
+0x02B2	The Demon King, lord of darkness. His[X][NL]sole desire is to remake the world.[X]
+0x02B5	The pontifex of Rausten. He is a[NL]compassionate and pious ruler.
+0x02B7	An old woman of Caer Pelyn. Over 100[NL]years in age, she is a font of wisdom.
+0x02BA	A knight of Frelia, sworn in service[NL]of Hayden, the Sage King.[X]
+0x02BE	Temp.: Enemy Boss[X]
+0x02C2	Paladin[X]
+0x02C4	General[X]
+0x02C5	Thief[X]
+0x02C7	Hero
+0x02C8	Myrmidon
+0x02C9	Swordmaster[X]
+0x02CA	Assassin
+0x02CB	Archer
+0x02CC	Sniper
+0x02CF	Wyvern Lord[X]
+0x02D1	Mage
+0x02D2	Sage
+0x02D3	Mage Knight[X]
+0x02D4	Bishop
+0x02D5	Nomad[X]
+0x02D6	Nmd Trooper[X]
+0x02D7	Manakete
+0x02D9	Pupil[X]
+0x02DB	Rogue[X]
+0x02DC	Axe Fighter[X]
+0x02DD	Warrior[X]
+0x02DE	Brigand[X]
+0x02DF	Berserker[X]
+0x02E0	Great Knight
+0x02E1	Shaman
+0x02E2	Druid[X]
+0x02E3	Summoner
+0x02E4	Monk
+0x02E5	Bard
+0x02E6	Priest
+0x02E8	Falcoknight[X]
+0x02E9	Cleric
+0x02EA	Troubadour
+0x02EB	Valkyrie
+0x02EC	Dancer
+0x02ED	Soldier[X]
+0x02EE	Pirate
+0x02EF	Necromancer[X]
+0x02F0	Fleet[X]
+0x02F1	Phantom[X]
+0x02F3	Entombed
+0x02F4	Bonewalker
+0x02F5	Halberdier
+0x02F8	Cyclops[X]
+0x02F9	Mauthe Doog[X]
+0x02FA	Gwyllgi[X]
+0x02FC	Maelduin
+0x02FD	Mogall
+0x02FE	Arch Mogall[X]
+0x02FF	Gorgon
+0x0300	Gorgon Egg
+0x0301	Mage Armor
+0x0303	Draco Zombie
+0x0304	Demon King
+0x0305	Civilian
+0x0306	Pontifex
+0x0307	Queen[X]
+0x0308	Supply
+0x0309	Noble heirs to a ruling house.[NL]They possess great potential.[X]
+0x030D	Mounted knights with swift movement.[NL]Equip: Lances.
+0x030E	Mounted knights with superior[X][NL]abilities. Equip: Swords, lances.[X]
+0x0311	Multitalented knaves with an eye for[NL]riches. Equip: Swords.
+0x0312	Well-balanced professional soldiers-[NL]for-hire. Equip: Swords.
+0x0313	Seasoned veterans with remarkable[X][NL]skill. Equip: Swords, axes.[X]
+0x0316	Masters of the killing arts.[NL]Equip: Swords. Skill: Silencer.[X]
+0x0317	Warriors who use bows to attack from[NL]afar. Equip: Bows.
+0x0318	Archers of unparalleled accuracy.[X][NL]Equip: Bows.
+0x031A	High-flying knights vulnerable only to[NL]bows and magic. Equip: Lances.
+0x031C	Mounted knights with swift movement.[NL]Equip: Swords.
+0x031D	Magic wielders with solid skills but low[NL]physical strength. Equip: Anima.
+0x031F	Knights trained in both anima and[X][NL]staves. Equip: Anima, staves.[X]
+0x0321	Mounted plainsmen with good[X][NL]movement. Armed with bows.
+0x0322	An honorific given to nomads of[X][NL]great skill. Equip: Bows, swords.[X]
+0x0323	Mysterious tribesmen who can turn[X][NL]into dragons. Equip: Dragonstone.[X]
+0x0325	Mages in training with lofty[NL]aspirations. Equip: Anima.
+0x0326	Knaves who need no tools or keys to[X][NL]open locks. Equip: Swords. Skill: Pick.[X]
+0x0327	Ruffians with great strength but[NL]poor defense. Equip: Axes.
+0x0328	Stalwart warriors whose power is[NL]their pride. Equip: Axes, bows.[X]
+0x0329	Mighty mercenaries who thrive[X][NL]in mountains. Equip: Axes.
+0x032A	Fighters at home both in mountains[NL]and at sea. Equip: Axes.
+0x032C	Wielders of magic who are stronger,[X][NL]but slower, than mages. Equip: Dark.
+0x032D	Wielders of deep and ancient magic.[X][NL]Equip: Dark, staves.[X]
+0x032F	Users of light magic with high[NL]resistance. Equip: Light.[X]
+0x0330	Spiritual guides who use sacred[X][NL]staves to heal allies. Equip: Staves.[X]
+0x0331	Musicians whose melodies aid[NL]allies. Unable to attack.[X]
+0x0332	Airborne knights who resist magic but[X][NL]are weak against bows. Equip: Swords.[X]
+0x0333	Airborne knights who resist magic but[X][NL]are weak against bows. Equip: Lances.[X]
+0x0334	Swift sky warriors who shrug off[NL]magic attacks. Equip: Swords, lances.[X]
+0x0335	Holy women who use sacred staves to[X][NL]heal their allies. Equip: Staves.[X]
+0x0336	Maidens who wield staves from[X][NL]horseback. Equip: Staves.[X]
+0x0337	Battle maidens who wield both staves[NL]and light magic. Equip: Light, staves.
+0x0338	Dancers whose dances revitalize[X][NL]their allies. They cannot attack.[X]
+0x033A	Tough brawlers who call the[X][NL]sea their home. Equip: Axes.
+0x033B	Master of the Dark Stone who uses[X][NL]dark magic to command corpses.
+0x033C	Warships that patrol the open seas.[X][NL]They carry powerful ballistae.
+0x033D	Phantom warriors who possess great[NL]strength but vanish when attacked.
+0x033F	Reanimated corpses. They're not fast,[X][NL]but their talons rend flesh with ease.
+0x0340	Dead warriors given will by dark magic.[X][NL]They wield a variety of weapons.
+0x0342	Ruffians with great strength but[NL]poor defense. Equip: Bows.
+0x0344	One-eyed giants who use their[X][NL]strength to wield huge axes.
+0x0345	Blood-hungry demon dogs that attack[X][NL]with keen-edged fangs.
+0x0346	Savage, three-headed hellhounds.[NL]Their fangs are cruel death dealers.
+0x0347	A horse. Easily spooked.
+0x0348	Immensely fast and strong creatures[X][NL]who hunt with axes and bows.
+0x0349	Perilous floating orbs filled with[NL]blighting dark magic.[X]
+0x034A	Mogall whose dread power exceeds[NL]that of their lesser cousins.[X]
+0x034B	Comely and cursed, these creatures[NL]turn all who behold them into stone.
+0x034C	Eggs of lovely and deadly gorgons.
+0x034F	The revived corpse of a dragon. Its[X][NL]putrid breath decays all it touches.
+0x0350	This foul being is the master of the[NL]dark. Its power exceeds mortal ken.[X]
+0x0351	An innocent peasant lacking any[X][NL]combat skills at all.[X]
+0x0352	Spiritual leader of Rausten. He claims[NL]ancestry with the saintly Latona.[X]
+0x0353	The kingdom's highest authority. She[NL]is a popular ruler of great virtue.[X]
+0x0354	Iron Sword
+0x0355	Slim Sword
+0x0356	Steel Sword[X]
+0x0357	Silver Sword
+0x0358	Iron Blade
+0x0359	Steel Blade[X]
+0x035A	Silver Blade
+0x035C	Rapier
+0x035D	Brave Sword[X]
+0x035E	Shamshir
+0x035F	Killing Edge
+0x0360	Armorslayer[X]
+0x0361	Wyrmslayer
+0x0362	Light Brand[X]
+0x0363	Runesword[X]
+0x0364	Lancereaver[X]
+0x0365	Zanbato[X]
+0x0366	Sieglinde[X]
+0x0368	Wind Sword
+0x0369	Iron Lance
+0x036A	Slim Lance
+0x036B	Steel Lance[X]
+0x036C	Silver Lance
+0x036E	Brave Lance[X]
+0x036F	Killer Lance
+0x0370	Horseslayer[X]
+0x0371	Javelin[X]
+0x0372	Spear[X]
+0x0373	Axereaver[X]
+0x0374	King Sword
+0x0375	Siegmund
+0x0377	Dragonspear[X]
+0x0378	Heavy Spear[X]
+0x0379	Short Spear[X]
+0x037A	Iron Axe
+0x037B	Steel Axe[X]
+0x037C	Silver Axe
+0x037E	Brave Axe[X]
+0x037F	Killer Axe
+0x0380	Halberd[X]
+0x0381	Hammer
+0x0382	Devil Axe[X]
+0x0383	Hand Axe
+0x0384	Tomahawk
+0x0385	Swordreaver[X]
+0x0386	Swordslayer[X]
+0x0387	Dragon Axe
+0x0388	Battle Axe
+0x038A	Hatchet[X]
+0x038B	Iron Bow
+0x038C	Steel Bow[X]
+0x038D	Silver Bow
+0x038E	Wizard Bow
+0x038F	Killer Bow
+0x0390	Brave Bow[X]
+0x0392	Longbow[X]
+0x0393	Ballista
+0x0394	Iron Ballista[X]
+0x0395	Killer Ballista[X]
+0x0398	Dragonstone[X]
+0x0399	Stone Shard[X]
+0x039A	Demon Light[X]
+0x039B	Ravager[X]
+0x039C	Nightmare[X]
+0x03A1	Soma Thera
+0x03A2	Hand Bow
+0x03A3	Cleave Bow
+0x03A4	Wind Spear
+0x03A7	Yabusame
+0x03A8	Emblem Seal[X]
+0x03A9	Fire
+0x03AA	Thunder[X]
+0x03AB	Elfire
+0x03AC	Alacalibur
+0x03AD	Bolting[X]
+0x03AE	Fimbulvetr
+0x03AF	Orkaan[X]
+0x03B0	Lightning[X]
+0x03B1	Shine[X]
+0x03B2	Divine
+0x03B3	Purge[X]
+0x03B4	Aura
+0x03B6	Flux
+0x03B7	Luna
+0x03B8	Nosferatu[X]
+0x03B9	Fenrir[X]
+0x03BD	Stone[X]
+0x03BE	Evil Eye
+0x03BF	Long Dao
+0x03C1	Shadowshot
+0x03C2	Heal
+0x03C3	Mend
+0x03C4	Recover[X]
+0x03C5	Physic
+0x03C6	Fortify[X]
+0x03C7	Restore[X]
+0x03C8	Silence[X]
+0x03C9	Sleep[X]
+0x03CA	Berserk[X]
+0x03CB	Warp
+0x03CC	Rescue
+0x03CD	Torch[X]
+0x03CE	Hammerne
+0x03CF	Unlock
+0x03D0	Barrier[X]
+0x03D1	Gezond
+0x03D2	Dance[X]
+0x03D3	Play
+0x03D4	Angelic Robe
+0x03D5	Energy Ring[X]
+0x03D6	Secret Book[X]
+0x03D7	Speedwing[X]
+0x03D8	Goddess Icon
+0x03D9	Dragonshield
+0x03DA	Talisman
+0x03DC	Body Ring[X]
+0x03DD	Hero Crest
+0x03DE	Knight Crest
+0x03DF	Orion's Bolt
+0x03E0	Elysian Whip
+0x03E1	Lover's Ring
+0x03E2	Chest Key[X]
+0x03E3	Door Key
+0x03E4	Lockpick
+0x03E5	Vulnerary[X]
+0x03E6	Elixir
+0x03E7	Pure Water
+0x03E8	Antitoxin[X]
